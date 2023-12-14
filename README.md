@@ -4,15 +4,15 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) 
 
-**An awesome open-source list of ways to make your environment more psychologically safe . . . and therefore more profitable!"**
+**An awesome open-source list of ways to make your environment more psychologically safe . . . and coincidentally more successful"**
 
-This is a shortcut path to start studying **Data Science**. Just follow the steps to answer the questions, "What is Data Science and what should I study to learn Data Science?"
+This is a shortcut path to start studying **Psychological Safety**. Just follow the steps to answer the questions, "What is Psychological Safety, and what should I study to learn it?"
 
 ## Sponsors
 
-| Sponsor | Pitch |
+| Supporters | Pitch |
 | --- | --- |
-| --- | Be the first to sponsor! `github@academic.io` |
+| --- | Be the first to endorse! `submit a pull request` |
 
 
 
@@ -20,78 +20,162 @@ This is a shortcut path to start studying **Data Science**. Just follow the step
 
 ## Table of Contents
 
-- [What is Data Science?](#what-is-data-science)
-- [Where do I Start?](#where-do-i-start)
-- [Training Resources](#training-resources)
+- [What is Psychological Safety?](#whatis)
+- [Where do I start?  Article by Denise Cooper and Katrina Hardie in Psychology Today](#wherestart)
+- [The Best up front](#the-best-ones)
+  - [Gitlab guide](#gitlab)
+  - [Canada's guide](#canada)
+  - [Psych Safety online community](#psych-safety-co-uk)
+- [Quotes from key leaders](#quotes)
+- [Videos](#videos)
+- [Articles, webpages, etc.](#articles)
+- [Academic sources](#academia)
+- [O'Reilly Learning videos, playlists, books. Free through Mil OneSource, MWR Digital Libraries](#oreilly)
+- [HBR / HBS (Harvard)](#harvard)
+- [Podcasts](#podcasts)
+- [Emotional Intelligence (EQ) assessments](#eq-assessments)
   - [Tutorials](#tutorials)
   - [Free Courses](#free-courses)
   - [Massively Open Online Courses](#moocs)
   - [Intensive Programs](#intensive-programs)
   - [Colleges](#colleges)
-- [The Data Science Toolbox](#the-data-science-toolbox)
-  - [Algorithms](#algorithms)
-    - [Supervised Learning](#supervised-learning)
-    - [Unsupervised Learning](#unsupervised-learning)
-    - [Semi-Supervised Learning](#semi-supervised-learning)
-    - [Reinforcement Learning](#reinforcement-learning)
-    - [Data  Mining Algorithms](#data-mining-algorithms)
-    - [Deep Learning Architectures](#deep-learning-architectures)
-  - [General Machine Learning Packages](#general-machine-learning-packages)
-  - [Deep Learning Packages](#deep-learning-packages)
-    - [PyTorch Ecosystem](#pytorch-ecosystem)
-    - [TensorFlow Ecosystem](#tensorflow-ecosystem)
-    - [Keras Ecosystem](#keras-ecosystem)
-  - [Visualization Tools](#visualization-tools)
-  - [Miscellaneous Tools](#miscellaneous-tools)
-- [Literature and Media](#literature-and-media)
-  - [Books](#books)
-    - [Book Deals (Affiliated)](#book-deals-affiliated-)
-  - [Journals, Publications, and Magazines](#journals-publications-and-magazines)
-  - [Newsletters](#newsletters)
-  - [Bloggers](#bloggers)
-  - [Presentations](#presentations)
-  - [Podcasts](#podcasts)
-  - [YouTube Videos & Channels](#youtube-videos--channels)
-- [Socialize](#socialize)
-  - [Facebook Accounts](#facebook-accounts)
-  - [Twitter Accounts](#twitter-accounts)
-  - [Telegram Channels](#telegram-channels)
-  - [Slack Communities](#slack-communities)
-  - [GitHub Groups](#github-groups)
-  - [Data Science Competitions](#data-science-competitions)
-- [Fun](#fun)
-  - [Infographics](#infographics)
-  - [Datasets](#datasets)
-  - [Comics](#comics)
-- [Other Awesome Lists](#other-awesome-lists)
-  - [Hobby](#hobby)
-
-## What is Data Science?
-**[`^        back to top        ^`](#awesome-data-science)**
-
-Data Science is one of the hottest topics on the Computer and Internet farmland nowadays. People have gathered data from applications and systems until today and now is the time to analyze them. The next steps are producing suggestions from the data and creating predictions about the future. [Here](https://www.quora.com/Data-Science/What-is-data-science) you can find the biggest question for **Data Science** and hundreds of answers from experts.
+- [Consulting Firm contributions, some are pretty extensive](#mbb)
+- [Goodreads Listopia lists](#listopia)
+- [Navy and Marine Corps Guide to Relaxation](#relax)
+- [Excerpts from Canada's Occupational Health](#ccoh-excerpts)
+  - [Fact sheets](#fact-sheets)
+    - [Active Listening](#active-listening)
+    - [Addressing Conflicts](#addressing-conflicts)
+    - [Dealing with Stress in the Workplace](#workplace-stress)
+    - [Having Courageous Conversations](#courageous-convos)
+    - [Mental Health Introduction](#mental-health-intro)
+    - [Job Burnout](#job-burnout)
+    - [Psychosocial(#psych-safety) Risk Factors in the Workplace](#psychosocial)
+    - [Return to Work](#return-work)
+    - [Recognizing and Addressing Stigma at Work](#stigma)
+- [The Gitlab Handbook](#gitlab-handbook)
+  - [Emotional Intelligence](#emote-intel)
+    - [Psychological Safety](#safety-psych)
+    - [Psychological Safety Short Course](#short-course)
+    - [Understanding Social Styles](#social-styles)
+  - [Leadership](#leadership)
+    - [Leadership Table of Contents]
+    - [One to One](#1o1)
+    - [Managing Conflict](#manconf)
+    - [Crucial Conversations](#crucial-convos)
+    - [Effective Delegation](#effective-del)
+    - [High Output Management](#high-output)
+    - [Identifying and Addressing Burnout](#burnout)
+    - [Leading through Adversity](#thru-adversity)
+    - [No Matrix Organization](#no-matrix)
+    - [Skip Level Meetings](#skip-level)
+    - [Underperformance](#underperf)
+    - [Workforce Planning](#workfc-plan)
 
 
-| Link | Preview |
-| --- | --- |
-| [What is Data Science @ O'reilly](https://www.oreilly.com/ideas/what-is-data-science) | _Data scientists combine entrepreneurship with patience, the willingness to build data products incrementally, the ability to explore, and the ability to iterate over a solution. They are inherently interdisciplinary. They can tackle all aspects of a problem, from initial data collection and data conditioning to drawing conclusions. They can think outside the box to come up with new ways to view the problem, or to work with very broadly defined problems: “here’s a lot of data, what can you make from it?”_ |
-| [What is Data Science @ Quora](https://www.quora.com/Data-Science/What-is-data-science) | Data Science is a combination of a number of aspects of Data such as Technology, Algorithm development, and data interference to study the data, analyse it, and find innovative solutions to difficult problems. Basically Data Science is all about Analysing data and driving for business growth by finding creative ways. |
-| [The sexiest job of 21st century](https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century) | _Data scientists today are akin to Wall Street “quants” of the 1980s and 1990s. In those days people with backgrounds in physics and math streamed to investment banks and hedge funds, where they could devise entirely new algorithms and data strategies. Then a variety of universities developed master’s programs in financial engineering, which churned out a second generation of talent that was more accessible to mainstream firms. The pattern was repeated later in the 1990s with search engineers, whose rarefied skills soon came to be taught in computer science programs._ |
-| [Wikipedia](https://en.wikipedia.org/wiki/Data_science) | _Data science is an interdisciplinary field that uses scientific methods, processes, algorithms and systems to extract knowledge and insights from many structural and unstructured data. Data science is related to data mining, machine learning and big data._ |
-| [How to Become a Data Scientist](https://www.mastersindatascience.org/careers/data-scientist/) | _Data scientists are big data wranglers, gathering and analyzing large sets of structured and unstructured data. A data scientist’s role combines computer science, statistics, and mathematics. They analyze, process, and model data then interpret the results to create actionable plans for companies and other organizations._ |
-| [a very short history of #datascience](https://www.forbes.com/sites/gilpress/2013/05/28/a-very-short-history-of-data-science/) | _The story of how data scientists became sexy is mostly the story of the coupling of the mature discipline of statistics with a very young one--computer science.  The term “Data Science” has emerged only recently to specifically designate a new profession that is expected to make sense of the vast stores of big data. But making sense of data has a long history and has been discussed by scientists, statisticians, librarians, computer scientists and others for years. The following timeline traces the evolution of the term “Data Science” and its use, attempts to define it, and related terms._ |
-|[Software Development Resources for Data Scientists](https://www.rstudio.com/blog/software-development-resources-for-data-scientists/)|_Data scientists concentrate on making sense of data through exploratory analysis, statistics, and models. Software developers apply a separate set of knowledge with different tools. Although their focus may seem unrelated, data science teams can benefit from adopting software development best practices. Version control, automated testing, and other dev skills help create reproducible, production-ready code and tools._|
+## What is Psychological Safety?
+**[`^        back to top        ^`](#awesome-psychological-safety)**
+
+Sundar Pichai (Alphabet/Google): “Psychological safety is a cornerstone for collaboration and risk-taking, essential elements for driving innovation and success in our rapidly evolving industry.”
 
 ## Where do I Start?
-**[`^        back to top        ^`](#awesome-data-science)**
+**[`^        back to top        ^`](#awesome-psychological-safety)**
 
-While not strictly necessary, having a programming language is a crucial skill to be effective as a data scientist. Currently, the most popular language is _Python_, closely followed by _R_. Python is a general-purpose scripting language that sees applications in a wide variety of fields. R is a domain-specific language for statistics, which contains a lot of common statistics tools out of the box.
+[Splashy psych safety attachment from the UK MOD](#https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1099704/Psychological_Safety_in_MOD_Major_Programmes_Report.pdf)
 
-[Python](https://python.org/) is by far the most popular language in science, due in no small part to the ease at which it can be used and the vibrant ecosystem of user-generated packages. To install packages, there are two main methods: Pip (invoked as `pip install`), the package manager that comes bundled with Python, and [Anaconda](https://www.anaconda.com) (invoked as `conda install`), a powerful package manager that can install packages for Python, R, and can download executables like Git. 
+[Psychology Today: Creating Psychological Safety in the Workplace](#https://www.psychologytoday.com/us/blog/brain-reboot/202309/creating-psychological-safety-in-the-workplace)
+"KEY POINTS
+- Psychological safety boosts well-being, productivity, innovation, and job satisfaction, benefiting business.
 
-Unlike R, Python was not built from the ground up with data science in mind, but there are plenty of third party libraries to make up for this. A much more exhaustive list of packages can be found later in this document, but these four packages are a good set of choices to start your data science journey with: [Scikit-Learn](https://scikit-learn.org/stable/index.html) is a general-purpose data science package which implements the most popular algorithms - it also includes rich documentation, tutorials, and examples of the models it implements. Even if you prefer to write your own implementations, Scikit-Learn is a valuable reference to the nuts-and-bolts behind many of the common algorithms you'll find. With [Pandas](https://pandas.pydata.org/), one can collect and analyze their data into a convenient table format. [Numpy](https://numpy.org/) provides very fast tooling for mathematical operations, with a focus on vectors and matrices. [Seaborn](https://seaborn.pydata.org/), itself based on the [Matplotlib](https://matplotlib.org/) package, is a quick way to generate beautiful visualizations of your data, with many good defaults available out of the box, as well as a gallery showing how to produce many common visualizations of your data.
+- Commitment, communication, diversity, and a culture embracing improvement foster well-being and success.
 
- When embarking on your journey to becoming a data scientist, the choice of language isn't particularly important, and both Python and R have their pros and cons. Pick a language you like, and check out one of the [Free courses](#free-courses) we've listed below!
+Have you ever found yourself holding back a brilliant idea out of fear of ridicule or dismissal by your colleagues? This hesitation signifies a lack of psychological safety in the workplace. But imagine a different scenario—a workplace where you feel comfortable expressing your opinions openly, regardless of their imperfections. A place where you trust that your team members will listen respectfully and be receptive to your feedback. This is the kind of workplace where psychological safety thrives, the kind needed for employees and businesses in times of transformational change.
+
+Psychological safety in the workplace is a critical factor for promoting employee well-being, job satisfaction, and productivity. Practically speaking, it means individuals can share opinions, ask questions, and express concerns without facing negative consequences. When employees feel psychologically safe, they proactively solve problems. Executives see innovation, job satisfaction, and higher returns. But how can an organization achieve psychological safety?
+
+According to a study by Rockmann and colleagues (2019), workplace psychological safety is closely related to brain functions, enzymes, and processes that regulate emotions and cognitive processes. The amygdala, prefrontal cortex, and hypothalamus are key brain areas involved in psychological safety and emotional regulation. The amygdala, an almond-shaped structure located deep within the temporal lobe, plays a crucial role in processing emotional information, particularly fear and threat detection (Phelps & LeDoux, 2005). When employees feel psychologically unsafe in a workplace, the amygdala can become overactive, leading to heightened emotional responses and a heightened sense of threat.
+
+The prefrontal cortex, located in the front of the brain, involves cognitive processes such as decision-making, impulse control, and working memory. It regulates emotions, particularly negative emotions such as anxiety and fear (Davidson, Putnam, & Larson, 2000). When employees feel psychologically unsafe in the workplace, the prefrontal cortex can become less active, impairing their ability to regulate their emotions and making it more challenging to think clearly and make effective decisions.
+
+The hypothalamus, located in the brain's center, is critical in regulating the stress response (Ulrich-Lai & Herman, 2009). When employees feel psychologically unsafe, the hypothalamus can activate, releasing stress hormones such as cortisol and adrenaline. Over time, chronic activation of the stress response can lead to physical and mental health problems, such as anxiety, depression, and burnout (McEwen, 2007). Therefore, promoting workplace psychological safety is not only crucial for employees' well-being, but it can also lead to increased productivity and organizational success (Edmondson, 2018).
+
+Enzymes such as monoamine oxidase and catechol-O-methyltransferase (COMT) regulate emotional responses in the brain. Monoamine oxidase breaks down neurotransmitters such as serotonin, dopamine, and norepinephrine, crucial in regulating mood and emotional responses. COMT breaks down dopamine, which regulates emotional responses and reward-based learning. These enzymes can be influenced by environmental factors such as stress and social support, which can impact emotional regulation and psychological safety in the workplace.
+
+The Practical Value of Psychological Safety
+Businesses operate in an ever-changing landscape and a heightened level of transition. To manage the speed of change and keep costs in control, the best executives want every employee working as part of a team. They want teams to become more engaged in error prevention and for solutions to challenges to quickly emerge. To achieve that kind of speed and focus, psychological safety encourages honest feedback, quick adaptation, and personal growth to remain relevant in the market. Consequently, employees are more likely to contribute and help without needing to be asked to do so.
+
+Strategies for Creating Psychological Safety
+Creating psychological safety requires ongoing effort and commitment. Here are some tips to help you achieve it:
+
+Start with Leadership. Leaders set the tone. Effective leaders play a crucial role in fostering psychological safety by modeling desired behaviors, including acknowledging their own mistakes and demonstrating vulnerability.
+Encourage Open Communication. Active listening, non-judgmental feedback, and respectful communication contribute to an environment of psychological safety. Share stories and examples of how psychological safety has improved workplaces, recognize and encourage open communication, and engage employees in collaborative problem-solving.
+Foster Inclusivity. Encourage cognitive diversity as a driving factor for innovation. Create a workplace that celebrates and embraces cognitive differences, where everyone feels capable of sharing their ideas. Train employees to recognize and mitigate cognitive biases that can hinder critical thinking and data processing.
+Continuously Improve. Create an environment where it's acceptable to make mistakes and learn from them. Regularly evaluate policies and practices to ensure that they support psychological safety, making changes when necessary.
+Remember, creating psychological safety is an ongoing process that requires commitment from employers and employees alike. To foster a workplace culture that values psychological safety, promotes well-being, and drives business success is an intentional act of leadership.
+
+Denise Cooper is a executive trainer, author, podcast host, and Chief People Operations at Custom Health and Founder and CEO of Remarkable Leadership Lessons, a company that assists senior-level business leaders and managers in raising their game. Katrina Hardie is a Workplace Wellbeing Culture Consultant who helps individuals, leaders, and teams recognize how their work environment impacts their health, well-being and performance and teaches them methods to turn this around in a sustainable way."
+
+
+
+## The Best Sources
+
+https://handbook.gitlab.com/handbook/leadership/emotional-intelligence/ 
+
+https://handbook.gitlab.com/handbook/leadership/emotional-intelligence/psychological-safety-short-course/ 
+
+https://handbook.gitlab.com/handbook/leadership/emotional-intelligence/psychological-safety/ 
+
+https://handbook.gitlab.com/handbook/leadership/emotional-intelligence/social-styles/ 
+
+Similarly, Canada’s occupational safety agency has a great guide, not just for psychological safety (or psychosocial safety), but all safety factors
+https://www.ccohs.ca/oshanswers/psychosocial/phs/mentalhealth_checklist_phs.html 
+
+https://www.ccohs.ca/oshanswers/psychosocial/phs/phs_controllinghazards.html
+
+https://www.ccohs.ca/oshanswers/psychosocial/phs/phs_evaluation.html 
+
+https://www.ccohs.ca/oshanswers/psychosocial/ 
+
+https://www.ccohs.ca/oshanswers/ 
+
+https://www.ccohs.ca/oshanswers/psychosocial/mh/mentalhealth_risk.html 
+
+Excellent workup by US Surgeon General
+Workplace Mental Health & Well-Being — Current Priorities of the U.S. Surgeon General (hhs.gov)
+
+Psychological Safety community (UK-based but friendly, ready to field questions, and familiar with military aspects)
+Join the Psychological Safety Community – Psychological Safety, powered by Iterum Ltd (psychsafety.co.uk)
+
+Their Slack community direct link https://join.slack.com/t/psychsafety/shared_invite/zt-p0xlx85u-vjkgxHkrpQw4r7C0wU3tAA 
+
+What is Psychological Safety? History and Research – Psychological Safety, powered by Iterum Ltd (psychsafety.co.uk)
+
+Psychological Safety Tool Kit – Psychological Safety, powered by Iterum Ltd (psychsafety.co.uk)
+
+https://psychsafety.co.uk/five-key-elements-of-high-performing-teams-and-psychological-safety/ 
+
+https://amycedmondson.com/psychological-safety/ 
+
+https://assets.publishing.service.gov.uk/media/628e2e998fa8f55618cd3700/Leadership_Guide_-How_listening_and_learning_are_our_best_defence_-_May_2022.pdf 
+
+https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1099704/Psychological_Safety_in_MOD_Major_Programmes_Report.pdf 
+
+https://www.betterup.com/blog/why-psychological-safety-at-work-matters 
+
+https://ideas-in-action.lbl.gov/inclusion/psychological-safety 
+
+https://appel.nasa.gov/2022/10/24/critical-knowledge-insight-psychological-safety-for-effective-team-communication/ 
+
+https://humanfactors101.com/topics/safety-leadership/ 
+
+https://research.iscrr.com.au/prevention/workplace-risks/safety-culture-and-climate 
+Navy and Marine Corps Psychological and Emotional Well-being Psychological and Emotional Well Being (navy.mil) 
+
+Navy and Marine Corps Relaxation RELAXATION (navy.mil)
+
+
+
+
  
 ## Real World
 **[`^        back to top        ^`](#awesome-data-science)**

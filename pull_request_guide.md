@@ -4,12 +4,14 @@
 
 [Github's best practices](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/getting-started/best-practices-for-pull-requests)
 
+[Github's collaborating with pull requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests)
+
 [How to Create a Pull Request in GitHub *Correctly*](https://genicsblog.com/gouravkhunger/how-to-create-a-pull-request-in-github-correctly)
 
 "A guide that teaches you how to fork a GitHub repository, make changes and create pull requests in the correct way."
 
 
-###Basically: 
+Basically: 
 
 In the file name field:
 
@@ -35,9 +37,7 @@ Click Commit changes or Propose changes.
 
 
 
-
 or, basically: 
-
 
 
 
@@ -97,11 +97,3 @@ Tip: After you create a pull request, you can ask a specific person to review yo
 
 After your pull request has been reviewed, it can be merged into the repository.
 
-
-
-
-
-
-
-Background: 
-https://docs.github.com/en/pull-requests/collaborating-with-pull-requests

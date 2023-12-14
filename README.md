@@ -20,7 +20,7 @@ This is a shortcut path to start studying **Psychological Safety**. Just follow 
 
 ## Table of Contents
 
-- [What is Psychological Safety?](#whatis)
+- [What is Psychological Safety?](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#what-is-psychological-safety)
 - [Where do I start?  Article by Denise Cooper and Katrina Hardie in Psychology Today](#wherestart)
 - [The Best up front](#the-best-ones)
   - [Gitlab guide](#gitlab)
@@ -59,7 +59,7 @@ This is a shortcut path to start studying **Psychological Safety**. Just follow 
     - [Psychological Safety Short Course](#short-course)
     - [Understanding Social Styles](#social-styles)
   - [Leadership](#leadership)
-    - [Leadership Table of Contents]
+    - [Leadership Table of Contents](#lead-toc)
     - [One to One](#1o1)
     - [Managing Conflict](#manconf)
     - [Crucial Conversations](#crucial-convos)

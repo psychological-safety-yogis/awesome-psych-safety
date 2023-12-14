@@ -12,7 +12,7 @@ This is a shortcut path to start studying **Psychological Safety**. Just follow 
 
 | Supporters | Pitch |
 | --- | --- |
-| --- | Be the first to endorse! `submit a pull request` |
+| --- | Be the first to endorse! [`submit a pull request`](https://github.com/psychological-safety-yogis/awesome-psych-safety/pulls) |
 
 
 
@@ -23,8 +23,8 @@ This is a shortcut path to start studying **Psychological Safety**. Just follow 
 - [What is Psychological Safety?](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#what-is-psychological-safety)
 - [Where do I start?  Article by Denise Cooper and Katrina Hardie in Psychology Today](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#where-do-i-start)
 - [The Best up front](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#where-do-i-start)
-  - [Gitlab guide](#gitlab)
-  - [Canada's guide](#canada)
+  - [Gitlab guide](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#gitlab-example)
+  - [Canada's guide](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#canada-example)
   - [Psych Safety online community](#psych-safety-co-uk)
 - [Quotes from key leaders](#quotes)
 - [Videos](#videos)
@@ -118,6 +118,7 @@ Denise Cooper is a executive trainer, author, podcast host, and Chief People Ope
 
 
 ## The Best Sources
+**[`^        back to top        ^`](#awesome-psychological-safety)**
 
 ### Gitlab Example
 https://handbook.gitlab.com/handbook/leadership/emotional-intelligence/ 
@@ -142,38 +143,60 @@ https://www.ccohs.ca/oshanswers/
 
 https://www.ccohs.ca/oshanswers/psychosocial/mh/mentalhealth_risk.html 
 
-Excellent workup by US Surgeon General
-Workplace Mental Health & Well-Being — Current Priorities of the U.S. Surgeon General (hhs.gov)
-
+### Psych Safety community
 Psychological Safety community (UK-based but friendly, ready to field questions, and familiar with military aspects)
-Join the Psychological Safety Community – Psychological Safety, powered by Iterum Ltd (psychsafety.co.uk)
+[Join the Psychological Safety Community – Psychological Safety, powered by Iterum Ltd (psychsafety.co.uk)](https://psychsafety.co.uk/psychological-safety-community/)
 
 Their Slack community direct link https://join.slack.com/t/psychsafety/shared_invite/zt-p0xlx85u-vjkgxHkrpQw4r7C0wU3tAA 
 
-What is Psychological Safety? History and Research – Psychological Safety, powered by Iterum Ltd (psychsafety.co.uk)
+[What is Psychological Safety? History and Research – Psychological Safety, powered by Iterum Ltd (psychsafety.co.uk)](https://psychsafety.co.uk/about-psychological-safety/)
 
-Psychological Safety Tool Kit – Psychological Safety, powered by Iterum Ltd (psychsafety.co.uk)
+[Psychological Safety Tool Kit – Psychological Safety, powered by Iterum Ltd (psychsafety.co.uk)](https://psychsafety.co.uk/tool-kit/)
 
 https://psychsafety.co.uk/five-key-elements-of-high-performing-teams-and-psychological-safety/ 
 
-https://amycedmondson.com/psychological-safety/ 
+### Government Sources
+[Excellent workup by US Surgeon General
+Workplace Mental Health & Well-Being — Current Priorities of the U.S. Surgeon General (hhs.gov)](https://www.hhs.gov/surgeongeneral/priorities/workplace-well-being/index.html)
 
 https://assets.publishing.service.gov.uk/media/628e2e998fa8f55618cd3700/Leadership_Guide_-How_listening_and_learning_are_our_best_defence_-_May_2022.pdf 
 
 https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1099704/Psychological_Safety_in_MOD_Major_Programmes_Report.pdf 
 
-https://www.betterup.com/blog/why-psychological-safety-at-work-matters 
-
 https://ideas-in-action.lbl.gov/inclusion/psychological-safety 
 
 https://appel.nasa.gov/2022/10/24/critical-knowledge-insight-psychological-safety-for-effective-team-communication/ 
 
+https://research.iscrr.com.au/prevention/workplace-risks/safety-culture-and-climate 
+
+[Navy and Marine Corps Psychological and Emotional Well-being Psychological and Emotional Well Being (navy.mil)](https://www.med.navy.mil/Navy-and-Marine-Corps-Force-Health-Protection-Command/Population-Health/Health-Promotion-and-Wellness/Psychological-and-Emotional-Well-Being/)
+
+[Navy and Marine Corps Relaxation (navy.mil)](https://www.med.navy.mil/Navy-and-Marine-Corps-Force-Health-Protection-Command/Population-Health/Health-Promotion-and-Wellness/-RELAXATION/)
+
+### Other good ones
 https://humanfactors101.com/topics/safety-leadership/ 
 
-https://research.iscrr.com.au/prevention/workplace-risks/safety-culture-and-climate 
-Navy and Marine Corps Psychological and Emotional Well-being Psychological and Emotional Well Being (navy.mil) 
+https://www.betterup.com/blog/why-psychological-safety-at-work-matters 
 
-Navy and Marine Corps Relaxation RELAXATION (navy.mil)
+https://amycedmondson.com/psychological-safety/ 
+
+## Quotes from [Key business Leaders](https://newyorkimprovtheater.com/2023/11/21/10-business-leaders-endorse-psychological-safety-corporate-culture-leadership-team-building/)
+https://www.sciencedirect.com/science/article/abs/pii/S1053482217300013
+**[`^        back to top        ^`](#awesome-psychological-safety)**
+
+Satya Nadella (Microsoft): “Psychological safety is crucial for fostering a culture of innovation, where every team member feels empowered to contribute.”
+Sheryl Sandberg (Facebook): “Creating a workplace with psychological safety encourages employees to share their ideas and perspectives without fear of judgment.”
+Tim Cook (Apple): “Open communication and trust are foundational to psychological safety, enabling teams to collaborate effectively and drive success.”
+Susan Wojcicki (YouTube): “In a psychologically safe environment, employees are more likely to take risks, learn from failures, and contribute to a culture of continuous improvement.”
+Reed Hastings (Netflix): “A culture of candor and openness is essential for psychological safety, allowing teams to thrive and adapt in a fast-paced business landscape.”
+Ginni Rometty (IBM): “Psychological safety is key to fostering a climate of innovation, where employees feel encouraged to experiment and embrace change.”
+Brian Chesky (Airbnb): “Fostering a workplace culture that values diverse perspectives and encourages open communication is fundamental to psychological safety.”
+Arvind Krishna (IBM): “Continuous innovation is closely tied to psychological safety, where employees feel secure to challenge the status quo and propose new ideas.”
+Marc Benioff (Salesforce): “Trust and psychological safety go hand in hand, creating an environment where employees feel supported in taking risks and pushing boundaries.”
+Sundar Pichai (Alphabet/Google): “Psychological safety is a cornerstone for collaboration and risk-taking, essential elements for driving innovation and success in our rapidly evolving industry.”
+
+## Academic Sources
+**[`^        back to top        ^`](#awesome-psychological-safety)**
 
 
 

@@ -1,3 +1,5 @@
+# Guides online:
+
 [Jetbrains "A Guide to Perfecting Pull Requests"](https://www.jetbrains.com/help/mps/work-with-github-pull-requests.html#apply-pull-request-changes)
 
 [Making a Pull Request](https://www.atlassian.com/git/tutorials/making-a-pull-request)
@@ -11,7 +13,7 @@
 "A guide that teaches you how to fork a GitHub repository, make changes and create pull requests in the correct way."
 
 
-# Basically: 
+## Basically: 
 
 In the file name field:
 
@@ -37,7 +39,7 @@ Click Commit changes or Propose changes.
 
 
 
-# or, basically: 
+## or, basically: 
 
 
 

@@ -1,13 +1,14 @@
+[Jetbrains "A Guide to Perfecting Pull Requests"](https://www.jetbrains.com/help/mps/work-with-github-pull-requests.html#apply-pull-request-changes)
+
+[Making a Pull Request](https://www.atlassian.com/git/tutorials/making-a-pull-request)
+
+[Github's best practices](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/getting-started/best-practices-for-pull-requests)
+
 [How to Create a Pull Request in GitHub *Correctly*](https://genicsblog.com/gouravkhunger/how-to-create-a-pull-request-in-github-correctly)
+"A guide that teaches you how to fork a GitHub repository, make changes and create pull requests in the correct way."
 
 
-
-
-or
-
-
-
-
+#Basically:
 
 In the file name field:
 
@@ -34,11 +35,7 @@ Click Commit changes or Propose changes.
 
 
 
-
-
-or
-
-
+or, basically: 
 
 
 
@@ -98,3 +95,12 @@ To create a pull request that is ready for review, click Create Pull Request. To
 Tip: After you create a pull request, you can ask a specific person to review your proposed changes. For more information, see "Requesting a pull request review."
 
 After your pull request has been reviewed, it can be merged into the repository.
+
+
+
+
+
+
+
+Background: 
+https://docs.github.com/en/pull-requests/collaborating-with-pull-requests

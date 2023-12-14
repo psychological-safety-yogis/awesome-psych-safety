@@ -11,7 +11,7 @@
 "A guide that teaches you how to fork a GitHub repository, make changes and create pull requests in the correct way."
 
 
-Basically: 
+# Basically: 
 
 In the file name field:
 
@@ -37,7 +37,7 @@ Click Commit changes or Propose changes.
 
 
 
-or, basically: 
+# or, basically: 
 
 
 

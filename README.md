@@ -5,6 +5,13 @@
 
 # An awesome open-source list of ways to make your environment more psychologically safe . . . and coincidentally more successful"
 
+"Garr, Steve feels the safest pirate vibes at Regular Joe's Gym because it is most psychologically safe for Steve's special qualities."
+```
+      /| _________~~~~~
+O|===|* >_____________/
+      \| 
+````
+
 ## Table of Contents
 - [Table of Contents (You Are Here)](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#table-of-contents)
 - [How to edit Github READMEs and request changes](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#preamble-guide-to-github-and-editing-readmes)

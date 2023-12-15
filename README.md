@@ -103,7 +103,9 @@ Remember, creating psychological safety is an ongoing process that requires comm
 **[`^        back to top        ^`](#awesome-psychological-safety)**
 
 ## The Best Sources
+
 ### Gitlab guide
+
 https://handbook.gitlab.com/handbook/leadership/emotional-intelligence/ 
 
 https://handbook.gitlab.com/handbook/leadership/emotional-intelligence/psychological-safety-short-course/ 
@@ -113,7 +115,9 @@ https://handbook.gitlab.com/handbook/leadership/emotional-intelligence/psycholog
 https://handbook.gitlab.com/handbook/leadership/emotional-intelligence/social-styles/ 
 
 ### Canadian Centre on Occupational Health and Safety guide 
+
 Similarly, Canada’s occupational safety agency has a great guide, not just for psychological safety (or psychosocial safety), but all safety factors
+
 https://www.ccohs.ca/oshanswers/psychosocial/phs/mentalhealth_checklist_phs.html 
 
 https://www.ccohs.ca/oshanswers/psychosocial/phs/phs_controllinghazards.html
@@ -128,6 +132,7 @@ https://www.ccohs.ca/oshanswers/psychosocial/mh/mentalhealth_risk.html
 
 ### Psych Safety community
 Psychological Safety community (UK-based but friendly, ready to field questions, and familiar with military aspects)
+
 [Join the Psychological Safety Community – Psychological Safety, powered by Iterum Ltd (psychsafety.co.uk)](https://psychsafety.co.uk/psychological-safety-community/)
 
 Their Slack community direct link https://join.slack.com/t/psychsafety/shared_invite/zt-p0xlx85u-vjkgxHkrpQw4r7C0wU3tAA 
@@ -139,8 +144,8 @@ Their Slack community direct link https://join.slack.com/t/psychsafety/shared_in
 https://psychsafety.co.uk/five-key-elements-of-high-performing-teams-and-psychological-safety/ 
 
 ### Government Sources
-[Excellent workup by US Surgeon General
-Workplace Mental Health & Well-Being — Current Priorities of the U.S. Surgeon General (hhs.gov)](https://www.hhs.gov/surgeongeneral/priorities/workplace-well-being/index.html)
+
+[Excellent workup by US Surgeon General Workplace Mental Health & Well-Being — Current Priorities of the U.S. Surgeon General (hhs.gov)](https://www.hhs.gov/surgeongeneral/priorities/workplace-well-being/index.html)
 
 https://assets.publishing.service.gov.uk/media/628e2e998fa8f55618cd3700/Leadership_Guide_-How_listening_and_learning_are_our_best_defence_-_May_2022.pdf 
 
@@ -157,6 +162,7 @@ https://research.iscrr.com.au/prevention/workplace-risks/safety-culture-and-clim
 [Navy and Marine Corps Relaxation (navy.mil)](https://www.med.navy.mil/Navy-and-Marine-Corps-Force-Health-Protection-Command/Population-Health/Health-Promotion-and-Wellness/-RELAXATION/)
 
 ### Other good ones
+
 https://humanfactors101.com/topics/safety-leadership/ 
 
 https://www.betterup.com/blog/why-psychological-safety-at-work-matters 
@@ -167,22 +173,33 @@ https://amycedmondson.com/psychological-safety/
 
 ## Quotes from [Key business Leaders](https://newyorkimprovtheater.com/2023/11/21/10-business-leaders-endorse-psychological-safety-corporate-culture-leadership-team-building/)
 
-Satya Nadella (Microsoft): “Psychological safety is crucial for fostering a culture of innovation, where every team member feels empowered to contribute.”
-Sheryl Sandberg (Facebook): “Creating a workplace with psychological safety encourages employees to share their ideas and perspectives without fear of judgment.”
-Tim Cook (Apple): “Open communication and trust are foundational to psychological safety, enabling teams to collaborate effectively and drive success.”
-Susan Wojcicki (YouTube): “In a psychologically safe environment, employees are more likely to take risks, learn from failures, and contribute to a culture of continuous improvement.”
-Reed Hastings (Netflix): “A culture of candor and openness is essential for psychological safety, allowing teams to thrive and adapt in a fast-paced business landscape.”
-Ginni Rometty (IBM): “Psychological safety is key to fostering a climate of innovation, where employees feel encouraged to experiment and embrace change.”
-Brian Chesky (Airbnb): “Fostering a workplace culture that values diverse perspectives and encourages open communication is fundamental to psychological safety.”
-Arvind Krishna (IBM): “Continuous innovation is closely tied to psychological safety, where employees feel secure to challenge the status quo and propose new ideas.”
-Marc Benioff (Salesforce): “Trust and psychological safety go hand in hand, creating an environment where employees feel supported in taking risks and pushing boundaries.”
-Sundar Pichai (Alphabet/Google): “Psychological safety is a cornerstone for collaboration and risk-taking, essential elements for driving innovation and success in our rapidly evolving industry.”
+- Satya Nadella (Microsoft): “Psychological safety is crucial for fostering a culture of innovation, where every team member feels empowered to contribute.”
+
+- Sheryl Sandberg (Facebook): “Creating a workplace with psychological safety encourages employees to share their ideas and perspectives without fear of judgment.”
+
+- Tim Cook (Apple): “Open communication and trust are foundational to psychological safety, enabling teams to collaborate effectively and drive success.”
+
+- Susan Wojcicki (YouTube): “In a psychologically safe environment, employees are more likely to take risks, learn from failures, and contribute to a culture of continuous improvement.”
+
+- Reed Hastings (Netflix): “A culture of candor and openness is essential for psychological safety, allowing teams to thrive and adapt in a fast-paced business landscape.”
+
+- Ginni Rometty (IBM): “Psychological safety is key to fostering a climate of innovation, where employees feel encouraged to experiment and embrace change.”
+
+- Brian Chesky (Airbnb): “Fostering a workplace culture that values diverse perspectives and encourages open communication is fundamental to psychological safety.”
+
+- Arvind Krishna (IBM): “Continuous innovation is closely tied to psychological safety, where employees feel secure to challenge the status quo and propose new ideas.”
+
+- Marc Benioff (Salesforce): “Trust and psychological safety go hand in hand, creating an environment where employees feel supported in taking risks and pushing boundaries.”
+
+- Sundar Pichai (Alphabet/Google): “Psychological safety is a cornerstone for collaboration and risk-taking, essential elements for driving innovation and success in our rapidly evolving industry.”
 
 **[`^        back to top        ^`](#awesome-psychological-safety)**
 
 ## Videos: 
+
+
 | Title | Link |
-| --- | --- |
+| ------ | ----- |
 | Building a psychologically safe workplace Amy Edmondson TEDxHGSE | https://www.youtube.com/watch?v=LhoLuui9gX8 |
 | What is Psychological Safety, and How do you create Psychological Safety at Work? | https://www.youtube.com/watch?v=73FfNvGePMg |
 | How Google builds the perfect team, with Charles Duhigg | https://www.youtube.com/watch?v=v2PaZ8Nl2T4 |
@@ -202,6 +219,7 @@ Sundar Pichai (Alphabet/Google): “Psychological safety is a cornerstone for co
 | Why we (like Google) should strive for team psychological safety | https://www.youtube.com/watch?v=IH67P7EMnt0 |
 | How does psychological safety impact performance? | https://www.youtube.com/watch?v=2630mnn3U5Y |
 | The Neuroscience of Psychological Safety | https://www.youtube.com/watch?v=ugQuuHoI-zw |
+
 
 **[`^        back to top        ^`](#awesome-psychological-safety)**
 

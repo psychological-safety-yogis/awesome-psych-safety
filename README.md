@@ -5237,291 +5237,563 @@ It also gives the skips and senior leaders an opportunity to:
 What Skip-Levels Are Not
 
 It’s important to note that the following are not purposes for the skip level meetings:
+
 •	To check in on the performance of a manager by “going around them.”
+
 •	To manage priorities, career management, or perform any duties typically handled by a team member’s direct manager.
 Conducting skip level meetings
+
 1.	If your reports have multiple reports, a skip level meeting is required.
+
 2.	The skip level meeting is never recorded as it is a way to build trust with the team members.
+
 3.	Skip level meetings should be held at least quarterly. Whether or not you choose to organize them more frequently is at your discretion, and likely impacted by the number of skips you have.
-4.	Skip level meetings can be conducted one-on-one or in groups of no more than 10-15 (to encourage participation). You may prefer one approach over the other, or if you have too many skips one-on-one meetings may not be feasible.
-5.	If you’re able to do one-on-one skip levels, we recommend the first meeting with each skip be similar to a coffee chat - a free-form discussion with the intent to get to know each other.
-6.	Aside from any of these free-form initial skip levels, subsequent meetings should have a clear agenda. The first portion of the agenda should include anything you want to update or reinforce with your skips - review strategy, remind the team about areas of focus, etc. After that, there should be ample time for questions from the skips.
-7.	In order to recognize team members and highlight the visibility of their work, consider preparing for a skip by reviewing accomplishments of the attendees ahead of time and documenting those at the beginning of the agenda.
-8.	Don’t worry about repeating information in skip level meetings. One of the most common reactions managers have after they conduct skip levels is to say “I thought everybody knew that!” Remember that messages often have to be shared several times in several ways before they are communicated effectively.
-9.	Skip level meetings can also be a great place to solicit feedback from your skips. SKS questions, among other feedback mechanisms, make solid agenda items.
+
+5.	Skip level meetings can be conducted one-on-one or in groups of no more than 10-15 (to encourage participation). You may prefer one approach over the other, or if you have too many skips one-on-one meetings may not be feasible.
+
+6.	If you’re able to do one-on-one skip levels, we recommend the first meeting with each skip be similar to a coffee chat - a free-form discussion with the intent to get to know each other.
+
+7.	Aside from any of these free-form initial skip levels, subsequent meetings should have a clear agenda. The first portion of the agenda should include anything you want to update or reinforce with your skips - review strategy, remind the team about areas of focus, etc. After that, there should be ample time for questions from the skips.
+
+8.	In order to recognize team members and highlight the visibility of their work, consider preparing for a skip by reviewing accomplishments of the attendees ahead of time and documenting those at the beginning of the agenda.
+
+9.	Don’t worry about repeating information in skip level meetings. One of the most common reactions managers have after they conduct skip levels is to say “I thought everybody knew that!” Remember that messages often have to be shared several times in several ways before they are communicated effectively.
+
+10.	Skip level meetings can also be a great place to solicit feedback from your skips. SKS questions, among other feedback mechanisms, make solid agenda items.
+
 Having a large organization is not a reason to not conduct skip-level meetings. Senior leaders with a a large organizations can opt to conduct skip-levels in a rotational fashion. If meeting with everyone is not scalable, instead meet with a new group of skip-level team members each quarter (or more frequently).
+
 Learning From the CEO on Skip Level Meetings
+
 Other Resources
+
 •	Skip Levels podcasts on Manager-Tools
+
 •	The Art of the Skip Level Meeting
+
 •	Skip Level Meetings
+
 Last modified September 18, 2023 
 
 
  
  
+
 On This Page
+
 •	Introduction
+
 •	Training Video
+
 •	Managing Underperformance Handbook Learning Session
+
 o	Managing Performance at GitLab
+
 •	Warning Signs/Patterns of Underperformance
+
 o	Skills-based performance
+
 o	Will-based performance
+
 o	Team Member: Discuss Circumstances Immediately With Your Manager
+
 o	Loop in the Team Member Relations Partner
+
 o	Manager: Identify And Take Action As Early As Possible
+
 o	Immediately Discuss With The Manager’s Manager
+
 •	Frequency and Metrics
+
 •	Options For Remediation
+
 o	Performance Remediation
+
 •	Coaching
+
 •	Written Performance Letter
+
 o	Communication During Underperformance Remediation
+
 •	Performance Improvement Plan (PIP)
+
 o	
-	Not The First Step To Letting Someone Go
-	SMART Goals
-	CREDIT Values Applied To The PIP
-	Experience
-	PIP Process
-	PIP Compensation Impact
-o	Internal Applications and Transfers during underperformance remediation
+
+	Not The First Step To Letting Someone Go
+
+ SMART Goals
+ 
+ CREDIT Values Applied To The PIP
+
+ Experience
+
+ PIP Process
+
+ PIP Compensation Impact
+
+ Internal Applications and Transfers during underperformance remediation
+
 o	Talent Assessment and managing underperformance
+
 o	Letting Someone Go
+
 o	Underperformance in Senior Leadership
+
 1.	The Handbook
+
 2.	Leadership
+
 3.	Underperformance
+
 Underperformance
+
 We want team members to be successful and should offer every opportunity for them to work effectively.
+
 Introduction
+
 We want all our team members to be successful! We continuously strive to maintain a high standard of performance across the entire company and we are here to support our people leaders and team members along the way. We encourage regular and transparent communication across all areas of the business. We also fully recognize and accept that team members who do not meet the sustained performance expectations may be more successful at another company and we fully support those difficult conversations and decisions.
+
 In all cases, we want a manager who asks the question “Is this the best person I could hire today?” to respond with a “Yes”.
+
 Training Video
+
 Managing Underperformance Handbook Learning Session
+
 Managing and identifying underperformance can be one of the most difficult responsibilities of a manager, but it’s also one of the most important. As a people leader, fairness and transparency is essential with all team members, as is addressing performance or conduct concerns in a timely and structured way. During a CEO Handbook Learning Session, GitLab CEO, Sid, and the Learning and Development team discuss what underperformance is, how managing it aligns to our values, and the impact it can have on teams. You will be introduced to the signs to look for to identify underperformance, and we cover tips team members and managers can implement along the way.
+
 If someone is still not performing at an adequate level after going through the underperformance process, recognize that it’s not only better for the company for the team member to move on, it’s frequently also better for the team member. Making a decision to move the team member out of the role allows them to find a role where they can be successful, whether in or outside of GitLab. The longer you wait, the harder it will be to make a change. If it’s not going to work out, take action as soon as possible. - GitLab co-founder and CEO Sid Sijbrandij
+
 Managing Performance at GitLab
+
 GitLab strives to treat all team members with dignity and respect at all times. You can review GitLab’s Team Member Relation Philosophy which outlines how we treat all team members and provides guidelines for how we address issues within GitLab. The kindest thing we can do for our team members is to address any issue early and to provide a supportive environment where they can improve their performance. Failure to act early can greatly affect the performance of the team as a whole. Effective teams require cohesion, collaboration, and actively engaging and performing team members to be successful in reaching their goals. Without this cohesiveness, there is a risk to the overall team and GitLab’s success.
+
 Managing a team member who is underperforming is one of the more challenging aspects of the manager role. Though challenging, it is expected that all people leaders manage performance and provide team members with clear actionable feedback and guidance fairly and in a timely manner. Failure to appropriately address performance concerns in a timely manner is a reflection on the manager’s performance, and has a negative impact on the manager, team member, other team members and the business. GitLab uses the skill-based and will-based performance model to identify the root cause of the team members’ underperformance and to determine the suitable remediation plan. The remediation plan will be based on the type of performance issue. The Team Member Relations team is here to assist you in identifying the cause of the performance issue and can walk you through the performance management process that applies best to the situation. Below are definitions of skills-based and will-based concerns as well as the typical remediation plans. As with all situations, there may be unique circumstances that require unique remediation plans.
+
 Warning Signs/Patterns of Underperformance
+
 How do you know if a team member isn’t reaching their goals? Below are some common warning signs and patterns of underperformance as it relates to not meeting the expectations of the role.
+
 1.	Lack of results
+
 2.	Response time delayed
+
 3.	Unclear status of work
+
 4.	Frustration toward the team
+
 5.	Regular disagreements or confusion about individual / team the goals
+
 6.	Extended team frustration- Frustration from other team members
+
 7.	Team dynamic - teamwork, communication, delivery being affected
+
 8.	Other team members start working around them
+
 9.	Missed goals and timelines
+
 These are all signs of a performance issue, however, are these performance issues skill-based or will-based? Knowing the root cause of the performance issue enables the manager and team member to have open and transparent conversations to implement a plan to improve performance.
+
 Skills-based performance
+
 Team members may have the motivation to be successful but performance is impacted due to the possible following reasons:
+
 •	A lack of technical capability to be successful in their current role
+
 •	A lack of soft skills/emotional intelligence to be effective in their current role
+
 •	Inability to prioritize work effectively
+
 •	Lack of understanding of how to complete tasks required for role
+
 People Leaders continuosly review skill-based performance and can identify where issues may arise. They can then determine if the team member requires additional support in the form of coaching (verbal / written), specific training, additional tools/resources, guidance or assigning the team member a mentor or buddy for an agreed period of time.
+
 Will-based performance
+
 Team members who have the skills necessary to succeed in their current role but they lack the will to perform which can be evident in the following ways:
+
 •	Lack of motivation or not fully engaged
+
 •	Unprofessional behavior, actions or communication towards fellow team members
+
 •	Undesirable behavior that impedes the success of another Team member, Team or GitLab as a whole
+
 If a manager or any team member witnesses or is made aware of any team member behavior that violates our Code of Conduct they should immediately reach out to Team Member Relations at teammemberrelations@gitlab.com.
+
 Team Member: Discuss Circumstances Immediately With Your Manager
+
 Tell your manager immediately if there are circumstances in your life that cause you to be less effective. It isn’t required to give details if you prefer not to. Tell your manager when it started, to what extent it hinders your work, and what your forecast is for your circumstances to improve. When you delay this conversation until your manager identifies underperformance you’ve lost trust that would be helpful during this period. Team Member Relations can also be a resource for team members experiencing circumstances that are affecting their performance.
+
 Loop in the Team Member Relations Partner
+
 Looping in Team Member Relations early is essential. Team Member Relations can offer support, guidance, coaching, and partner with Legal to ensure compliance. Please be sure to align with your TMR Partner prior to delivering any formal action plan to team members. Formal action can include a Written Performance Letter, Verbal Warning, Written Warning, and a Performance Improvement Plan. Managers will partner with the team member relations group in the creation and delivery of any formal action.
+
 Important: While it’s never too early to involve Team Member Relations, if there are performance concerns without sustained improvement with informal manager lead coaching in place for 1 month or more, the TMR team should be looped in. Reaching out to the TMR team is critical to managing underperformance, and not doing so within a reasonable timeframe ultimately impacts the manager’s performance. Connecting with the TMR team ensures that feedback is being delivered in accordance with our guidance for giving feedback and in accordance with local labor law and regulations in the location of each individual. See the underperformance management related to manager performance section below for more detail.
+
 Manager: Identify And Take Action As Early As Possible
+
 The important thing to remember as a manager is to immediately address signs of underperformance. Taking action sooner allows more time for coaching to be effective and successful. In the early stage of the process it is important to identify the reasons why team members might not be meeting expectations for their role. We do this by reviewing previous performance history, ensuring the team member has been taking sufficient PTO (Paid Time Off) and also to check in with the team member that all is well with their personal circumstances and give them the opportunity to discuss this with you should they choose to share, so we can support.
+
 Immediately Discuss With The Manager’s Manager
+
 Taking early action to address underperformance is an essential manager skill and one of the most important ways to improve results. As a people leader, it is best practice to inform your manager as a priority when you’ve identified possible underperformance and always tell us the bad news promptly. When a manager informs their leader, they can work together to ensure that underperformance is identified and that appropriate and agreed action is taken to address it.
+
 Frequency and Metrics
+
 We expect at least 5% of our team members to experience explicit performance management on an annual basis, and we expect more than 50% to be successful. We track this in meetings like the People Group Key Review and People Group Metrics to make sure we’re managing performance consistently and fairly across all divisions, and in all circumstances. However, we don’t enforce any hard thresholds.
+
 This results in a lower rate of involuntary attrition than comparable companies, which range from 5 to 15% annually. We justify this based on the up-front effort we put into the hiring process. Divisions have various quantitative and qualitative processes for ensuring new hires can be successful at GitLab. This includes, but is not limited to:
+
 •	Requiring two “strong yes” votes from the interview team to make an offer
+
 •	Requiring that candidates demonstrate all documented must-have criteria for the role
+
 •	Requiring that candidates demonstrate a simple majority of all nice-to-have criteria for the role
+
 •	Requiring that hiring managers write a “justification” scorecard that outlines the candidate’s strengths, outlines their weaknesses, and articulates a plan for making them successfully
+
 •	Requiring that hiring managers fill out a retrospection document for all unsuccessful hires
+
 Options For Remediation
+
 Remediation options will vary based on the identified underperformance being skill-based or will-based (and also in line with local applicable law and regulations. However, as a best practice and to provide a consistent experience for all team members the following remediation process is recommended.
+
 It is important to note that there is no requirement for these options to be considered or presented consecutively.
+
 Performance Remediation
+
 •	Coaching
+
 •	Written Performance Letter or Performance Improvement Plan (PIP)
+
 •	Letting Someone Go
+
 Coaching
+
 Coaching is the preferred option to deal with underperformance and is the first step in addressing performance issues.
+
 Managers are expected to address performance concerns (skill-based or will-based) in a timely manner. Managers should address concerns verbally during one-on-one meetings or in impromptu private coaching sessions with their team members. These conversations must be documented by the manager and shared with the team member so that both have access to the record of the discussion and are in alignment on where improvements need to be made and within a specified timeframe. Documentation should be brief (a few key bullet points or a paragraph), and will normally be sent via email to the team member following the verbal discussion. See the example coaching email below:
+
 1
+
 2
+
 3
+
 4
+
 5
+
 6
+
 7
+
 8
-	Dear (Team member name)
+
+ Dear (Team member name)
+
 
 Thank you for meeting with me today to discuss (insert topics of concern or issues discussed and any agreed-upon actions).
 
 Please know that I am fully committed to working with you in addressing these issues. If there is anything I can do to assist you in meeting these expectations, please do not hesitate to let me know. My goal in bringing this matter to your attention is to partner together in improving these areas to be successful at GitLab.
 
 Thanks,
+
 (Manager name)
 
 Underperformance feedback should be included on your 1-1 agenda. Helping GitLab team members understand clearly how their performance is below the expected standard expected quickly is very important to foster immediate improvement and continued success. Managers should be as specific as possible and provide clear examples of where the team member is falling short. Make sure the team member has the opportunity to respond to your concerns and give them the time to explain their performance. Keep an open mind, listen actively, and ask open questions when you want to find out more. When discussing performance, it’s important that the manager and team member are aligned on the expectations moving forward. It is best practice for the manager to meet with their team member at least once a week to monitor and discuss their performance.be critical.
+
 There may be extenuating circumstances that need to be taken into consideration during the performance management process. This is an area where the Team Member Relations Team can provide a sounding board or a needed perspective.
+
 Written Performance Letter
+
 A Written Performance Letter is used to bring attention to performance issues or ongoing deficiencies previously addressed by your manager. Team members should already be aware of the performance issues due to ongoing coaching in your 1x1’s with your manager and the follow-up coaching emails. The Written Performance Letter will identify development areas/gaps, outline what success looks like, and specific action/deliverables and due dates. The Written Performance Letter is not a Performance Improvement Plan (PIP), it is a documented coaching mechanism to help provide the team member with clear guidance to immediately improve performance. Team Member Relations will send the Written Performance Letter to the team member and manager to review and sign via DocuSign. Once signed the team member relations specialist will save the documentation to the team member’s Workday profile. There may be times when a team member will not sign a written performance letter, in which case that will be noted on the document and stored in Workday. The written performance letter will remain in Workday for the requisite time, as required by applicable local law. Before issuing a Written Performance Letter the manager should reach out to Team Members Relations who can provide the appropriate template and partner with the manager on both creating and delivering the letter to the team member.
+
 Communication During Underperformance Remediation
+
 It is important that the Team Member Relations team and management are closely connected during the underperformance management process.
+
 An effective method to ensure all parties are kept up to date can be a private slack channel including the direct manager, manager’s manager, the People Business Partner, and the Team Member Relations Specialist. Additional layers of leadership can/should be added if the situation escalates.
+
 While the coaching period is ongoing, ideally the direct Manager provides weekly async updates to the private slack channel, thus keeping everyone in the loop transparently.
+
 Performance Improvement Plan (PIP)
+
 Not The First Step To Letting Someone Go
+
 Many companies use a PIP for most involuntary offboarding, as documented support for releasing a team member. At GitLab we think that giving someone a plan while you intend to let them go is a bad experience for the team member, their manager, and the rest of the team.
+
 A PIP at GitLab is not used to “check the box;” a PIP is a genuine opportunity to help clarify underperformance and areas of focus. You should only offer a PIP if you are confident that the team member can successfully complete it. The team member should also be committed to successfully completing their Performance Improvement Plan for the duration. It is imperative that the higher standard of performance achieved during the PIP process is sustained by the Team Member once the plan timeframe has completed. A PIP will not be successful unless both the team member and the manager believes the team member can succeed.
+
 SMART Goals
+
 As part of the PIP the manager will work with the team member to define SMART goals. SMART goals allow both the manager and team member to define requirements, track progress, and improve communication of expectations for success during the PIP period.
+
 SMART is an acronym that can be used in creating the PIP requirements. Clear and reachable goals should meet the following criteria:
+
 •	Specific: Specifically define what you expect the team member to do/deliver. Avoid generalities and use action verbs as much as possible.
+
 •	Measurable: You should be able to measure whether the team member is meeting the goals, or not. Identify how you will measure success - usually stated in terms of quantity, quality, timeliness or cost (e.g. increase by 25%).
+
 •	Achievable: Make sure that accomplishing the goal is within the team member’s realm of authority and capabilities. While considering whether a goal is actionable/achievable, you also need to consider the team member’s total set of goals. While each individual goal may be achievable, overall, you may be assigning the team member more goals than they can reasonably be expected to successfully complete.
+
 •	Realistic: Can the team member realistically achieve the objectives with the resources available? Ensure the goal is practical, results-oriented and within the team member’s realm of authority and capabilities. Also, Relevant: Where appropriate, link the goal to a higher-level departmental or organizational goal, and ensure that the team member understands how their goal and actions contribute to the attainment of the higher-level goal. This gives the team member a context for their work.
+
 •	Time-bound: When does the objective need to be completed? Specify when the goal needs to be completed (e.g. by the end of the quarter, or every month).
+
 Sample SMART Goals:
+
 Bad SMART Goal: “Improve overall qualified sales lead”.
+
 Good SMART Goal: “In May, June and July, Jane Doe must have an increase of 20% in overall qualified sales leads entered into Salesforce.com”
+
 Bad SMART Goal: “Increase Fix defects”
+
 Good SMART Goal: “Fix at least 8 defects. Must be fixed with code changes, not closing as “Won’t Fix, “Not Reproducible”. All defects must be dev completed/merged by end of business Monday, Jan. 1st, 2018”.
+
 CREDIT Values Applied To The PIP
+
 Our values should be top of mind in administering a PIP.
+
 •	Collaboration: The PIP is an opportunity for manager and the team member to work together towards the desired outcome. Pay attention to the timeline and collaborate on the next steps after each milestone is achieved.
+
 •	Results: The goal of the PIP is to see results, that could be an improvement in performance and/or changed behavior. Did productivity increase? Are assigned projects being completed on time? Is there an increase in the Sales pipeline? Those results must also be attainable and measurable.
+
 •	Efficiency: The manager provides the support needed for the team member to achieve the required results but the ownership and accountability lies with the team member to drive their own performance. The PIP ensures that the team members will correct specific issues identified in a timely manner, under a managed process, showing specific results. Timely manner is dependent on the timeline agreed to by both the Manager and the team member. Typically, a PIP could last 2-4 weeks depending on the role and circumstances.
+
 •	Diversity: As part of our efforts to foster an environment where everyone can thrive, the PIP should be viewed as a valuable tool designed to address individual behavior. Since each team member is unique, Managers should be mindful that they continue to acknowledge and adjust for diversity of thoughts, differences in communication style and learning preference while following the PIP.
+
 •	Iteration: Change is expected during the PIP. So small and consistent changes, or iterations, that move the team member toward the final required change should be expected. Positive, effective changes that continue after the PIP should also be encouraged. Improvement must be maintained.
+
 •	Transparency: Have regular and honest communication during the PIP. As a manager, set expectations around communication upfront. As a team member, share challenges as they come up. If things are not going well and either party wishes to end the PIP early, be open about that and discuss a mutual separation and any related severance.
+
 Experience
+
 It is important to remember that the root cause of issues can be a variety of things, PIPs are not intended to be a negative document. They are an opportunity for the manager and the team member to work together to get the team member back on track. We have an example of this to share here, it is anonymized in line with keeping job feedback private as per the General Guidelines;
+
 GitLab team member:
+
 “Although nobody wants to be put on a PIP, for me it ended up ultimately being a positive experience. My initial introduction to the plan was a shock and a serious blow to my self-confidence, but the process was presented in a fair and open way with clearly defined steps and goals. The document presented an attitude of wanting to help me improve and thrive, not a pretext to send me out the door. This helped me shape my attitude going through the process. As it turns out I had several blind spots in my communication and time management skills that needed to be remedied, and over the course of the PIP with weekly updates with my manager and some personal efforts in activity logging I was able to improve in both of these areas”.
+
 Manager:
+
 “For me as a manager, I want to be honest and open with people. I never feel good about telling people they are not meeting the standard. At the same time I really want people to improve. With the PIP we were able to clearly talk about the work that needed to be done to, make them improve and get them where we needed them to be. In this case, the underperformance was not a lack of skills. We merely needed to redirect their focus”.
+
 PIP Process
+
 The intention of a PIP is to support the team member while working to improve performance and to make clear that immediate and sustained improvement is required.
+
 A performance improvement plan includes the following:
+
 •	Evaluation of current work
+
 •	Clear direction including metrics and concrete goals, to improve (e.g. finish X before Y)
+
 •	Resources/coaching necessary to achieve goals,
+
 1.	Here is a basic PIP template which will provide a good start to creating the document. For an alternative format, you can use this alternative template Whichever template you choose, it should be customized to fit the particular situation.
+
 o	Once the PIP is documented schedule a call with the team member outside of the regular 1-1
+
 o	Present the PIP to them on the call and go through it with them. Read it verbatim and don’t deviate from it or think of other things to add during the call
+
 o	Re-iterate that you want them to improve and you’re there to support them. You will be checking their progress each week (or day if really necessary)
+
 o	Ask them if they have any questions
+
 o	Inform the Team Member Relations Specialist (TMR) that the PIP conversation has taken place and the document have been sent to the team member.
+
 o	Once the PIP has been presented to the team member the TMR will upload in Hellosign and send for the team members signature. Signing the document does not mean a team member agrees with the PIP but acknowledges that the PIP conversation between the manager and team member has occurred.
+
 o	Once the PIP is signed and returned, the team member relations specialist will upload the PIP to the team member Workday file.
+
 o	The TMR will track the start and end of PIPs in Workday.
+
 2.	Typically, a team member gets time (2-4 weeks depending on the role and circumstances) to demonstrate improvement and meet specific goals, outlined in the PIP. By design, a PIP is expected to support a successful and sustained improvement in performance.
+
 o	If sufficient improvement is not made, the PIP may end early and we move to next steps in termination (steps may vary by country).
+
 o	If sufficient improvement is not made but progress is headed in the right direction, a PIP may be extended at the discretion of the manager.
+
 3.	If a team member showed great improvement during the PIP period and has met all expectations as set out in the PIP at the end of the review period, the PIP will close successfully. After the evaluation, the TMR will stage the letter of completion in DocuSign for the manager to sign. A template of this letter can be found in the ‘PBP Resources’ folder. The team member will receive a copy of the signed letter of completion.
+
 o	If a team member shows performance that falls to an unsatisfactory level during a six-month period following the end of your PIP, appropriate action may be taken, up to and including possible offboarding.
+
 4.	If the team member has not shown sufficient improvement and has not met all expectations as set out in the PIP document, the team member is separated or their contract is canceled. It is not necessary to create a second PIP for the same performance issues within a reasonable period of time and after informing the team member that the unacceptable performance has resurfaced in writing (an email is fine).
+
 5.	To begin the offboarding process, the manager align with the Team Member Relations Specialist and forward a recommendation for offboarding to their Executive team member and People Business Partner including the history of the PIP and the recurring performance issues. If a team member does need to be let go, work with Team Member Relations Specialist to follow the process for involuntary offboarding.
+
 The PIP process is between a manager and their direct report. Information shared in a PIP should be kept confidential by both participants. If underperformance becomes a reason for offboarding, the individual should not be taken by surprise, but others at the company might be.
+
 PIP Compensation Impact
+
 It is important to note that when a PIP is active, the team member is not eligible for compensation increases from the annual compensation review or the annual refresh grant program.
+
 Internal Applications and Transfers during underperformance remediation
+
 When in the process of underperformance remediation you are generally not eligible for transfer to other roles within GitLab. If the underperformance is exclusively a result of a skills mismatch (not of lack of motivation, commitment, delivery etc. or misalignment to our values) other roles within GitLab may be considered, however, a determination regarding your eligibility is at the discretion of your manager and People Business Partner.
+
 When the underperformance is resolved and you want to transfer to another role, please review the Internal Application Process for transfer. Please note that an internal reference will be conducted before the transfer is final, with this the documented underperformance may be discussed.
+
 Talent Assessment and managing underperformance
+
 Managers need to be aware and take into consideration both skill-based and will-based performance issues when they are participating in the Talent Assessment Performance/Potential Matrix process as listed in the handbook. It is critical that a manager consider these performance issues when evaluating a team member. If a team member is technically performing in their role but there are will-based performance issues that are impacting their ability or the team’s ability to succeed, these need to be taken into consideration.
+
 Letting Someone Go
+
 This should be discussed with Team Member Relations before any action is taken to ensure the process is compliant with local laws and regulations. As soon as it becomes transparent that a Team Member will be off-boarded from the company, we recommend that this is addressed immediately. The team member is entitled to know where they stand. Delaying the conversation causes problems with confidentiality (the Team Member may realize in another way, that they will be exiting the company) and can potentially escalate the issues for the team member, the manager and the wider team (working relationships could be greatly affected).
+
 Underperformance in Senior Leadership
+
 Regardless of your level in the organization, the expectation is that all team members are provided with both coaching and feedback prior to a decision to exit the team member. Actionable feedback is critical to consistent development at GitLab at all levels and these conversations should happen real time as a best practice across all areas of business within the organization. However, for Director and more senior roles we are unlikely to offer a formal performance remediation plan or place a Director on a formal PIP. If, after documented coaching and feedback sessions, it is evident that performance has not improved GitLab would move to a separation with the team member. We do this because their continued underperformance has a critical impact on the team and the rest of the organization.
+
 Last modified October 31, 2023 
  
  
  
 On This Page
+
 •	For Workforce planning to be strategic the efforts should:
+
 •	Steps for organizational alignment
+
 •	SWOT
+
 o	Strengths
 o	Weaknesses
+
 o	Opportunities
+
 o	Threats
+
 •	Supply and Demand Analysis
+
 •	Workforce Gaps, Risk Analysis and Action Planning
+
 o	Workforce Gaps
+
 o	Risk Anaylsis
+
+
 o	Action Planning and KPIs
+
 1.	The Handbook
+
 2.	Leadership
+
 3.	Workforce Planning
+
 Workforce Planning
+
 Workforce planning and SWOT analysis
+
 Workforce planning is the strategic alignment of a division/deparments team members with its strategic goals. It is a methodical process of analyzing the current team member role alignments, determining future team member needs, identifying the gap between the present and future, and implementing solutions so the division/departments can accomplish its mission, goals, and objectives. Simply stated it is a way to align the right team members and skills at the right place and time for the right business outcomes.
+
 For Workforce planning to be strategic the efforts should: 
+
 •	Align with GitLab business strategy
+
 •	Differentiate roles by their contribution to the overall achievement of the GitLab and Divison strategy
+
 •	Focus first on the roles that have the most significant impact to GitLab and Division business strategy
+
 •	Leverages both qualitative and quantitative metrics of the workforce in both its current state and the future state perspectives
+
 Steps for organizational alignment
+
 There are four steps to working through organizational alignment. Leaders should work through these steps in order to help build and drive an action plan for the future.
+
 1.	Scan of the Environment - As you scan the enviroment in which your division/department functions, you will gather data needed for team member planning. Later, you will apply this data with your planning efforts. Environmental scanning examines internal and external Strengths, Weaknesses, Opportunities and Threats (SWOT). Budget will also be a major factor in the review.
+
 2.	Supply and Demand Analysis - The supply and demand analysis is based on the scan of your environment (SWOT) strategies, and operational direction. Supply and demand analysis will allow you to assess whether there is balance in the division/department. You will be able to determine whether there are imbalances among the workloads, team members and compentencies that may exist now or in the future.
+
 3.	Gap Analysis - Gap analysis compares information from the supply and demand analysis to identify the differences between the current and the future division/department workloads, team members and skills/compentencies.
+
 4.	Action Plan - Action plans should be developed to address the most critical gaps facing your divisions/department workforce and division/department strategy. Each division/department should determine its own action plan based on the relationship between GitLab strategy and the gaps identified. Depending on the gaps, the action plan may address some or all aspects for team members including, recruitment, compensation, training, performance management, succession planning, diversity, inclusion and belonging, quality of work life, retention, etc.
+
 SWOT
+
 The SWOT analysis helps divisions/department assess issues within and outside of GitLab. The SWOT anaylsis is made up of an assessment of strengths, weaknesses, external opportunities and threats from competition and provides an outline for strategic decision making.
+
 Strengths
+
 •	Characteristics that give GitLab an advantage over others
+
 •	What is GitLabs value proposition, how does it differentiate with our competitors?
+
 •	What do others perceive as GitLabs strenghts?
+
 Weaknesses
+
 •	Characteristics that place GitLab at a disadvantage relative to others
+
 •	What do our competitors do better than GitLab?
+
 •	What do others perceive as GitLabs weakness?
+
 Opportunities
+
 •	What are the elements GitLab or (department/division) could use to its advantage?
+
 •	What trends or conditions exist that may positively impact GitLab?
+
 Threats
+
 •	What are the elements in the environment that could cause trouble for GitLab or (department/division)?
+
 •	What trends or conditions may negatively impact GitLab?
+
 A template has been provided here for reference SWOT slides
+
 Supply and Demand Analysis
+
 This is the step to evaluate the future needs of the division/departments. Future needs will be assed and determined on the answers to the following questions:
+
 •	How essential is each role?
+
 •	What job functions, if any, could be consolidated?
+
 •	How many team members are needed in the future to perform each job/role?
+
 •	What knowledge, skills, compentencies and abilities are needed to perform the anticipated job/roles?
+
 •	What processes could be done more efficiently or effectively?
+
 •	What technology changes will or should be made?
+
 •	Are there opportunities to realign resources?
+
 •	What are the division/departments strategic objectives?
+
 •	What are the division/departments diversity objectives?
+
 Workforce Gaps, Risk Analysis and Action Planning
+
 Workforce Gaps
+
 A gap analysis is a review an assessment of your current department/divisions performance to help identify the differences between your current state and where you’d like to be. A gap analysis can help improve the division/department efficiencies, the product and potentially profitability by allowing leaders to pinpoint “gaps” currently present. Once the review is completed it will allow leaders to better focus the division/department resources and energy on those identified areas for improvement. This exercise is to identify the current and projected needs of the division/department. Here are four areas to think about while completing the Workforce Gap exercise:
+
 •	Retention Gaps - Identify retention gaps from current team members challenges and trends
+
 •	Recruitment Gaps - Identify recruitment gaps resulting from current team member challenges and trends
+
 •	Succession Planning Gaps - Identify succession planning gaps resulting from current team member challenges and trends
+
 •	Implications - Describe the implications if the gaps that currently exist are not sucessefully addressed by the workforce plan
+
 Risk Anaylsis
+
 This exercise is to identify immediate and future risks based on the current team member gaps. There are three questions to the Risk exercise:
+
 •	Retention Risk- Identify retention risks resulting from current team member challenges and trends
+
 •	Recruitment Risks - Identify recruitment risks resulting from current team member challenges and trends
+
 •	Succession Planning Risks - Identify succession planning risks resulting from current team member challenges and trends
+
 Action Planning and KPIs
+
 The last step in the SWOT, Supply and Demand, Workforce Gaps and Risk Analysis is where you will formulate a specific Action Plan with KPIs to address the gaps that have been identified. This will be done by identifying 1-2 year initiatives as well as 3-5 year initiatives. A sample template has been created here
+
 The above steps are just a recommendation and a starting point for leaders. There are many great resources and templates on the web regarding how to conduct a SWOT, workforce gap analysis and create an action plan. This is meant as a guide and to start the conversations. Workforce planning has many benefits to a division/department, including team member retention, career development, top talent identification and can make budgeting and forecasting for the division/department a more data driven exercise. It also allows division/departments to respond quickly and more strategically to changes or emerging challenges in the market, workforce and overall business. Please reach out to your assigned PBP if you would like to partner on this exercise or have additional questions.
+
 Last modified September 18, 2023 

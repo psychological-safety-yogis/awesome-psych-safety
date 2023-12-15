@@ -54,7 +54,7 @@
     - [Psychological Safety Short Course](#short-course)
     - [Understanding Social Styles](#social-styles)
   - [Leadership](#leadership)
-    - [Leadership Table of Contents](#lead-toc)
+    - [Leadership Table of Contents]([#lead-toc](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#gitlab-leadership-toc))
     - [One to One](#1o1)
     - [Managing Conflict](#manconf)
     - [Crucial Conversations](#crucial-convos)

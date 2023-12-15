@@ -6,7 +6,7 @@
 # An awesome open-source list of ways to make your environment more psychologically safe . . . and coincidentally more successful"
 
 ```
-"Garr, Steve feels he can safely vibe at Regular Joe's Gym because it is most psychologically safe for Steve's special qualities."
+"Garr, Steve can vibe at Regular Joe's because they accept him, the pirate."
       /| _________~~~~~
 O|===|* >_____________/
       \| 
@@ -53,7 +53,7 @@ O|===|* >_____________/
     - [Recognizing and Addressing Stigma at Work](https://www.ccohs.ca/oshanswers/psychosocial/mh/mentalhealth_stigma.html)
 - [The Gitlab Handbook](https://handbook.gitlab.com/)
   - [Leadership Table of Contents](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#gitlab-leadership-toc)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 <div align="center"><img src="./images/safety and danger.jpg"></div>
 

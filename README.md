@@ -49,7 +49,7 @@
     - [Return to Work](https://www.ccohs.ca/oshanswers/psychosocial/mh/return_to_work.html)
     - [Recognizing and Addressing Stigma at Work](https://www.ccohs.ca/oshanswers/psychosocial/mh/mentalhealth_stigma.html)
 - [The Gitlab Handbook](https://handbook.gitlab.com/)
-  - [Leadership Table of Contents]([#lead-toc](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#gitlab-leadership-toc))
+  - [Leadership Table of Contents](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#gitlab-leadership-toc)
 
 #### Sponsors
 

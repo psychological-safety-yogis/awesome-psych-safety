@@ -1,10 +1,13 @@
 <div align="center"><img src="./assets/head.jpg"></div>
 
 # AWESOME PSYCHOLOGICAL SAFETY
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) 
 
 # An awesome open-source list of ways to make your environment more psychologically safe . . . and coincidentally more successful"
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Table of Contents
 - [Table of Contents (You Are Here)](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#table-of-contents)
@@ -47,6 +50,7 @@
     - [Recognizing and Addressing Stigma at Work](https://www.ccohs.ca/oshanswers/psychosocial/mh/mentalhealth_stigma.html)
 - [The Gitlab Handbook](https://handbook.gitlab.com/)
   - [Leadership Table of Contents](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#gitlab-leadership-toc)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <div align="center"><img src="./images/safety and danger.jpg"></div>
 

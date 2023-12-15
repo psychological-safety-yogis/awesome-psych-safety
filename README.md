@@ -422,7 +422,7 @@ UK-based Psychological Safety community, ready to field your questions and famil
 
 [forum.org.nz/resources/mental-wellbeing-at-work/psychologicalsafety/](https://www.forum.org.nz/resources/mental-wellbeing-at-work/psychologicalsafety/)
 
-[forum.org.nz/assets/Factsheet-Psychological-safety-at-work-final.pdf](https://www.forum.org.nz/assets/Factsheet-Psychological-safety-at-work-final.pdf)l.pdf 
+[forum.org.nz/assets/Factsheet-Psychological-safety-at-work-final.pdf](https://www.forum.org.nz/assets/Factsheet-Psychological-safety-at-work-final.pdf)
 
 **[`^        back to top        ^`](#awesome-psychological-safety)**
 

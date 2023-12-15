@@ -1,10 +1,11 @@
 <div align="center"><img src="./assets/head.jpg"></div>
-<div align="center"><img src="./images/EQ circle.png"></div>
 # AWESOME PSYCHOLOGICAL SAFETY
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) 
 
 **An awesome open-source list of ways to make your environment more psychologically safe . . . and coincidentally more successful"**
+
+<div align="center"><img src="./images/safety and danger.jpg"></div>
 
 ## Submitting edits via pull requests or creating issues
 
@@ -344,6 +345,8 @@ https://hbr.org/podcast/2021/12/psychological-safety-in-theory-and-in-practice
 
 **[`^        back to top        ^`](#awesome-psychological-safety)**
 
+<div align="center"><img src="./images/EQ circle.png"></div>
+
 ## Emotional intelligence (EQ) assessments
 [Color Code Personality Test](https://www.colorcode.com/free_personality_test/?timestamp=1588009250.89&hash=667424d7d32a031b41b6896af6ab1ad7)
 
@@ -428,6 +431,9 @@ https://www.goodreads.com/list/show/143532.Healthcare_Reading_List
 **[`^        back to top        ^`](#awesome-psychological-safety)**
 
 ## Psych Safety Origins and Science from Flight Safety
+
+<div align="center"><img src="./images/flavors of safety culture.png"></div>
+
 https://www.skybrary.aero/articles/organisational-culture 
 
 https://www.skybrary.aero/articles/safety-culture 

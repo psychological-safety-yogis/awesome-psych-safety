@@ -588,7 +588,7 @@ View all facts sheets A-Z
 
 8.	[Mental Health - Psychosocial Risk Factors in the Workplace](https://www.ccohs.ca/oshanswers/psychosocial/mh/mentalhealth_risk.html)
 
-9.	[Mental Health - Return to Work](https://www.ccohs.ca/oshanswers/psychosocial/mh/return_to_work.html
+9.	[Mental Health - Return to Work](https://www.ccohs.ca/oshanswers/psychosocial/mh/return_to_work.html)
 
 10.	[Mental health - Recognizing and Addressing Stigma at Work](https://www.ccohs.ca/oshanswers/psychosocial/mh/mentalhealth_stigma.html)
 

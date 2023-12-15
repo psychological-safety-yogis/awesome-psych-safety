@@ -2062,540 +2062,1082 @@ ________________________________________
 
 10.	Mental health - Recognizing and Addressing Stigma at Work
 On this page
+
 •	What is stigma?
+
 •	What is the harm of stigma?
+
 •	How do our words affect mental health stigma?
+
 •	What can workplaces do to reduce stigma?
+
 •	What can individuals do to reduce stigma?
+
 ________________________________________
+
 What is stigma?
  
 Stigma is defined as negative attitudes, beliefs, or behaviours about or toward an individual or group of people because of a characteristic they share. Stigma can include stereotypes, prejudice, and discrimination.
+
 •	Stereotype: believing unfairly that all people with a particular characteristic are the same
+
 •	Prejudice: negative feelings about a person or group because of perceived characteristics
+
 •	Discrimination: unfairly treating a person or group differently because of prejudice or stereotype
+
 We can recognize a stereotype without being prejudiced or discriminatory. When we judge a person based on negative stereotype, our misunderstandings can lead to prejudice and discrimination.
+
 ________________________________________
+
 What is the harm of stigma?
  
 Stigma about mental illness, for example, can affect our attitude and behaviour towards people experiencing mental health issues, the workplace policies we make, and the quality of support we provide. Stigma and the fear of discrimination can also create barriers to appropriate diagnosis and treatment.
+
 Stigma is harmful to the individual and the workplace. For the individual, stigma can lead to negative experiences at work, low self-esteem, discrimination, and fear of disclosing mental health issues and seeking treatment. For the workplace, stigma can lead to staff presenteeism and absenteeism, reduced productivity and engagement, difficulty attracting and retaining talent, difficulty implementing psychological health and safety initiatives, and increased costs related to mental health injuries and illnesses.
+
 ________________________________________
+
 How do our words affect mental health stigma?
  
 Our words and actions reflect the attitudes we have. The words we use can make a person who is living with a mental health issue feel like they have been labelled in a negative way, such as someone who is “unstable”, “weak”, or “inferior”. At the same time, our words can be positive, break down negative stereotypes associated with mental health issues, and reduce barriers to accessing support.
+
 Use person-first language
+
 Person-first language means always putting the person first, not the mental health issue. This way of speaking focuses on the individual, not the disability or illness. The opposite is true in identity-first language, where the focus is on the disability or illness, not the individual.
+
 Examples of person-first language and identity-first language:
+
 Person-first language	Identity-first language
+
 People with a mental health issue	The mentally ill
+
 Person with a mental health issue	Crazy, insane
+
 People/individuals without disabilities	Normal people
+
 They’re experiencing anxiety; they are living with depression	They're anxious; they're depressed
+
 They’re living with bi-polar disorder	They’re bi-polar
+
 They’re living with schizophrenia	They’re schizophrenic
+
 They’re affected by problematic substance use, alcohol use	They’re an addict, a drunk
+
 ________________________________________
+
 What can workplaces do to reduce stigma?
- 
+
 Workplace leaders can create a space where employees feel safe to ask for help. For example, leaders can share their own mental health experiences, showing disclosure and vulnerability as strengths instead of weaknesses. It is also important to support leaders through providing related training or asking for support from the human resources team.
+
 When someone discloses to you that they are experiencing mental health issues, this opportunity can be used to help connect, provide support if you feel capable and comfortable, and suggest any additional resources you are aware of. Remember, you do not need to know the exact diagnosis or the details of the mental injury to provide support, only the functional abilities of the individual.
+
 Workplaces should review aspects of the work and workplace to make sure it is not contributing to mental health issues or stigma.
+
 Employers should:
+
 •	Assess existing workplace and workplace culture by reviewing internal data such as complaint reports, absenteeism and turnover rates, and resource usage rates.
+
 •	Evaluate all work processes, procedures, and policies to determine if mental health is included or considered
+
 •	Make sure measures are in place to prevent harm
+
 •	Implement a process that encourages self-disclosure or self-identification in a safe manner
+
 •	Provide education and training programs that will help everyone understand how their actions and words matter
 ________________________________________
+
 What can individuals do to reduce stigma?
  
 Follow these steps to help reduce stigma:
-•	Be aware of your attitudes and behaviours and choose your words thoughtfully
-•	Support others by treating everyone with dignity and respect
-•	Educate yourself about mental health issues
-•	Speak up when you hear or see stigmatizing attitudes or behaviours and educate others where you can
-•	When someone discloses to you that they’re experiencing mental health issues, be compassionate and avoid comparing experiences or diminishing their feelings
-Remember, we are all learning, so be kind with yourself too. If you use incorrect language, apologize sincerely, and try again. Being aware of our own attitudes and behaviours is key. Together, we can create a workplace culture that reduces stigma and empowers everyone to use the supports available.
-________________________________________
-•	Fact sheet first published: 2022-05-20
-•	Fact sheet last revised: 2022-05-20
 
+•	Be aware of your attitudes and behaviours and choose your words thoughtfully
+
+•	Support others by treating everyone with dignity and respect
+
+•	Educate yourself about mental health issues
+
+•	Speak up when you hear or see stigmatizing attitudes or behaviours and educate others where you can
+
+•	When someone discloses to you that they’re experiencing mental health issues, be compassionate and avoid comparing experiences or diminishing their feelings
+
+Remember, we are all learning, so be kind with yourself too. If you use incorrect language, apologize sincerely, and try again. Being aware of our own attitudes and behaviours is key. Together, we can create a workplace culture that reduces stigma and empowers everyone to use the supports available.
+
+________________________________________
+
+•	Fact sheet first published: 2022-05-20
+
+•	Fact sheet last revised: 2022-05-20
 
  
 ## Gitlab guide, The GitLab Handbook
+
 ### Emotional Intelligence
+
 1.	Psychological Safety
+
 2.	Psychological Safety Short Course
+
 3.	Understanding SOCIAL STYLES
 
 1.	Emotional Intelligence
-On This Page
+
 •	Introduction
+
 •	What is emotional intelligence?
+
 •	Building an inclusive environment with EQ
+
 •	Components of EQ
+
 •	How to develop your EQ in a remote environment
+
 •	Emotional Intelligence Manager Competency
+
 •	How to understand your EQ
+
 o	Emotional intelligence (EQ) assessments
+
 •	Related pages on emotional intelligence (EQ)
+
 1.	The Handbook
+
 2.	Leadership
+
 3.	Emotional Intelligence
+
 Emotional Intelligence
+
 Introduction
+
 At GitLab, we place a high level of importance on interpersonal skills for workplace effectiveness. Employee interpersonal skills have an impact on productivity, morale, engagement, performance, and help us live up to our values. Whether you are a People Manager or an Individual Contributor, being skilled in “emotional intelligence” (also referred to as EQ) is a key attribute to interpersonal effectiveness.
+
 One of the most important factors in people’s decisions to stay or leave a job is the quality of the relationship they have with their immediate boss and their coworkers. There are practical ways to learn and apply interpersonal skills in a remote environment. In this section of the handbook we review the key characteristics of emotional intelligence (EQ) and how to improve your interpersonal skills professionally and personally. You’ll learn how to work more effectively with others.
+
 What is emotional intelligence?
  
 EQ is defined as the ability to understand and manage your own emotions, as well as recognize and influence the emotions of those around you, according to Harvard Business review. At GitLab, we operate in an all-remote environment where team members communicate virtually across the globe. By fostering EQ, we can establish a level of connection in an all-remote environment.
+
 Better EQ provides better relations with remote teams. EQ plays an important role in helping maintain order between teams that consist of diverse cultures and backgrounds. At GitLab, we rely on low-context communications, Slack channels, email, and video calls to get our message across. There are less opportunities to practice our EQ.
+
 Considering that these communication channels do not always express our true feelings, developing our EQ will be a tool for us to pick up on emotional cues and help us read between the lines to better understand the message.
+
 Learn more about emotional intelligence by watching this session titled Being Human with Claire Doody, hosted by the GitLab L&D team in September, 2022. Hear from more experts in conversations hosted by GitLab with Reini Chipman on Diversity in Emotional Intelligence and Christopher Connors on EQ for Modern Leaders.
+
 Building an inclusive environment with EQ
+
 EQ is a major factor in developing and maintaining cultural awareness. By fostering emotional intelligence, you are able to promote understanding, respect, and good relationships across all teams, regardless of their locations.
+
 It is a tool that is helping GitLab build an inclusive environment for everyone. By understanding that others might have different responses and customs based on their upbringing, you can develop social and emotional intelligence.
+
 Components of EQ
+
 There are five main components of EQ:
-What it’s called	What it means	Competencies to measure
+
+What it’s called
+
+What it means
+
+Competencies to measure
+
 Self Awareness.	The ability to identify and understand your own emotions and the impact we have on others.	Emotional Self-Awareness, Accurate Self-Assessment, and Self-Confidence
+
 Social Skills.	The ability to understand the emotions of others through empathy by identifying what others feel and sharing emotion.	Empathy, Organizational Awareness, and Service
+
 Self Regulation.	The ability to manage emotions and behaviors. When we are aware of our emotions we can begin to manage them.	Emotional Self-Control, Transparency, and Adaptability & Initiative
+
 Relationship Management.	The ability to build and maintain healthy relationships through conflict management, teamwork, and to inspire others.	Inspirational Leadership, Influence, Developing Others & Teamwork, and Conflict Management
+
 Motivation.	The ability to pursue goals with energy and persistence and a passion to work for reasons that go beyond money or status.	Optimism , Organizational Committment, and Achievement
+
 The components of EQ were developed by psychologist and writer Daniel Goleman and his colleagues. They documented how people with high EQ outperform others in terms of success as managers and executives, yearly sales, and lower turnover rates. Furthermore, they have shown the increasing importance that EQ plays as professionals progress in their careers and reach higher levels of management.
+
 Pure technical skills and intellectual ability are prerequisites for top positions, but they do not differentiate top performers from the rest as well as interpersonal abilities do.
+
 How to develop your EQ in a remote environment
+
 Click the numbers in the interactive image below to learn more.
+
 1.	Control your self-expression and perceptions. At GitLab, we rely on written communication and virtual calls as opposed to working in an office where we can rely on in-person interactions. As remote workers, we not only have to collaborate on projects but we are also responsible for building relationships, trust, and rapport with other colleagues through a screen. To build trust with a team, we need to understand how we express emotions to others through various communication methods.
+
 2.	Understand how your actions can impact others. At GitLab, our default form of communication is asynchronous through text. Written communication among remote teams can lead to misinterpretations. Be aware of what actions you need to take in delivering a message. Put yourself in the reader’s shoes when crafting a message through text. Empathize with them and view the message from multiple audiences.
+
 3.	Self-awareness (know yourself). Understanding yourself means being aware of your own emotions, strengths and weaknesses, your values, and what motivates you. There are strategies we will detail below on gaining a better understanding of your own EQ and how it impacts others, but improving your interactions with others begins with self-awareness.
+
 4.	Know your stressors (self-regulation). Managing your emotion in stressful situations requires an understanding of how you can adapt to changing situations. Identify what stresses you out and take proactive steps to mitigate them. Keeping your cool and accepting the fact that you can’t control everything. An emotionally intelligent person thinks how their emotional expressions affect others. You can use the Yerbo Main Stressors Survey to self-assess your stressors.
+
 5.	Strengthen your social skills. Team members with strong social skills are able to communicate their thoughts and ideas effectively in a remote seetting. At GitLab, we are intentional about using informal communication to strengthen social relationships. Set up a coffee chat or join a team social call to get started. Strengthen your own social skills by actively listening and providing feedback during virtual discussions.
+
 6.	Build your motivation. A key component of EQ is having intrinsic motivation to achieve goals. At GitLab, every team member is a manager of one. Being self-motivated (by adopting a self-service and self-learning mentality) should be paramount in defining what you can accomplish in a remote setting. Focus on the aspects of the job you really enjoy and use those to drive your personal and team success forward.
+
 Emotional Intelligence Manager Competency
+
 Emotional intelligence is a key skillset for all team members at GitLab. For Managers, it is an essential attribute that can help enable team dynamics and ensure your people are receiving the right level of professional development as they progress in their careers.
+
 Skills and behavior of the emotional intelligence manager competency:
+
 •	Actively displays self-awareness and self-regulation through the use of empathy
+
 •	Models high level of emotional intelligence while balancing with hard and soft skills
+
 •	Applies emotional intelligence to personalize their management approach with each team member that focuses on the whole person approach to management
+
 •	Drives an organizational strategy and culture that ensures courtesy and politeness in all interactions
+
 •	Recognizes pressures/problems faced by team members and provides sympathy and understanding
+
 How to understand your EQ
+
 In order to develop your EQ, you need to understand your current baseline of how developed the skill is. Take one or more of the many free EQ assessments below to gain a better understanding of where you stand. Share the results with your team. If you are a manager, encourage your team to take one of the assessments. Use the results to tailor discussions and interactions with them. The more you know about your team personally and professionally, the more you can strengthen your EQ.
+
 Emotional intelligence (EQ) assessments
+
 1.	[Color Code Personality Test](https://www.colorcode.com/free_personality_test/?timestamp=1588009250.89&hash=667424d7d32a031b41b6896af6ab1ad7)
+
 2.	[Global Leadership Foundation EQ Test]( https://globalleadershipfoundation.com/geit/eitest.html)
+
 3.	[Mind Tools EQ Quiz](https://www.mindtools.com/pages/article/ei-quiz.htm)
+
 4.	[University of California at Berkley EQ Assessment](https://greatergood.berkeley.edu/quizzes/ei_quiz/take_quiz)
+
 5.	[Psychology Today EQ Test](https://www.psychologytoday.com/us/tests/personality/emotional-intelligence-test)
+
 6.	[Growth versus Fixed Mindset Assessment]( https://blog.mindsetworks.com/what-s-my-mindset)
 Related pages on emotional intelligence (EQ)
+
 •	[Understanding SOCIAL STYLES](https://handbook.gitlab.com/handbook/leadership/emotional-intelligence/social-styles/)
+
 ________________________________________
+
 Psychological Safety
+
 Introduction On this page we are going to review psychological safety and its importance for successful teams. What is Psychological Safety Psychological safety is defined by Amy Edmondson as a “shared belief held by members of a team that the team is safe for interpersonal risk taking”. It’s not about being warm and fuzzy and sharing your feelings. It’s about being comfortable admitting when you are wrong or have made a mistake as well as challenging each other for the better.
+
 Psychological Safety Short Course
+
 Introduction Welcome to Psychological Safety: Understanding, Empowerment & Self-Reflection This is a short course designed to help with your understanding of psychological safety, provide pragmatic steps to cultivate a culture of psychological safety within in your team, and reflect on some of your behaviours that may appear psychologically safe or unsafe. We are doing this to ensure we create an environment where everyone is able to thrive, as well as easily embody our values of Collaboration, Results, Efficiency, DIB, Iteration and Transparency, and the operating principles that accompany this.
+
 Understanding SOCIAL STYLES
+
 Introducing SOCIAL STYLES On this page, we will detail a unique approach developed by the TRACOM Corporation called SOCIAL STYLES® that can be used by Managers and Individual Contributors. It is a framework to improve interpersonal effectiveness and emotional intelligence. As a Manager, you can be more effective in your relationships with team members if you learn to focus on their behavior in an objective fashion. SOCIAL STYLES is a structured approach for observing, understanding, and anticipating an individual’s behavior.
+
 Last modified November 17, 2023 
  
 2.	Psychological Safety
-On This Page
+
 •	Introduction
+
 •	What is Psychological Safety
+
 •	How it Works
+
 •	Psychological Safety vs Danger
+
 •	Diversity and Inclusion
+
 •	Strategies for Cultivating a Culture of Psychological Safety
+
 •	Psychological Safety Learning & Development
+
 •	Live Learning Session
+
 •	One Week Challenge
+
 o	Program Overview
+
 o	Learning Objectives
+
 o	Program Outline
+
 •	Trust and Psychological Safety Team Survey and Feedback Template
+
 •	Additional Resources
+
 The Handbook
+
 Leadership
+
 Emotional Intelligence
+
 Psychological Safety
+
 Psychological Safety
+
 Introduction
+
 On this page we are going to review psychological safety and its importance for successful teams.
+
 What is Psychological Safety
+
 Psychological safety is defined by Amy Edmondson as a “shared belief held by members of a team that the team is safe for interpersonal risk taking”.
+
 It’s not about being warm and fuzzy and sharing your feelings. It’s about being comfortable admitting when you are wrong or have made a mistake as well as challenging each other for the better.
+
 Watch the video below where Susan David explains psychological safety.
+
 How it Works
+
 The following information was summarized from an article on Psychological Safety by PeopleTalking.
+
 Psychological Safety has primary importance when it comes to significant impact on a team’s performance.
+
 The other factors that have an impact on a team’s performance are: Dependability, Structure, Meaning & Clarity, Impact.
+
 In addition, the factors of Accountability, Open Communication & Motivation, Dialogue Practices, and Shared Assumptions are only valuable when the team is already psychologically safe. In the diagram, those lie on the arrows between each of the circles.
+
 Why is psychological safety important? When you have psychological safety in the workplace, the following things increase:
+
 •	Collaboration
+
 •	Innovation
+
 •	Inclusion
+
 •	Wellbeing
+
 •	Culture
- 
+
+
 Amy Edmondson uses David Kantor’s model to show the relationship between Psychological Safety and Accountability & Motivation. When there is an environment where psychological safety is low or non-existent, it can be very stress or anxiety filled. When there is high psychological safety, it can make people more comfortable. You can get a better picture of this from the diagram below.
  
 Psychological Safety vs Danger
+
 When you have psychological safety people become more motivated because they feel more able to take risks. When people feel psychologically safe, they will learn from their failure rather than feeling the need to blame others.
  
 Diversity and Inclusion
+
 Psychological safety has impacts on diversity and inclusion in organizations. Even if an organization has diversity, it doesn’t mean that inclusion is present as well.
+
 Strategies for Cultivating a Culture of Psychological Safety
+
 1.	Embrace a culture of respectful debate.
+
 2.	Encourage personal storytelling.
+
 3.	Ask questions.
+
 4.	Allow for experimentation and failure.
+
 5.	Dismantle perceptions of hierarchy.
+
 6.	Model openness to feedback.
+
 7.	Set clear goals and key performance indicators.
+
 8.	Offer development opportunities.
+
 9.	Build a speak-up culture.
+
 10.	Highlight competencies.
+
 The above list is from a Grant Thornton article.
+
 It is important to enable a human-to-human approach and realize the other party is more like you than different. The reflection activity called “Just Like Me”, developed by Paul Santagata, asks you to consider:
+
 •	This person has beliefs, perspectives, and opinions, just like me.
+
 •	This person has hopes, anxieties, and vulnerabilities, just like me.
+
 •	This person has friends, family, and perhaps children who love them, just like me.
+
 •	This person wants to feel respected, appreciated, and competent, just like me.
+
 •	This person wishes for peace, joy, and happiness, just like me.
+
 Psychological Safety Learning & Development
+
 Psychological Safety Short Course
+
 If you want to learn more about how you can impact psychological safety, you can take the Psychological Safety Short Course which takes approximately 30-45mins. This will guide you things that impact psychological safety, how you can cultivate psychological safety as well as run through scenarios to reaffirm your learning.
+
 You can:
+
 •	Access the Psychological Safety Short Course here.
+
 •	Read the content of the course here.
+
 Live Learning Session
+
 During Week 3 of our Manager Challenge Pilot, we had a course covering Building an Inclusive & Belonging Environment. The slide deck and meeting agenda follow along with the session.
+
 A recording of the second of two sessions can be found here:
+
 One Week Challenge
+
 We rolled out a One week challenge in November 2020. All details relating to the challenge can be found here on this page.
+
 The One Week Challenge is a blended learning approach that incorporates self-paced daily challenges and live learning sessions to build knowledge and skills around Psychological Safety.
+
 The challenge was organized in an Epic. Each day of the challenge was an issue within the epic with specific tasks for each day. Participation was tracked based on engagement in the issues, attending and participating in one of the live learning sessions, and completing the self reflection and evaluation forms.
+
 Program Overview
+
 •	3 Daily Challenges (20 minutes)
+
 •	1 Live Learning Sessions (1 hour)
+
 •	1 Weekly Self Reflection and Evaluation (10 minutes)
+
 •	Certification Upon Completion
+
 Learning Objectives
+
 1.	Define Psychological Safety
+
 2.	Identify the importance of Psychological Safety
+
 3.	Demonstrate how to increase Psychological Safety
+
 Program Outline
-Day	Challenge	Time	Format	Activity	Competency
+
+Day	
+
+Challenge	
+
+Time
+
+Format	
+
+Activity
+
+Competency
+
 Day 1	Introduction to Psychological Safety	20 minutes	Self-paced Daily Challenge	Read the Psychological Safety Handbook Page
+
 Comment on the daily issue in response to: What does psychological safety mean to you?	•	Diversity, Inclusion, & Belonging
+
 •	Emotional Intelligence
+
 Day 2	Importance of Psychological Safety	20 minutes	Self-paced Daily Challenge	Watch The importance of psychological safety: Amy Edmondson
+
 Comment on the daily issue in response to: Throughout your career, what zone(s) (Comfort, Apathy, Learning, or Anxiety - outlined here) have you found yourself in?	•	Diversity, Inclusion, & Belonging
+
 •	Emotional Intelligence
+
 Day 3	Increasing Psychological Safety	20 minutes	Self-paced Daily Challenge	Read 7 ways to create psychological safety in your workplace
-Comment on the daily issue in response to: What can you do to increase psychological safety within the teams you are a part of at GitLab? Have you tried or experienced any of these things in the past?	•	Diversity, Inclusion, & Belonging
+
+Comment on the daily issue in response to: What can you do to increase psychological safety within the teams you are a part of at GitLab? Have you tried or experienced any of these things in the past?	
+
+•	Diversity, Inclusion, & Belonging
+
 •	Emotional Intelligence
+
 Day 4	Attend Live Learning	50 minutes	Live Learning - Psychological Safety in the Workplace	Participate in the live learning	•	Diversity, Inclusion, & Belonging
+
 •	Emotional Intelligence
+
 Day 5	Eval + Self Reflection Forms	20 minutes	Self-Reflection & Evaluation Forms	Complete the Self-reflection and Evaluation	•	Diversity, Inclusion, & Belonging
+
 •	Emotional Intelligence
+
 Trust and Psychological Safety Team Survey and Feedback Template
+
 As a part of the Elevate training, an initial iteration for a trust and psychological safety team survey along with a team tracking issue template were created to help teams manage the process of measuring and discussing their teams trust and psychological safety. The goal is to better understand how each team member feels about psychological safety within their own team and share those feelings in a discussion. Each manager is encouraged to make copies of the survey and issue template to use when conducting this trust and psychological safety exercise with their team.
+
 Once survey results have been collected and reviewed by each manager, it’s suggested that these anonymous results are shared with the team in a sync meeting, in a tracking issue (template), or both to discuss trends and identify action items in the data collected for each question. The intention is to provide transparency around how each team is feeling and also decide as a team what action items can be taken away from the results and applied in the future.
+
 Additional Resources
+
 •	Read: The Role of Psychological Safety in Diversity and Inclusion - Psychology Today
+
 •	Read: The Fearless Organization by Amy C. Edmondson
+
 •	Read: 7 ways to create psychological safety in your workplace
+
 •	Read: What Google Learned from it’s Quest to Build the Perfect Team
+
 •	Read: How To Build An Environment Of Psychological Safety
+
 •	Read: How Psychological Safety Actually Works
+
 •	Read: High-Performing Teams Need Psychological Safety. Here’s How to Create It
+
 •	Listen: Creating Psychological Safety in the Workplace - HBR
+
 •	Watch: Why good leaders make you feel safe - Simon Sinek - TED
+
 •	Watch: The importance of psychological safety: Amy Edmondson
+
 The SSOT for the slides on this page can be found in this folder.
+
 Last modified December 6, 2023
  
 3. Psychological Safety Short Course
-On This Page
+
 •	Introduction
+
 •	Introduction to Psychological Safety
+
 o	First, what is psychological safety?
+
 •	What Impacts Psychological Safety
+
 •	What can you do to promote and cultivate psychological safety as Team members and Leaders?
+
 o	Three Practices to Cultivate Psychological Safety
+
 o	Nurturing Psychological Safety for All Team Members
+
 o	Nurturing Psychological Safety for Leaders
+
 •	Self Reflection Exercise
+
 •	Psychological Safety Manager 1:1
+
 •	Scenarios & Quiz
+
 1.	The Handbook
+
 2.	Leadership
+
 3.	Emotional Intelligence
+
 4.	Psychological Safety Short Course
+
 Psychological Safety Short Course
+
 Introduction
+
 Welcome to Psychological Safety: Understanding, Empowerment & Self-Reflection
+
 This is a short course designed to help with your understanding of psychological safety, provide pragmatic steps to cultivate a culture of psychological safety within in your team, and reflect on some of your behaviours that may appear psychologically safe or unsafe.
+
 We are doing this to ensure we create an environment where everyone is able to thrive, as well as easily embody our values of Collaboration, Results, Efficiency, DIB, Iteration and Transparency, and the operating principles that accompany this. In this course you will see how certain actions can quickly lead to erosion of these values and the erosion of trust amongst team members.
+
 There are two ways to take the course. You can:
+
 •	Watch the videos on Level Up.
+
 •	Read the content, which can be done on Level Up where you achieve your badge.
+
 You are free to do both of course, but the content is duplicated across the two mediums.
+
 Introduction to Psychological Safety
+
 1.	Review the Psychological Safety Handbook Page
+
 2.	Welcome to Psychological Safety: Understanding, Empowerment & Self-Reflection
+
 First, what is psychological safety?
+
 Psychological safety was defined by Amy Edmondson as a “shared belief held by members of a team that the team is safe for interpersonal risk taking”. It’s not about being warm and fuzzy and sharing your feelings. It’s about being comfortable admitting when you are wrong or have made a mistake as well as challenging each other for the better. You can view a great video of Susan David explaining this further in the handbook.
+
 Here is an illustration of what a psychologically safe team and what a psychologically unsafe team would look like:
+
 Psychological Fear and Psychological Safe
+
 As you can see, the opportunity to live our values in the red zone is very difficult. Collaboration, Iteration, Transparency, and Diversity of thought would disappear. This will ultimately lead to poor results. We want to ensure we create a green environment where everyone is given the freedom to thrive at GitLab.
+
 Creating a Psychological safe environment is much harder in a diverse group of people. The risks to psychological safety is much higher, therefore we have to operate with a much higher intent, and work together, as well as individually, to learn and grow our ability to cultivate these environments.
+
 Cultivating these environments is an ongoing process as team members leave and new ones start. You need to always be operating with psychological safety intentions.
+
 What Impacts Psychological Safety
+
 In this section we will address 5 key things that effect Psychological Safety, but this is certainly not exhaustive. This section does focus on what negatively impacts Psychological Safety, while in the next section of the course we will address how to tackle some of these issues and how we can cultivate a culture where these things do not arise.
+
 •	Punishment culture - If we don’t allow reasonable failures to happen, risk taking diminishes, iteration stops, and creativity is stifled. This is a sure fire way to create a culture of “we have always done it this way”.
+
 •	Not allowing conflict - Disagree and commit is a subvalue at GitLab and is very important in creating an environment where everyone is heard, but still able to move forward. This generates ideas, ensures many perspectives are taken into consideration when building processes and products, and avoids missing considerations which could have diversity implications.
+
 •	Not understanding communication styles - Not recognizing others communication styles means you cannot effectively facilitate conversations and meetings, can miss other points of views, and potentially isolate individuals. This is a great exercise you can do with your team to help understand each others communication style better.
+
 •	Blame culture - After we begin a culture of blaming individuals, much like punishment culture you reduce trust in team members developing creative solutions.
+
 •	Leaders & Team Members not embracing feedback - If leaders do not take on feedback from team members, trust erodes, messages are not delivered correctly, and misunderstandings happen.
+
 You may be thinking that these are obvious, but in scenarios later in the course you will see how these things can subtly happen and erode psychological safety. Next you will learn what you can do to cultivate psychological safety.
+
 What can you do to promote and cultivate psychological safety as Team members and Leaders?
+
 Three Practices to Cultivate Psychological Safety
+
 These three great practices will help you really make that push into ensuring that everyone feels psychologically safe.
+
 1.	Perception vs Intent - Ensuring that you are being mindful of this on both sides is very important. How could your actions be perceived against what you mean or how you perceived someone’s actions, and what their actual intent was? Understanding your team members’ communication styles and work styles will go a long way towards avoiding this. We will talk more about awareness of this later in the course.
+
 2.	Operate with a high intent - We assume positive intent, including on most occasions when mistakes are made that were not intended. A way to avoid these mistakes is to operate with higher intent.
+
 Higher intent is the practice of recognizing, reevaluating, and reiterating on inclusive practices.
+
 For example, you are an extrovert and enjoy participating in conversations in meetings, but you recognize that you are not the only voice in the meeting and some haven’t been heard. You use your confidence to encourage and provide space for other ideas.
+
 This also means acknowledging and apologizing when you get it wrong. People who operate at a higher intent do not use positive intent as a defense but as a learning opportunity.
+
 3.	Have moral courage - This is the practice of being brave for ethical and moral reasons, even when it is a risk or inconvenient for you.
+
 Scenario: Someone is consistently using the wrong pronouns for a team member who identifies as non-binary. They use the pronouns They/Them. The person doing this is at the Director level and you have a great relationship with them. After an incident of seeing the director doing this, you ask for a zoom chat and explain the issue.
+
 Risks:
+
 •	The person is higher in the hierarchy
+
 •	You may not know their conservative or liberal views
+
 •	Risking the friendship you have with the person
+
 Nurturing Psychological Safety for All Team Members
+
 It is important that there are consistent things that we can do to ensure that we nurture and cultivate psychological safety.
+
 Everyone at GitLab can follow these key practices to create and continue the culture we desire:
+
 •	Embrace a culture of respectable debate: We have our operating principle of “Disagree, Commit, Disagree” - to help embrace this practice. It allows us to have those conversations that spark creativity, iterations, and gather viewpoints that we may have missed. Our value ensures that we still progress and move forward.
+
 •	Encourage and Share personal stories: This is a great way of ensuring that as team members we build relationships and, ultimately, trust at work. Coffee chats are a great avenue for this so that you are more comfortable bringing up pertinent issues.
+
 •	Practice self-reflection: We will have a task later in the course to help you practice this, but it is important that you are evaluating how you react and engage in conversations at work under different stress responses.
+
 •	Allow for experimentation and failure: Again, this is something that sparks creativity, allows some freedom for projects to not work out, and provides space for our iteration and efficiency values to prosper. We don’t want to be stuck in a culture of “we have always done it this way.”
+
 •	Build a culture of curiosity: Ask questions not only about people’s lives (as above), but also about shared personal stories. Be genuinely curious about processes, practices, products, and other things at work. Be curious and respectful.
+
 •	Be open to feedback: Always be open to both good and constructive feedback. Receiving constructive feedback should not be psychologically unsafe. Leaders, ensure you understand not only how to give feedback effectively, but also how a team member likes to receive constructive feedback.
+
 •	Encourage creative collaboration and collaborative learning: Collaboration is a core value here and we encourage learning. Allow for these things to happen together. For example, someone in your team may have a unique skill. Ask if it is possible for other team members to shadow them when they perform that skill.
+
 •	Seek diverse perspectives: To avoid confirmation bias, ask team members from underrepresented groups for their views. It is so important that a diverse set of voices are considered in our day to day work, so actively seek those voices.
+
 Nurturing Psychological Safety for Leaders
+
 These are specific practices and actions for leaders and future leaders. While nurturing and cultivating psychological safety is everyone’s job, leaders are in a unique position and have a disproportionate effect on this.
+
 •	Foster a pro diversity mindset and build diverse teams: Try not to build teams where all members look and act the same. Leverage your power to hire and promote from underrepresented groups (URGs), regions, and skills while still ensuring this is based on merit.
+
 •	Highlight competencies of team members: Much like collaborative learning, ensure you are letting team members know who within the team are subject matter experts. People can learn from them, but it also help elevate their voices on certain issues. Get to know your team members.
+
 •	Try to remove biases such as contrast and compare: Each team member is unique and was hired based on their strengths, try to avoid contrasting and comparing when evaluating performance, etc.
+
 •	Participative management: Try to dismantle perceptions of hierarchy by ensuring you are part of the team and not just the leader of the team.
+
 •	Avoid blame & keep negative feedback 1-1
 Self Reflection Exercise
+
 •	What are your stress responses (when you are excited, angry, stressed, etc)? For example:
+
 o	“When I am excited I am animated with my hands.”
+
 o	“When I am stressed with work I am less transparent and tend to shut off.”
+
 o	“When I am stressed in my personal life I can get distracted.”
+
 o	“When I am excited I tend to interrupt people.”
+
 o	“When something stressful happens I tend to panic.”
+
 o	“When something stressful happens I tend to be defensive.”
+
 •	What are your actions when you are passionate and excited?
+
 •	How do you react to frustrated team members?
+
 •	Can your actions and responses be considered psychologically safe? For example:
+
 o	“I am animated with my hands which can cause sensory overload for someone who is neurodivergent.” Still, on most occasions it is safe.
+
 o	“I interrupt people often when I am excited which can cause frustration and make people feel as though their voice is not heard.” This can be unsafe.
+
 •	Have you provided your intent? For example:
+
 o	“I want everyone to be aware that when stressful things happen I can shut off and just put my head down. If you notice this and feel I am not being transparent about activities please let me know.”
+
 o	“I am aware that when I am excited I tend to cut people off. Please call me out on this behavior when it happens as I often don’t realize I am doing it.”
+
 •	What are your unconscious biases and have you challenged them?
+
 •	Do you consciously evaluate your unconscious biases when communicating?
+
 •	How do you like to receive feedback? Do you give feedback the same way? Does your team know how you like to receive feedback, and do you know how they prefer feedback?
+
 •	What constitutes psychologically unsafe behavior? Leaders and team members can provide feedback that, for example, isn’t itself psychologically unsafe, but someone may feel that any feedback makes them feel unsafe. Challenge your assumptions on whether it is truly unsafe or part of the work.
+
 Psychological Safety Manager 1:1
+
 This is a guide on how to conduct a 1:1 with your direct reports after they have completed the Psychological Safety Short Course.
+
 1.	If your direct reports are taking the course ensure you have completed the course too here
+
 2.	Create a safe space to share.
+
 o	No need to keep notes
+
 o	Be conversational
+
 o	Share scenarios or anecdotes
+
 3.	Be vulnerable, share your learnings from the course and your commitments to psychological safety after taking the course.
+
 4.	Challenge team members to share authentically and ask follow up questions to help team members share.
+
 Example Agenda
+
 •	What are one or two things that you learnt from the course, was there anything that surprised you?
+
 •	What were some of the learnings that came out of the self reflection exercise and how do you plan to use those learnings moving forward?
+
 •	How can I support you as a manager or anything I can do to make our relationship more psychologically safe and for the team at large?
+
 •	What is one personal commitment that you will make moving forward to psychological safety?
+
 Scenarios & Quiz
+
 You can view scenarios here and take the quiz via Level Up.
+
 Last modified September 18, 2023 
+
 4. Understanding SOCIAL STYLES
-On This Page
+
 •	Introducing SOCIAL STYLES
+
 •	Drawbacks of Using Personality & Behavioral Assessments
+
 •	SOCIAL STYLES Overview
+
 •	Managing with style
+
 •	Scales of behavior and the four styles
+
 o	Assertiveness
+
 o	Responsiveness
+
 o	Personality vs Behavior
+
 o	The four styles
+
 •	The four styles and how to apply the model
+
 •	Working with other styles
+
 •	Discover Your SOCIAL STYLE
+
 •	SOCIAL STYLES and crucial conversations
+
 •	Example of putting styles into practice
+
 •	Additional Resources on SOCIAL STYLES
+
 1.	The Handbook
+
 2.	Leadership
+
 3.	Emotional Intelligence
+
 4.	Understanding SOCIAL STYLES
+
 Understanding SOCIAL STYLES
+
 Introducing SOCIAL STYLES
+
 On this page, we will detail a unique approach developed by the TRACOM Corporation called SOCIAL STYLES® that can be used by Managers and Individual Contributors. It is a framework to improve interpersonal effectiveness and emotional intelligence. As a Manager, you can be more effective in your relationships with team members if you learn to focus on their behavior in an objective fashion. SOCIAL STYLES is a structured approach for observing, understanding, and anticipating an individual’s behavior. Managing in an all-remote company comes down to trust, communication, and company-wide support of shared goals. Use this page as a frame of reference to help build trust within your teams.
+
 Drawbacks of Using Personality & Behavioral Assessments
+
 Personality assessments are one of many tools to help team members build trust. They are not intended to type-cast team members into boxes based on their results. It is important to remember that it is up to all of us to get to know one another on a personal and professional level instead of using the results of an assessment to make assumptions. Please use this page as a frame of reference when interacting with team members based on their assessed style. The results of an assessment should not put anyone in a box as we all have qualities that make us unique. The assessment does not take the place of Managers getting to know team members, appreciate their unique strengths and full personhood, and explore the ups-and-downs within the relationship. SOCIAL STYLEs is only a tool and we should not resort to type-casting team members based on their results.
+
 SOCIAL STYLES Overview
+
 As a Manager and team members at GitLab, SOCIAL STYLEs can help strengthen relationships, improve communication, and to predict behavior. As a people leader, you can develop a customized approach to each one of your team members based on their assessed style. This will enable personalization for Managers and Individual Contributors. It is an excellent tool for improving emotional intelligence and building relationships with your team.
+
 “The more I learn about myself, the more I am able to understand others, the more I am able to bridge the gap between us.”
+
 Benefits of SOCIAL STYLES:
+
 •	Strengthens relationships
+
 •	Improves communication
+
 •	Helps predict behavior
+
 •	Enables a personalized management approach for direct reports
+
 •	Gives insight into how teammates operate
+
 Managing with style
+
 What separates great managers from good ones is the ability to treat each team member as individuals while focusing on their unique strengths and areas of improvement. People who have different styles have different preferences and ways of working. When managed ineffectively, these differences can be the source of dissatisfaction, conflict, and a breakdown in team effectiveness. However, when managed with skill, team members style differences can lead to creativity, focus, energy, and better performance. A manager can assess team interpersonal interactions by applying the SOCIAL STYLES framework so that the performance of the team can be enhanced.
+
 Scales of behavior and the four styles
+
 In the SOCIAL STYLE Model their are two scales of behavior: Assertiveness & Responsiveness.
+
 Assertiveness
+
 Dimension of behavior that measures the degree to which others perceive a person as tending to ask or tell in interactions with others. (Ask versus Tell)
+
 Responsiveness
+
 Dimension of behavior that measures the degree to which others perceive a person as tending to control or display their feelings and emotions when interacting. (Control versus Emotes)
+
 Personality vs Behavior
+
 Behavior: What you say (verbal) and do (non-verbal)
+
 Personality: The combination of ideas, values, hopes, dreams, attitudes, abilities, as well as the behavior that others can observe that encompasses everything a person is.
+
 SOCIAL STYLES: Pattern of actions that others can observe and agree upon for describing one’s behavior
+
 The four styles
+
 There are four styles related to the SOCIAL STYLE model. Each style represents a particular pattern of actions that others can potentially observe and agree upon for describing one’s behavior.
+
 •	Driving: strong willed and more emotionally controlled
+
 •	Expressive: outgoing and energizing
+
 •	Amiable: easy going and supportive
+
 •	Analytical: serious and more exacting
+
 The SOCIAL STYLES Model™ below categorizes the four unique styles: Analytical, Driver, Expressive, and Amiable. Team members can identify what style they may be classified as and adapt their approaches and communication style accordingly to their team.
+
 The four styles and how to apply the model
+
 The Driving Style
+
 •	
+
 •	
+
 •	
+
 •	
+
 •	
+
 •	
+
 •	
+
 •	
+
 •	
+
 •	
+
 •	
+
 •	
+
 •	
+
 •	
+
 •	
+
 •	
+
 •	
+
 •	
+
 •	
+
 The Analytical Style
+
 •	
+
 •	
+
 •	
+
 •	
+
 •	
+
 •	
+
 •	
+
 •	
+
 •	
+
 •	
+
 •	
+
 •	
+
 •	
+
 •	
+
 The Amiable Style
+
 •	
+
 •	
+
 •	
+
 •	
+
 •	
+
 •	
+
 •	
+
 •	
+
 •	
+
 •	
+
 •	
+
 •	
+
 •	
+
 •	
+
 •	
+
 •	
+
 •	
+
 •	
+
 •	
+
 •	
+
 •	
+
 The Expressive Style
+
 •	
+
 •	
+
 •	
+
 •	
+
 •	
+
 •	
+
 •	
+
 •	
+
 •	
+
 •	
+
 •	
+
 •	
+
 •	
+
 •	
+
 •	
+
 •	
+
 •	
+
 •	
+
 •	
+
 •	
+
 •	
+
 Working with other styles
+
 Below are some additional strategies for Managers to adapt and personalize their management style for your teams individual SOCIAL STYLE. Once you know the styles of your team you can tailor interactions and communications with them to strengthen relationships.
+
 The left hand side represents your style while the top represents your counterparts. Alter your style when interacting with your team members and leading others.
-	Driving	Expressive	Amiable	Analytical
-Driving	Maintain peer status, share the resonsibilities of leadership	Shift your focus to a more general outlook, be less formal	Slow your pace and focus more on the relationships	Focus on some detail in relation to the goals
-Expressive	Shift focus more toward the goal, less generalities. Be a little less casual	Listen more, take notes, don’t try to outtalk each other	Slow your pace and focus more on the relationship	Focus on some detail in relation to the goals
-Amiable	Shift Focus more toward the goal, less generalities	Pick up the pace, focus less on the relationship	Focus more on the issues at hand and less on popularity and networking	Focus less on the relationship and more on details
-Analytical	Pick up the pace and focus less on details and more on the goal	Focus a little less on detail. Be a little more causal	Focus a little more on the relationship. Be more casual	Try to look at ideas more objectively. You both need to be right.
+
+ Driving	
+ 
+ Expressive
+ 
+ Amiable
+ 
+ Analytical
+
+Driving	
+
+Maintain peer status, share the resonsibilities of leadership	
+
+Shift your focus to a more general outlook, be less formal	
+
+Slow your pace and focus more on the relationships	
+
+Focus on some detail in relation to the goals
+
+Expressive	
+
+Shift focus more toward the goal, less generalities. Be a little less casual	
+
+Listen more, take notes, don’t try to outtalk each other	
+
+Slow your pace and focus more on the relationship
+
+Focus on some detail in relation to the goals
+
+Amiable	
+
+Shift Focus more toward the goal, less generalities
+
+Pick up the pace, focus less on the relationship	
+
+Focus more on the issues at hand and less on popularity and networking	Focus less on the relationship and more on details
+
+Analytical
+
+Pick up the pace and focus less on details and more on the goal	Focus a little less on detail. Be a little more causal	Focus a little more on the relationship. Be more casual	Try to look at ideas more objectively. You both need to be right.
+
 Discover Your SOCIAL STYLE
+
 Interested in learning about your own SOCIAL STYLE and those of your team? Below are five steps you can take as an individual contributor or a people manager to better understand your people.
+
 1.	Teams can inquire about the SOCIAL STYLEs comprehensive assessment from TRACOM for a fee, that provides a comprehensive styles profile for each team member. GitLab L&D has been trained and certified on SOCIAL STLYEs, please contact them to learn more about the assessment.
+
 2.	Reflection - Reflect briefly on your result. What is your Social Style?
+
 3.	Feedback - Invite your colleagues to give feedback on your style.
+
 4.	Share - Share the assessment with teammates who have not taken the assessment.
+
 5.	Aggregate Results - Maintain a centralized location where existing and new team members can view individual SOCIAL STYLEs.
+
 Once you know your team’s SOCIAL STYLE, what do you do next?
+
 •	Talk to your team members about their style
+
 •	Give them opportunities to apply their styles in their day-to-day work
+
 •	Consider style based partnering opportunities
+
 •	Reference the language of SOCIAL STYLEs when working together
+
 •	Develop and invest in your team members individual style
+
 SOCIAL STYLES and crucial conversations
+
 There are three factors that distinguish a crucial conversation from a normal conversation:
+
 •	Stakes are high
+
 •	Opinions vary
+
 •	Emotions run strong
+
 Managing Underperformance is an example of having a crucial conversation. Team members and managers can apply the social styles framework to managing underperformance. Managers can break down barriers by getting to know their people on personal level. Different team members (different styles) have different cues when addressing a difficult conversation. Let’s take Underperformance, for example, a Manager (Expressive) style has a direct report with an Analytical style. During a meeting to address the underperformance, the Manager shares data on the underperformance while providing tasks with details on how to resolve. The direct report can seem withdrawn and detached. Since the Manager knows this is an attribute of the Analytical style, they can be more likely to resolve the underperformance in a crucial conversation.
+
 There are many applications of the SOCIAL STYLES model for working with teams. From managing conflict to coaching & mentoring, to managing up, to having crucial conversations. The applications are endless.
+
 Example of putting styles into practice
+
 Below is an example of Persona that is used to show how SOCIAL STYLEs can be put into practice as a Manager within GitLab. Personas’s are a tool to show a representation of the target audience. In this example, we’ve applied the SOCIAL STYLES framework to a ficitious manager at GitLab and how they could use the assessment within their team to personalize a management approach. Personas are archetypical users whose goals and characteristics represent the needs of a larger group. In this example, Managers. However, we can use personas for any audience at GitLab and beyond.
 Use the persona as a roadmap to implementing the SOCIAL STYLEs assessment within your team.
 Additional Resources on SOCIAL STYLES

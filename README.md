@@ -82,9 +82,9 @@ Sundar Pichai (Alphabet/Google): “Psychological safety is a cornerstone for co
 ## Where do I Start?
 **[`^        back to top        ^`](#awesome-psychological-safety)**
 
-[Splashy psych safety attachment from the UK MOD](#https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1099704/Psychological_Safety_in_MOD_Major_Programmes_Report.pdf)
+[Splashy psych safety attachment from the UK MOD](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1099704/Psychological_Safety_in_MOD_Major_Programmes_Report.pdf)
 
-[Psychology Today: Creating Psychological Safety in the Workplace](#https://www.psychologytoday.com/us/blog/brain-reboot/202309/creating-psychological-safety-in-the-workplace)
+[Psychology Today: Creating Psychological Safety in the Workplace](https://www.psychologytoday.com/us/blog/brain-reboot/202309/creating-psychological-safety-in-the-workplace)
 "KEY POINTS
 - Psychological safety boosts well-being, productivity, innovation, and job satisfaction, benefiting business.
 

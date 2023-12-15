@@ -34,7 +34,7 @@
 - [HBR / HBS (Harvard)](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#hbr--hbs-harvard)
 - [Podcasts](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#podcasts)
 - [Emotional Intelligence (EQ) assessments](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#emotional-intelligence-eq-assessments)
-- [Consulting Firm contributions](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#consulting-firm-contributions)
+- [Consulting Firm articles](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#consulting-firm-contributions)
 - [Goodreads Lists](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#goodreads-lists)
 - [Psych Safety Origins and Science from Flight Safety](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#psych-safety-origins-and-science-from-flight-safety)
   - [PDFs from Skybrary](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#skybrary-bookshelf-pdfs)
@@ -385,7 +385,10 @@ https://hbr.org/podcast/2021/12/psychological-safety-in-theory-and-in-practice
 
 **[`^        back to top        ^`](#awesome-psychological-safety)**
 
-## Consulting Firm Contributions: 
+
+<div align="center"><img src="./images/Loyalty-and-corruption.png"></div>
+
+## Consulting Firm articles: 
 https://www.ccl.org/articles/leading-effectively-articles/what-is-psychological-safety-at-work/ 
 
 https://www.bain.com/insights/getting-teamwork-right-at-the-top/
@@ -435,6 +438,9 @@ https://www.forum.org.nz/resources/mental-wellbeing-at-work/psychologicalsafety/
 https://www.forum.org.nz/assets/Factsheet-Psychological-safety-at-work-final.pdf 
 
 **[`^        back to top        ^`](#awesome-psychological-safety)**
+
+
+<div align="center"><img src="./images/Fraud.png"></div>
 
 ## Goodreads Lists
 https://www.goodreads.com/list/show/146945.Best_Leadership_Books_Nonprofits_Religious_

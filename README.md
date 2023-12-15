@@ -40,6 +40,9 @@
 - [Goodreads Lists](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#goodreads-lists)
 - [Psych Safety Origins and Science from Flight Safety](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#psych-safety-origins-and-science-from-flight-safety)
   - [PDFs from Skybrary](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#skybrary-bookshelf-pdfs)
+- Bonus (before diving into the excerpts):
+  - [Awesome Mental Health](https://dreamingechoes.github.io/awesome-mental-health/#/)
+  - [Source for their Github Pages / github.io page](https://github.com/dreamingechoes/awesome-mental-health)
 - [Excerpts from Canada's Occupational Health](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#excerpts-from-ccoh)
   - [Fact sheets](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#mental-health-fact-sheets)
     - [Active Listening](https://www.ccohs.ca/oshanswers/psychosocial/mh/mentalhealth_activelistening.html)
@@ -106,56 +109,56 @@ Remember, creating psychological safety is an ongoing process that requires comm
 
 ### Gitlab guide
 
-https://handbook.gitlab.com/handbook/leadership/emotional-intelligence/ 
+[handbook.gitlab.com/handbook/leadership/emotional-intelligence/](https://handbook.gitlab.com/handbook/leadership/emotional-intelligence/)
 
-https://handbook.gitlab.com/handbook/leadership/emotional-intelligence/psychological-safety-short-course/ 
+[handbook.gitlab.com/handbook/leadership/emotional-intelligence/psychological-safety-short-course/](https://handbook.gitlab.com/handbook/leadership/emotional-intelligence/psychological-safety-short-course/) 
 
-https://handbook.gitlab.com/handbook/leadership/emotional-intelligence/psychological-safety/ 
+[handbook.gitlab.com/handbook/leadership/emotional-intelligence/psychological-safety/](https://handbook.gitlab.com/handbook/leadership/emotional-intelligence/psychological-safety/) 
 
-https://handbook.gitlab.com/handbook/leadership/emotional-intelligence/social-styles/ 
+[https://handbook.gitlab.com/handbook/leadership/emotional-intelligence/social-styles/](handbook.gitlab.com/handbook/leadership/emotional-intelligence/social-styles/) 
 
 ### Canadian Centre on Occupational Health and Safety guide 
 
 Similarly, Canada’s occupational safety agency has a great guide, not just for psychological safety (or psychosocial safety), but all safety factors
 
-https://www.ccohs.ca/oshanswers/psychosocial/phs/mentalhealth_checklist_phs.html 
+[ccohs.ca/oshanswers/psychosocial/phs/mentalhealth_checklist_phs.html](https://www.ccohs.ca/oshanswers/psychosocial/phs/mentalhealth_checklist_phs.html)
 
-https://www.ccohs.ca/oshanswers/psychosocial/phs/phs_controllinghazards.html
+[ccohs.ca/oshanswers/psychosocial/phs/phs_controllinghazards.html](https://www.ccohs.ca/oshanswers/psychosocial/phs/phs_controllinghazards.html)
 
-https://www.ccohs.ca/oshanswers/psychosocial/phs/phs_evaluation.html 
+[ccohs.ca/oshanswers/psychosocial/phs/phs_evaluation.html](https://www.ccohs.ca/oshanswers/psychosocial/phs/phs_evaluation.html)
 
-https://www.ccohs.ca/oshanswers/psychosocial/ 
+[ccohs.ca/oshanswers/psychosocial/](https://www.ccohs.ca/oshanswers/psychosocial/) 
 
-https://www.ccohs.ca/oshanswers/ 
+[ccohs.ca/oshanswers/](https://www.ccohs.ca/oshanswers/)
 
-https://www.ccohs.ca/oshanswers/psychosocial/mh/mentalhealth_risk.html 
+[ccohs.ca/oshanswers/psychosocial/mh/mentalhealth_risk.html](https://www.ccohs.ca/oshanswers/psychosocial/mh/mentalhealth_risk.html) 
 
 ### Psych Safety community
 Psychological Safety community (UK-based but friendly, ready to field questions, and familiar with military aspects)
 
 [Join the Psychological Safety Community – Psychological Safety, powered by Iterum Ltd (psychsafety.co.uk)](https://psychsafety.co.uk/psychological-safety-community/)
 
-Their Slack community direct link https://join.slack.com/t/psychsafety/shared_invite/zt-p0xlx85u-vjkgxHkrpQw4r7C0wU3tAA 
+[Their Slack community direct link](https://join.slack.com/t/psychsafety/shared_invite/zt-p0xlx85u-vjkgxHkrpQw4r7C0wU3tAA)
 
 [What is Psychological Safety? History and Research – Psychological Safety, powered by Iterum Ltd (psychsafety.co.uk)](https://psychsafety.co.uk/about-psychological-safety/)
 
 [Psychological Safety Tool Kit – Psychological Safety, powered by Iterum Ltd (psychsafety.co.uk)](https://psychsafety.co.uk/tool-kit/)
 
-https://psychsafety.co.uk/five-key-elements-of-high-performing-teams-and-psychological-safety/ 
+[psychsafety.co.uk/five-key-elements-of-high-performing-teams-and-psychological-safety/](https://psychsafety.co.uk/five-key-elements-of-high-performing-teams-and-psychological-safety/) 
 
 ### Government Sources
 
 [Excellent workup by US Surgeon General Workplace Mental Health & Well-Being — Current Priorities of the U.S. Surgeon General (hhs.gov)](https://www.hhs.gov/surgeongeneral/priorities/workplace-well-being/index.html)
 
-https://assets.publishing.service.gov.uk/media/628e2e998fa8f55618cd3700/Leadership_Guide_-How_listening_and_learning_are_our_best_defence_-_May_2022.pdf 
+[assets.publishing.service.gov.uk/media/628e2e998fa8f55618cd3700/Leadership_Guide_-How_listening_and_learning_are_our_best_defence_-_May_2022.pdf](https://assets.publishing.service.gov.uk/media/628e2e998fa8f55618cd3700/Leadership_Guide_-How_listening_and_learning_are_our_best_defence_-_May_2022.pdf)
 
-https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1099704/Psychological_Safety_in_MOD_Major_Programmes_Report.pdf 
+[assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1099704/Psychological_Safety_in_MOD_Major_Programmes_Report.pdf](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1099704/Psychological_Safety_in_MOD_Major_Programmes_Report.pdf)
 
-https://ideas-in-action.lbl.gov/inclusion/psychological-safety 
+[ideas-in-action.lbl.gov/inclusion/psychological-safety](https://ideas-in-action.lbl.gov/inclusion/psychological-safety)
 
-https://appel.nasa.gov/2022/10/24/critical-knowledge-insight-psychological-safety-for-effective-team-communication/ 
+[appel.nasa.gov/2022/10/24/critical-knowledge-insight-psychological-safety-for-effective-team-communication/](https://appel.nasa.gov/2022/10/24/critical-knowledge-insight-psychological-safety-for-effective-team-communication/)
 
-https://research.iscrr.com.au/prevention/workplace-risks/safety-culture-and-climate 
+[research.iscrr.com.au/prevention/workplace-risks/safety-culture-and-climate](https://research.iscrr.com.au/prevention/workplace-risks/safety-culture-and-climate)
 
 [Navy and Marine Corps Psychological and Emotional Well-being Psychological and Emotional Well Being (navy.mil)](https://www.med.navy.mil/Navy-and-Marine-Corps-Force-Health-Protection-Command/Population-Health/Health-Promotion-and-Wellness/Psychological-and-Emotional-Well-Being/)
 
@@ -163,11 +166,11 @@ https://research.iscrr.com.au/prevention/workplace-risks/safety-culture-and-clim
 
 ### Other good ones
 
-https://humanfactors101.com/topics/safety-leadership/ 
+[humanfactors101.com/topics/safety-leadership/](https://humanfactors101.com/topics/safety-leadership/)
 
-https://www.betterup.com/blog/why-psychological-safety-at-work-matters 
+[betterup.com/blog/why-psychological-safety-at-work-matters](https://www.betterup.com/blog/why-psychological-safety-at-work-matters)
 
-https://amycedmondson.com/psychological-safety/ 
+[amycedmondson.com/psychological-safety/](https://amycedmondson.com/psychological-safety/)
 
 **[`^        back to top        ^`](#awesome-psychological-safety)**
 
@@ -224,58 +227,58 @@ https://amycedmondson.com/psychological-safety/
 **[`^        back to top        ^`](#awesome-psychological-safety)**
 
 ## Articles: 
-https://psychsafety.co.uk/psychological-safety-books/ 
+[psychsafety.co.uk/psychological-safety-books/](https://psychsafety.co.uk/psychological-safety-books/)
 
-https://www.workclout.com/blog/how-alcoa-quintupled-their-revenue-by-focusing-on-worker-safety 
+[workclout.com/blog/how-alcoa-quintupled-their-revenue-by-focusing-on-worker-safety](https://www.workclout.com/blog/how-alcoa-quintupled-their-revenue-by-focusing-on-worker-safety)
 
-https://www.gallup.com/workplace/236198/create-culture-psychological-safety.aspx 
+[gallup.com/workplace/236198/create-culture-psychological-safety.aspx](https://www.gallup.com/workplace/236198/create-culture-psychological-safety.aspx)
 
-https://www.hrmagazine.co.uk/content/features/hr-must-build-psychological-safety-so-employees-feel-safe-speaking-up 
+[hrmagazine.co.uk/content/features/hr-must-build-psychological-safety-so-employees-feel-safe-speaking-up](https://www.hrmagazine.co.uk/content/features/hr-must-build-psychological-safety-so-employees-feel-safe-speaking-up)
 
-https://www.hrmagazine.co.uk/content/features/the-importance-of-psychological-safety 
+[hrmagazine.co.uk/content/features/the-importance-of-psychological-safety](https://www.hrmagazine.co.uk/content/features/the-importance-of-psychological-safety)
 
 [Creating Psychological Safety in the Workplace | Psychology Today](https://www.psychologytoday.com/us/blog/brain-reboot/202309/creating-psychological-safety-in-the-workplace)
 
-https://www.army.mil/article/245626/how_psychological_safety_creates_cohesion_a_leaders_guide 
+[army.mil/article/245626/how_psychological_safety_creates_cohesion_a_leaders_guide](https://www.army.mil/article/245626/how_psychological_safety_creates_cohesion_a_leaders_guide)
 
 [Leaders or Commanders?  By Carl Hartford on LinkedIn](https://www.linkedin.com/pulse/leaders-commanders-carl-hartford)
 
-https://www.greatplacetowork.com/resources/blog/psychological-safety-workplace 
+[greatplacetowork.com/resources/blog/psychological-safety-workplace](https://www.greatplacetowork.com/resources/blog/psychological-safety-workplace)
 
-https://www.apa.org/topics/healthy-workplaces/psychological-safety 
+[apa.org/topics/healthy-workplaces/psychological-safety](https://www.apa.org/topics/healthy-workplaces/psychological-safety)
 
-https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html 
+[nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html)
 
-https://knowledge.insead.edu/leadership-organisations/psychological-safety-unlocks-potential-diverse-teams 
+[knowledge.insead.edu/leadership-organisations/psychological-safety-unlocks-potential-diverse-teams](https://knowledge.insead.edu/leadership-organisations/psychological-safety-unlocks-potential-diverse-teams)
 
 [Trend Watch: Rise of the Chief Wellness Officer - WebMD Health Services](https://www.webmdhealthservices.com/blog/trend-watch-rise-of-the-chief-wellness-officer/)
 
-https://behavioralscientist.org/the-intelligent-failure-that-led-to-the-discovery-of-psychological-safety/ 
+[behavioralscientist.org/the-intelligent-failure-that-led-to-the-discovery-of-psychological-safety/](https://behavioralscientist.org/the-intelligent-failure-that-led-to-the-discovery-of-psychological-safety/)
 
-https://accelerate.uofuhealth.utah.edu/improvement/psychological-safety-for-teams 
+[accelerate.uofuhealth.utah.edu/improvement/psychological-safety-for-teams](https://accelerate.uofuhealth.utah.edu/improvement/psychological-safety-for-teams)
 
-https://www.safetyandhealthmagazine.com/articles/21201-psychological-safety-hot-concept-workplace-safety
+[safetyandhealthmagazine.com/articles/21201-psychological-safety-hot-concept-workplace-safety](https://www.safetyandhealthmagazine.com/articles/21201-psychological-safety-hot-concept-workplace-safety)
 
-https://www.sciencedirect.com/science/article/abs/pii/S1053482217300013
+[sciencedirect.com/science/article/abs/pii/S1053482217300013](https://www.sciencedirect.com/science/article/abs/pii/S1053482217300013)
 
 **[`^        back to top        ^`](#awesome-psychological-safety)**
 
 ## Academic Sources
-https://cipp.ug.edu.pl/The-model-of-psychological-safety-of-a-soldier-s-personality,140500,0,2.html 
+[cipp.ug.edu.pl/The-model-of-psychological-safety-of-a-soldier-s-personality,140500,0,2.html](https://cipp.ug.edu.pl/The-model-of-psychological-safety-of-a-soldier-s-personality,140500,0,2.html)
 
-https://www.researchgate.net/publication/276002402_Team_Training_Team_Learning_Leadership_and_Psychology_Safety_A_Study_of_Team_Training_and_Team_Learning_Behavior_during_a_Swedish_Military_Staff_Exercise 
+[researchgate.net/publication/276002402_Team_Training_Team_Learning_Leadership_and_Psychology_Safety_A_Study_of_Team_Training_and_Team_Learning_Behavior_during_a_Swedish_Military_Staff_Exercise](https://www.researchgate.net/publication/276002402_Team_Training_Team_Learning_Leadership_and_Psychology_Safety_A_Study_of_Team_Training_and_Team_Learning_Behavior_during_a_Swedish_Military_Staff_Exercise)
 
-https://research.iscrr.com.au/__data/assets/pdf_file/0004/474439/Union-comparison-safety-climate-OHS-leadership-and-worker-engagement.pdf 
+[research.iscrr.com.au/__data/assets/pdf_file/0004/474439/Union-comparison-safety-climate-OHS-leadership-and-worker-engagement.pdf](https://research.iscrr.com.au/__data/assets/pdf_file/0004/474439/Union-comparison-safety-climate-OHS-leadership-and-worker-engagement.pdf)
 
 [Psychological safety: A systematic review of the literature - ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S1053482217300013)
 
-https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Group_Performance/Edmondson%20Psychological%20safety.pdf 
+[https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Group_Performance/Edmondson%20Psychological%20safety.pdf](https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Group_Performance/Edmondson%20Psychological%20safety.pdf)
 
 [How Psychological Safety Affects Team Performance: Mediating Role of Efficacy and Learning Behavior - PMC (nih.gov)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7393970/)
 
 [The interactive effects of conscientiousness, work effort, and psychological climate on job performance - ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S000187910400096X)
 
-https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/385339/Dissertation_SonjaFoerster_2019.pdf?sequence=6&isAllowed=y 
+[research-collection.ethz.ch/bitstream/handle/20.500.11850/385339/Dissertation_SonjaFoerster_2019.pdf](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/385339/Dissertation_SonjaFoerster_2019.pdf)
 
 **[`^        back to top        ^`](#awesome-psychological-safety)**
 
@@ -317,17 +320,17 @@ https://hbr.org/2023/02/what-is-psychological-safety
 
 [4 Steps to Boost Psychological Safety at Your Workplace (hbr.org)](https://hbr.org/2021/06/4-steps-to-boost-psychological-safety-at-your-workplace)
 
-https://www.hbs.edu/recruiting/insights-and-advice/blog/post/how-to-create-a-psychologically-safe-workplace
+[hbs.edu/recruiting/insights-and-advice/blog/post/how-to-create-a-psychologically-safe-workplace](https://www.hbs.edu/recruiting/insights-and-advice/blog/post/how-to-create-a-psychologically-safe-workplace)
 
-https://www.hbs.edu/recruiting/insights-and-advice/blog/post/leading-in-tough-times 
+[hbs.edu/recruiting/insights-and-advice/blog/post/leading-in-tough-times](https://www.hbs.edu/recruiting/insights-and-advice/blog/post/leading-in-tough-times)
 
-https://www.hbs.edu/recruiting/insights-and-advice/blog/post/creating-inclusive-recruiting-events-in-a-time-of-innovation 
+[hbs.edu/recruiting/insights-and-advice/blog/post/creating-inclusive-recruiting-events-in-a-time-of-innovation](https://www.hbs.edu/recruiting/insights-and-advice/blog/post/creating-inclusive-recruiting-events-in-a-time-of-innovation)
 
-https://hbr.org/2018/04/the-two-traits-of-the-best-problem-solving-teams 
+[hbr.org/2018/04/the-two-traits-of-the-best-problem-solving-teams](https://hbr.org/2018/04/the-two-traits-of-the-best-problem-solving-teams)
 
-https://hbswk.hbs.edu/item/four-steps-to-build-the-psychological-safety-that-high-performing-teams-need-today 
+[hbswk.hbs.edu/item/four-steps-to-build-the-psychological-safety-that-high-performing-teams-need-today](https://hbswk.hbs.edu/item/four-steps-to-build-the-psychological-safety-that-high-performing-teams-need-today)
 
-https://hbr.org/2022/03/research-to-excel-diverse-teams-need-psychological-safety 
+[hbr.org/2022/03/research-to-excel-diverse-teams-need-psychological-safety](https://hbr.org/2022/03/research-to-excel-diverse-teams-need-psychological-safety)
 
 | Link | Description |
 | --- | --- | 
@@ -559,21 +562,33 @@ https://skybrary.aero/articles/stress-air-traffic-control
 **[`^        back to top        ^`](#awesome-psychological-safety)**
 
 ## Excerpts from Canadian Centre on Occupational Health and Safety, or CCOHS
+
 ### Mental Health Fact Sheets
+
 View all facts sheets A-Z
+
 1.	[Mental Health - Active Listening]( https://www.ccohs.ca/oshanswers/psychosocial/mh/mentalhealth_activelistening.html)
+
 2.	[Mental Health - Addressing Conflicts](https://www.ccohs.ca/oshanswers/psychosocial/mh/mentalhealth_conflicts.html)
+
 3.	[Mental Health - Dealing with Stress in the Workplace](https://www.ccohs.ca/oshanswers/psychosocial/mh/stress_workplace.html)
+
 4.	[Mental Health - Having Courageous Conversations](https://www.ccohs.ca/oshanswers/psychosocial/mh/mentalhealth_conversations.html)
+
 5.	[Mental Health - How to Address and Support](https://www.ccohs.ca/oshanswers/psychosocial/mh/mentalhealth_address.html)
+
 6.	[Mental Health - Introduction](https://www.ccohs.ca/oshanswers/psychosocial/mh/mentalhealth_intro.html)
+
 7.	[Mental Health - Job Burnout](https://www.ccohs.ca/oshanswers/psychosocial/mh/mentalhealth_jobburnout.html)
+
 8.	[Mental Health - Psychosocial Risk Factors in the Workplace](https://www.ccohs.ca/oshanswers/psychosocial/mh/mentalhealth_risk.html)
+
 9.	[Mental Health - Return to Work](https://www.ccohs.ca/oshanswers/psychosocial/mh/return_to_work.html
+
 10.	[Mental health - Recognizing and Addressing Stigma at Work](https://www.ccohs.ca/oshanswers/psychosocial/mh/mentalhealth_stigma.html)
 
 1.	Mental Health - Active Listening
-On this page
+
 •	Why is good communication an important skill?
 
 •	What are some tips for follow for active listening?

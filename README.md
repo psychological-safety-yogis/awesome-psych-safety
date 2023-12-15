@@ -203,7 +203,7 @@ UK-based Psychological Safety community, ready to field your questions and famil
 
 | Title | Link |
 | ------ | ----- |
-| Building a psychologically safe workplace Amy Edmondson TEDxHGSE | https://www.youtube.com/watch?v=LhoLuui9gX8 |
+| Building a psychologically safe workplace Amy Edmondson TEDxHGSE | [youtube.com/watch?v=LhoLuui9gX8](https://www.youtube.com/watch?v=LhoLuui9gX8) |
 | What is Psychological Safety, and How do you create Psychological Safety at Work? | https://www.youtube.com/watch?v=73FfNvGePMg |
 | How Google builds the perfect team, with Charles Duhigg | https://www.youtube.com/watch?v=v2PaZ8Nl2T4 |
 | Leading Psychological Safety: Obligations and Opportunities with Dr Hillary Bennett | https://www.youtube.com/watch?v=waD9K4MQG_U |

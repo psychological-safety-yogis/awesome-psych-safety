@@ -415,19 +415,19 @@ UK-based Psychological Safety community, ready to field your questions and famil
 <div align="center"><img src="./images/Fraud.png"></div>
 
 ## Goodreads Lists
-https://www.goodreads.com/list/show/146945.Best_Leadership_Books_Nonprofits_Religious_
+[goodreads.com/list/show/146945.Best_Leadership_Books_Nonprofits_Religious](https://www.goodreads.com/list/show/146945.Best_Leadership_Books_Nonprofits_Religious_)
 
-https://www.goodreads.com/list/show/169217.Developing_Emotional_Intelligence 
+[goodreads.com/list/show/169217.Developing_Emotional_Intelligence](https://www.goodreads.com/list/show/169217.Developing_Emotional_Intelligence)
 
-https://www.goodreads.com/list/show/109343.I_O_Psychology_Books
+[goodreads.com/list/show/109343.I_O_Psychology_Books](https://www.goodreads.com/list/show/109343.I_O_Psychology_Books)
 
-https://www.goodreads.com/list/show/157325.Best_Books_on_Thinking_and_Decision_Making
+[goodreads.com/list/show/157325.Best_Books_on_Thinking_and_Decision_Making](https://www.goodreads.com/list/show/157325.Best_Books_on_Thinking_and_Decision_Making)
 
-https://www.goodreads.com/list/show/3886.Books_Every_Businessperson_Should_Read 
+[goodreads.com/list/show/3886.Books_Every_Businessperson_Should_Read](https://www.goodreads.com/list/show/3886.Books_Every_Businessperson_Should_Read)
 
-https://www.goodreads.com/list/show/128460.psychology_the_power_of_the_mind
+[goodreads.com/list/show/128460.psychology_the_power_of_the_mind](https://www.goodreads.com/list/show/128460.psychology_the_power_of_the_mind)
 
-https://www.goodreads.com/list/show/143532.Healthcare_Reading_List 
+[goodreads.com/list/show/143532.Healthcare_Reading_](https://www.goodreads.com/list/show/143532.Healthcare_Reading_)
 
 **[`^        back to top        ^`](#awesome-psychological-safety)**
 
@@ -436,87 +436,87 @@ https://www.goodreads.com/list/show/143532.Healthcare_Reading_List
 
 ## Psych Safety Origins and Science from Flight Safety
 
-https://www.skybrary.aero/articles/organisational-culture 
+[skybrary.aero/articles/organisational-culture](https://www.skybrary.aero/articles/organisational-culture)
 
-https://www.skybrary.aero/articles/safety-culture 
+[skybrary.aero/articles/safety-culture](https://www.skybrary.aero/articles/safety-culture)
 
-https://www.skybrary.aero/articles/safety-culture-enhancement-toolbox-atm 
+[skybrary.aero/articles/safety-culture-enhancement-toolbox-atm](https://www.skybrary.aero/articles/safety-culture-enhancement-toolbox-atm)
 
-https://www.skybrary.aero/articles/safety-culture-atm 
+[skybrary.aero/articles/safety-culture-atm](https://www.skybrary.aero/articles/safety-culture-atm)
 
-https://www.skybrary.aero/articles/just-culture
+[skybrary.aero/articles/just-culture](https://www.skybrary.aero/articles/just-culture)
 
-https://www.skybrary.aero/articles/building-just-culture 
+[skybrary.aero/articles/building-just-culture](https://www.skybrary.aero/articles/building-just-culture)
 
-https://www.skybrary.aero/enhancing-safety/just-culture/about-just-culture/just-culture-manifesto
+[skybrary.aero/enhancing-safety/just-culture/about-just-culture/just-culture-manifesto](https://www.skybrary.aero/enhancing-safety/just-culture/about-just-culture/just-culture-manifesto)
 
-https://www.skybrary.aero/enhancing-safety/just-culture
+[skybrary.aero/enhancing-safety/just-culture](https://www.skybrary.aero/enhancing-safety/just-culture)
 
-https://www.skybrary.aero/tutorials/safety-and-justice 
+[skybrary.aero/tutorials/safety-and-justice](https://www.skybrary.aero/tutorials/safety-and-justice)
 
-https://www.skybrary.aero/articles/just-culture-day-day-operations 
+[skybrary.aero/articles/just-culture-day-day-operations](https://www.skybrary.aero/articles/just-culture-day-day-operations)
 
-https://www.skybrary.aero/enhancing-safety/just-culture/just-culture-knowledge-centre
+[skybrary.aero/enhancing-safety/just-culture/just-culture-knowledge-centre](https://www.skybrary.aero/enhancing-safety/just-culture/just-culture-knowledge-centre)
 
-https://www.skybrary.aero/articles/safety-and-justice-online-toolkit 
+[skybrary.aero/articles/safety-and-justice-online-toolkit](https://www.skybrary.aero/articles/safety-and-justice-online-toolkit)
 
-https://skybrary.aero/articles/verbal-communication 
+[skybrary.aero/articles/verbal-communication](https://skybrary.aero/articles/verbal-communication)
 
-https://skybrary.aero/articles/socio-cultural-effects-flight-deck 
+[skybrary.aero/articles/socio-cultural-effects-flight-deck](https://skybrary.aero/articles/socio-cultural-effects-flight-deck)
 
-https://skybrary.aero/articles/trust 
+[skybrary.aero/articles/trust](https://skybrary.aero/articles/trust)
 
-https://skybrary.aero/articles/pilot-mental-health 
+[skybrary.aero/articles/pilot-mental-health](https://skybrary.aero/articles/pilot-mental-health)
 
-https://www.skybrary.aero/enhancing-safety/just-culture/just-culture-aviation
+[skybrary.aero/enhancing-safety/just-culture/just-culture-aviation](https://www.skybrary.aero/enhancing-safety/just-culture/just-culture-aviation)
 
-https://www.skybrary.aero/enhancing-safety/just-culture/just-culture-healthcare
+[skybrary.aero/enhancing-safety/just-culture/just-culture-healthcare](https://www.skybrary.aero/enhancing-safety/just-culture/just-culture-healthcare)
 
-https://www.skybrary.aero/enhancing-safety/just-culture/just-culture-maritime
+[skybrary.aero/enhancing-safety/just-culture/just-culture-maritime](https://www.skybrary.aero/enhancing-safety/just-culture/just-culture-maritime)
 
-https://www.skybrary.aero/enhancing-safety/just-culture/just-culture-rail
+[skybrary.aero/enhancing-safety/just-culture/just-culture-rail](https://www.skybrary.aero/enhancing-safety/just-culture/just-culture-rail)
 
-https://skybrary.aero/articles/situational-awareness 
+[skybrary.aero/articles/situational-awareness](https://skybrary.aero/articles/situational-awareness)
 
-https://skybrary.aero/articles/pilot-workload 
+[skybrary.aero/articles/pilot-workload](https://skybrary.aero/articles/pilot-workload)
 
-https://skybrary.aero/articles/stress 
+[skybrary.aero/articles/stress](https://skybrary.aero/articles/stress)
 
-https://skybrary.aero/articles/fatigue-risk-maintenance 
+[skybrary.aero/articles/fatigue-risk-maintenance](https://skybrary.aero/articles/fatigue-risk-maintenance)
 
-https://skybrary.aero/articles/fatigue-management-guidance-air-traffic-controllers-and-air-traffic-engineers 
+[skybrary.aero/articles/fatigue-management-guidance-air-traffic-controllers-and-air-traffic-engineers](https://skybrary.aero/articles/fatigue-management-guidance-air-traffic-controllers-and-air-traffic-engineers)
 
-https://skybrary.aero/articles/mood 
+[skybrary.aero/articles/mood](https://skybrary.aero/articles/mood)
 
-https://skybrary.aero/articles/human-factor-emergencies 
+[skybrary.aero/articles/human-factor-emergencies](https://skybrary.aero/articles/human-factor-emergencies)
 
-https://skybrary.aero/articles/human-error-types 
+[skybrary.aero/articles/human-error-types](https://skybrary.aero/articles/human-error-types)
 
-https://skybrary.aero/articles/surprise 
+[skybrary.aero/articles/surprise](https://skybrary.aero/articles/surprise)
 
-https://skybrary.aero/articles/startle-reflex 
+[skybrary.aero/articles/startle-reflex](https://skybrary.aero/articles/startle-reflex)
 
-https://skybrary.aero/articles/risk-perception 
+[skybrary.aero/articles/risk-perception](https://skybrary.aero/articles/risk-perception) 
 
-https://skybrary.aero/articles/recovery-failure 
+[skybrary.aero/articles/recovery-failure](https://skybrary.aero/articles/recovery-failure)
 
-https://skybrary.aero/articles/error-reporting 
+[skybrary.aero/articles/error-reporting](https://skybrary.aero/articles/error-reporting)
 
-https://skybrary.aero/articles/complacency 
+[skybrary.aero/articles/complacency](https://skybrary.aero/articles/complacency)
 
-https://skybrary.aero/articles/confirmation-bias 
+[skybrary.aero/articles/confirmation-bias](https://skybrary.aero/articles/confirmation-bias)
 
-https://skybrary.aero/articles/flight-crew-expectation-bias 
+[skybrary.aero/articles/flight-crew-expectation-bias](https://skybrary.aero/articles/flight-crew-expectation-bias)
 
-https://skybrary.aero/articles/skill-fade 
+[skybrary.aero/articles/skill-fade](https://skybrary.aero/articles/skill-fade)
 
-https://skybrary.aero/articles/recency-bias 
+[skybrary.aero/articles/recency-bias](https://skybrary.aero/articles/recency-bias)
 
-https://skybrary.aero/articles/human-factors-dirty-dozen 
+[skybrary.aero/articles/human-factors-dirty-dozen](https://skybrary.aero/articles/human-factors-dirty-dozen)
 
-https://skybrary.aero/articles/single-person-operations-atc 
+[skybrary.aero/articles/single-person-operations-atc](https://skybrary.aero/articles/single-person-operations-atc)
 
-https://skybrary.aero/articles/stress-air-traffic-control 
+[skybrary.aero/articles/stress-air-traffic-control](https://skybrary.aero/articles/stress-air-traffic-control)
 
 **[`^        back to top        ^`](#awesome-psychological-safety)**
 
@@ -524,18 +524,18 @@ https://skybrary.aero/articles/stress-air-traffic-control
 
 | Description | Link |
 | --- | --- |
-| WHY WON’T WORKERS SPEAK UP? THE DIFFERENCE BETWEEN PSYCHOLOGICAL SAFETY AND TRUST | https://skybrary.aero/sites/default/files/bookshelf/6104.pdf |
-| APPLYING JUST CULTURE IN RAIL: DRAWING PARALLELS FROM AVIATION | https://skybrary.aero/sites/default/files/bookshelf/34360.pdf |
-| WELLBEING, CULTURE AND THE NEED FOR A PSYCHOLOGICALLY SAFE ENVIRONMENT | https://skybrary.aero/sites/default/files/bookshelf/5670.pdf | 
-| The Flight Safety Foundation Safety Forum | https://skybrary.aero/sites/default/files/bookshelf/34209.pdf |
-| THE WAY WE DO THINGS AROUND HERE: CONVERSATIONS ABOUT NORMS | https://skybrary.aero/sites/default/files/bookshelf/6087.pdf |
-| Systems Thinking for Safety: Ten Principles | https://skybrary.aero/sites/default/files/bookshelf/5026.pdf | 
-| ESTABLISHMENT OF ‘JUST CULTURE’ PRINCIPLES IN ATM SAFETY DATA REPORTING AND ASSESSMENT | https://www.skybrary.aero/sites/default/files/bookshelf/235.pdf |
-| Just culture in Europe and Beyond Setting the scene | https://www.skybrary.aero/sites/default/files/bookshelf/4793.pdf |
-| European Organisation for the Safety of Air Navigation The JUST CULTURE Deliverables: Model Prosecution Policy, Support and Communication | https://www.skybrary.aero/sites/default/files/bookshelf/4794.pdf |
-| CAN WE SERVE THE INTERESTS OF AVIATION SAFETY and JUST CULTURE? | https://www.skybrary.aero/sites/default/files/bookshelf/4811.pdf |
-| Do You Have a Safety Culture? | https://www.skybrary.aero/sites/default/files/bookshelf/234.pdf |
-| A Roadmap to a Just Culture: Enhancing the Safety Environment | https://www.skybrary.aero/sites/default/files/bookshelf/233.pdf |
+| WHY WON’T WORKERS SPEAK UP? THE DIFFERENCE BETWEEN PSYCHOLOGICAL SAFETY AND TRUST | [skybrary.aero/sites/default/files/bookshelf/6104.pdf](https://skybrary.aero/sites/default/files/bookshelf/6104.pdf) |
+| APPLYING JUST CULTURE IN RAIL: DRAWING PARALLELS FROM AVIATION | [skybrary.aero/sites/default/files/bookshelf/34360.pdf](https://skybrary.aero/sites/default/files/bookshelf/34360.pdf) |
+| WELLBEING, CULTURE AND THE NEED FOR A PSYCHOLOGICALLY SAFE ENVIRONMENT | [skybrary.aero/sites/default/files/bookshelf/5670.pdf](https://skybrary.aero/sites/default/files/bookshelf/5670.pdf) | 
+| The Flight Safety Foundation Safety Forum | [skybrary.aero/sites/default/files/bookshelf/34209.pdf](https://skybrary.aero/sites/default/files/bookshelf/34209.pdf) |
+| THE WAY WE DO THINGS AROUND HERE: CONVERSATIONS ABOUT NORMS | [skybrary.aero/sites/default/files/bookshelf/6087.pdf](https://skybrary.aero/sites/default/files/bookshelf/6087.pdf) |
+| Systems Thinking for Safety: Ten Principles | [skybrary.aero/sites/default/files/bookshelf/5026.pdf](https://skybrary.aero/sites/default/files/bookshelf/5026.pdf) | 
+| ESTABLISHMENT OF ‘JUST CULTURE’ PRINCIPLES IN ATM SAFETY DATA REPORTING AND ASSESSMENT | [skybrary.aero/sites/default/files/bookshelf/235.pdf](https://www.skybrary.aero/sites/default/files/bookshelf/235.pdf) |
+| Just culture in Europe and Beyond Setting the scene | [https://www.skybrary.aero/sites/default/files/bookshelf/4793.pdf](https://www.skybrary.aero/sites/default/files/bookshelf/4793.pdf) |
+| European Organisation for the Safety of Air Navigation The JUST CULTURE Deliverables: Model Prosecution Policy, Support and Communication | [skybrary.aero/sites/default/files/bookshelf/4794.pdf](https://www.skybrary.aero/sites/default/files/bookshelf/4794.pdf) |
+| CAN WE SERVE THE INTERESTS OF AVIATION SAFETY and JUST CULTURE? | [skybrary.aero/sites/default/files/bookshelf/4811.pdf](https://www.skybrary.aero/sites/default/files/bookshelf/4811.pdf) |
+| Do You Have a Safety Culture? | [skybrary.aero/sites/default/files/bookshelf/234.pdf](https://www.skybrary.aero/sites/default/files/bookshelf/234.pdf) |
+| A Roadmap to a Just Culture: Enhancing the Safety Environment | [skybrary.aero/sites/default/files/bookshelf/233.pdf](https://www.skybrary.aero/sites/default/files/bookshelf/233.pdf) |
 
 **[`^        back to top        ^`](#awesome-psychological-safety)**
 

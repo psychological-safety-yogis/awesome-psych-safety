@@ -103,7 +103,7 @@ Remember, creating psychological safety is an ongoing process that requires comm
 **[`^        back to top        ^`](#awesome-psychological-safety)**
 
 ## The Best Sources
-### Gitlab Example
+### Gitlab guide
 https://handbook.gitlab.com/handbook/leadership/emotional-intelligence/ 
 
 https://handbook.gitlab.com/handbook/leadership/emotional-intelligence/psychological-safety-short-course/ 
@@ -112,7 +112,7 @@ https://handbook.gitlab.com/handbook/leadership/emotional-intelligence/psycholog
 
 https://handbook.gitlab.com/handbook/leadership/emotional-intelligence/social-styles/ 
 
-### Canada Example 
+### Canadian Centre on Occupational Health and Safety guide 
 Similarly, Canada’s occupational safety agency has a great guide, not just for psychological safety (or psychosocial safety), but all safety factors
 https://www.ccohs.ca/oshanswers/psychosocial/phs/mentalhealth_checklist_phs.html 
 
@@ -432,9 +432,10 @@ https://www.goodreads.com/list/show/143532.Healthcare_Reading_List
 
 **[`^        back to top        ^`](#awesome-psychological-safety)**
 
-## Psych Safety Origins and Science from Flight Safety
 
 <div align="center"><img src="./images/flavors of safety culture.png"></div>
+
+## Psych Safety Origins and Science from Flight Safety
 
 https://www.skybrary.aero/articles/organisational-culture 
 
@@ -539,7 +540,7 @@ https://skybrary.aero/articles/stress-air-traffic-control
 
 **[`^        back to top        ^`](#awesome-psychological-safety)**
 
-## Excerpts from CCOH: 
+## Excerpts from Canadian Centre on Occupational Health and Safety, or CCOHS
 ### Mental Health Fact Sheets
 View all facts sheets A-Z
 1.	[Mental Health - Active Listening]( https://www.ccohs.ca/oshanswers/psychosocial/mh/mentalhealth_activelistening.html)

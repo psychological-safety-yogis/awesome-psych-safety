@@ -564,8 +564,11 @@ View all facts sheets A-Z
 1.	Mental Health - Active Listening
 On this page
 •	Why is good communication an important skill?
+
 •	What are some tips for follow for active listening?
+
 •	What are tips when looking for body language?
+
 •	What are other tips for positive communication in a workplace?
 ________________________________________
 Why is good communication an important skill?
@@ -575,23 +578,36 @@ ________________________________________
 What are some tips for follow for active listening?
  
 •	Make eye contact. Note that in some cultures, excessive eye contact can be seen as inappropriate, aggressive, or rude. Be intent, but don’t stare.
+
 •	Focus on what is being said. Do not do other activities at the same time such as monitor for e-mails, answer the telephone, etc.
+
 •	Listen and allow the person to speak. Do not interrupt. You may want to “fix” things, but if you have not heard the entire situation, you may be fixing the wrong issue.
+
 •	Allow pauses. Some people may need time to think about and formulate their answers. Do not pressure someone to answer quickly.
+
 •	Ask questions. If something is not clear, asking for more detail about it in a friendly and non-judgmental way shows interest and concern.
+
 •	Repeat for confirmation. When you repeat what you heard, you reduce the chance of misperceptions and confusion. Give the other person a chance to correct any misunderstanding of what you think you heard.
+
 •	Reflect on what you heard.
+
 •	Listen between the lines. Look for clues in body language that may reveal how the person is feeling about whatever you are talking about (posture, facial expressions, eye contact, etc.)
 ________________________________________
 What are tips when looking for body language?
  
 Pay attention to:
 •	Proximity – standing too close or too far away
+
 •	Posture – disapproval or dislike versus interest
+
 •	Gestures – eye contact, hand movements
+
 •	Facial expressions – nodding, smiling, shaking your head
+
 •	Silence – interest, concern, stimulation of further talk; or disapproval, disinterest, disbelief
+
 •	Actions supporting the words that the person is saying
+
 Don’t forget that your tone of voice and body language are also part of the message.
 Please see the OSH Answers on Mental Health - Having Courageous Conversations for more information about verbal and non-verbal communication.
 ________________________________________
@@ -599,22 +615,33 @@ What are other tips for positive communication in a workplace?
  
 Other tips include to:
 •	Look for solutions. Do not rehash an old problem.
+
 •	Think about “what else” can be discussed or learned. If you give yourself time to hear the whole story, you are less likely to jump to conclusions or assumptions.
+
 •	Do not focus on providing solutions immediately. Time may be needed for both parties to come to a solution that works best for both sides. If the decision or solution is reached with consensus, it is more likely that people will be committed to its success.
+
 •	Allow a person to clarify their comments. Sometimes what we say is not what we mean. Take the time to clarify what you heard and determine if htat matches what they intended to say.
 ________________________________________
+
 •	Fact sheet first published: 2018-10-30
+
 •	Fact sheet confirmed current: 2022-01-25
+
 •	Fact sheet last revised: 2018-10-30
 
 2.	Mental Health - Addressing Conflicts
 Why do people have conflicts?
 •	Why do people have conflicts?
+
 •	What can an employer do?
+
 •	What are some ways of informally resolving conflicts?
+
 •	What are more tips for resolving conflicts?
+
 •	What is mediation?
-•	What ste
+
+•	What steps are involved in mediation?
 
  
 Conflicts are inevitable. Having different goals and styles can actually promote innovative solutions, creativity, and help bring about change. However negative results happen when conflicts are associated with blame, anger, and grudges. No matter what the source of the conflict is, resolution before the situation escalates is essential.
@@ -624,352 +651,608 @@ What can an employer do?
  
 When investigating conflicts in the workplace, be sure to look for root causes especially if conflicts seem to be increasing. The root cause may come from any number of sources.
 Strategies to successfully address conflicts in the workplace include::
+
 Do:
 •	Encourage employees to seek constructive resolution for conflicts.
+
 •	Clarify exactly what the issue is.
+
 •	Understand that for most situations, there is an objective (factual) version of events, and a subjective (personal) view.
+
 •	Listen carefully and actively to fully understand the situation.
+
 •	Find common ground.
+
 •	Make sure people know it is okay to disagree at times.
+
 •	Treat everyone with respect and professionalism.
+
 •	Learn how to listen effectively (give undivided attention, do not do other activities at the same time such as monitor for e-mails, answer the phone, etc. ).
+
 •	Move from justification to resolution. Focus on actions in the future, not the past.
+
 •	Set clear boundaries.
+
 •	Have clearly defined job descriptions to help people understand their roles and what is expected of them.
+
 •	Define acceptable behaviour. Understanding what is appropriate and what is not will help avoid conflicts.
+
 Don't
 •	Do not blame or judge anyone. Instead, look for opportunities to resolve the situation.
+
 •	Do not give advice. The best resolutions come from the people involved. If asked or if appropriate, you can offer ideas for discussion.
 •	Do not demand change. Try to find areas where collaboration or compromise can be made.
 ________________________________________
 What are some ways of informally resolving conflicts?
  
 Employees should be encouraged to seek help when resolving conflicts. The situation should be brought to the attention of the relevant parties. Employees may wish to try discussing the situation with the person (or people) they are in conflict with, or they may wish to ask for help from other people.
+
 If the issue is not serious or severe, resolution process can come from within the employee's department, if possible. If the employee feels uncomfortable raising the issue within their department, they should know where to seek help. Options may be to work with the Human Resources department, a designated manager, or through the use of an external professional.
+
 Not all situations will require the same option or method of resolution. You may find that one type of strategy works well for certain situations or people, and not in other situations or with certain people.
+
 Try to remain flexible and use a variety of strategies including:
+
 Avoiding: In some cases, it may be appropriate to leave a conflict unresolved. In other cases, just leave the conflict unresolved for a cooling off period.
+
 Accommodating: Accepting that there is a minor conflict (an “agreeing to disagree” arrangement) can be an important gesture for minor issues. Accommodating on the small issues may help to build trust and respect between those with the conflict.
+
 Confronting: Discussing face-to-face in a respectful and professional manner may also help. Be sure to consider the other person's position and feelings on the issue. Confronting may include explaining why certain decisions were made (“I did not use your idea because…”) and, if necessary, a further explanation such as “But unfortunately, the final decision for the project was made by (name) for those reasons”.
+
 Collaborating: Like confronting, you discuss the situation directly with the other person. However, you may decide to follow the explanation with an offer to involve the other person in another way. (“But, I was wondering if you had any ideas about… ”).
+
 Compromising: With this option, the differences in opinion are discussed. A plan or option is reached together, and often both sides agree to modify their position.
+
 Communication: Clear communication is essential for good working relationships. Often, subtle differences in verbal and nonverbal communications can change the way a situation is seen and interpreted. The more emotional the situation becomes, the more these cues affect our interpretation of the event(s).
 ________________________________________
+
 What are more tips for resolving conflicts?
  
 •	Try to put yourself in the other person's position so that you can better understand how to address the issue.
+
 •	Ask for his or her recommendation.
+
 •	Repeat back to the person what you feel he or she is asking or telling you in order to clarify what you are hearing.
+
 •	Accept criticism in a positive way. When a complaint might be true, use statements like “you are probably right” or “it was my fault”. If the criticism seems unwarranted, ask for clarification.
+
 •	Be honest. Do not make false statements or promises you cannot keep.
+
 •	Take the person seriously and be respectful.
+
 •	Break down the issue into smaller units and offer step-by-step solutions so the person is not overwhelmed by the complete situation.
+
 •	Be reassuring. Point out or offer choices.
+
 •	Do not take sides.
+
 •	Do not reject the person's demands or position from the start. Use a neutral, non-judgmental comment such as “that is an option”.
 ________________________________________
+
 What is mediation?
  
 Mediation is a more formal way to reach an understanding of the issue(s). The mediator should be someone who does not have an emotional stake in the outcome. Mediators may be from within the company, or a professional from outside. Resolving conflicts works best when people are calm, and can shift the focus to the issue instead of the people.
 ________________________________________
+
 What steps are involved in mediation?
  
 1.	Schedule a meeting between the people experiencing the conflict after everyone has calmed down. The cooling down period is essential as it will help disassociate the emotions from the issues. Pick an appropriate time and place where all parties feel they are able to speak openly. Ensure that everyone in the meeting knows that they are invited to help get to the bottom of the situation.
+
 2.	Have people take turns explaining their position, issues or feelings. They should not be interrupted while speaking. Have someone else take notes. Encourage people to talk by asking questions like “What did you say?” or “What did you do?” rather than simply asking for their version of an event.
+
 3.	The note-taker should read back what each person said. Each person should confirm that the notes are accurate.
+
 4.	Invite everyone to brainstorm for solutions to the issue. Brainstorming does not place blame, nor should it be judgemental about whether an idea is good or bad.
+
 5.	Discuss these ideas. Talk about how each idea might work, or how it might not work.
+
 6.	Find a solution to the conflict that everyone can accept. This solution may not be anyone's first choice, but it is important that all of the people find it acceptable. If possible, let the people experiencing the conflict decide on a solution. They may need to agree on aspects such as what the issue is, what procedures to follow, what change is needed, and/or what steps to take in the future. If they cannot agree, then the mediator may have to make a decision. In either case, be clear about expectations and how everyone will know if the solution is working.
+
 7.	Put the solution into place for a set period of time (such as a week or two).
+
 8.	Follow-up and schedule a second meeting to make sure that the solution is working. Make any necessary adjustments to the solution if need be. Lessons learned from follow-up discussions may help to prevent similar situations from happening again.
 ________________________________________
 •	Fact sheet last revised: 2021-12-17
 
 3.	Mental Health - Dealing with Stress in the Workplace
 On this page
+
 •	How can I deal with workplace stress?
+
 •	How do I know if someone is (or if I am) having trouble coping with stress?
+
 •	How can I identify stress triggers?
+
 •	What are some tips I can use to help manage my reaction to stress?
+
 •	What are some ways to get support?
 ________________________________________
+
 How can I deal with workplace stress?
  
 There are many ways to be proactive when dealing with stress. Do not forget that elements of the workplace itself can be a cause of stress. Mental fitness, self help, taking healthy steps, stress management training, and counselling services can be helpful to individuals, but do not forget to look for the root cause(s) of the stress and to address them.
+
 Employers and organizations are encouraged to see these other OSH Answers documents about how to help prevent stress in the workplace:
+
 •	Mental Health - Introduction
+
 •	Mental Health - Psychosocial Risk Factors in the Workplace
+
 •	Mental Health - How to Address and Support
+
 •	Workplace Health and Well-being - Comprehensive Workplace Health and Safety Program
 However, in some cases, the origin of the stress is something that cannot be changed immediately. Therefore, finding ways to help maintain personal good mental health is also essential.
 ________________________________________
+
 How do I know if someone is (or if I am) having trouble coping with stress?
  
 Below is a quiz from the Canadian Mental Health Association to help identify the extent of a person’s stress:
+
 What's Your Stress Index
+
 DO YOU FREQUENTLY:	YES	NO
+
 Neglect your diet?	 	 
+
 Try to do everything yourself?	 	 
+
 Blow up easily?	 	 
+
 Seek unrealistic goals?	 	 
+
 Fail to see the humour in situations others find funny?	 	 
+
 Act rude?	 	 
+
 Make a 'big deal' of everything?	 	 
+
 Look to other people to make things happen?	 	 
+
 Have difficulty making decisions	 	 
+
 Complain you are disorganized?	 	 
+
 Avoid people whose ideas are different from your own?	 	 
+
 Keep everything inside?	 	 
+
 Neglect exercise?	 	 
+
 Have few supportive relationships?	 	 
+
 Use sleeping pills and tranquilizers without a doctor's approval?	 	 
+
 Get too little rest?	 	 
+
 Get angry when you are kept waiting?	 	 
+
 Ignore stress symptoms?	 	 
+
 Put things off until later?	 	 
+
 Think there is only one right way to do something?	 	 
+
 Fail to build relaxation time into your day?	 	 
+
 Gossip?	 	 
+
 Race through the day?	 	 
+
 Spend a lot of time complaining about the past?	 	 
+
 Fail to get a break from noise and crowds?	 	 
+
 Adapted from: What's Your Stress Index? Canadian Mental Health Association.
+
 Interpretation of the score (based on the number of “Yes” selections):
-•	0-5:  There are few hassles in your life. Make sure though, that you are not trying to deliberately avoid problems.
+
+•	0-5:  There are few hassles in your life. Make sure though, that you are not trying to 
+deliberately avoid problems.
+
 •	6-10: You've got your life in fairly good control. Work on the choices and habits that could still be causing you some unnecessary stress in your life.
+
 •	11-15: You are approaching the danger zone. You may be suffering stress-related symptoms and your relationships could be strained. Think carefully about choices you've made and take relaxation breaks every day.
+
 •	16-25: Emergency! It is critical that you stop and re-think how you are living; change your attitudes and pay careful attention to diet, exercise and relaxation.
 ________________________________________
+
 How can I identify stress triggers?
  
 For some people, it may help to try to identify what causes you to have a reaction.
 Record or keep a journal for a week or two to identify which situations create the most stress and how you respond to them (physical, mental, emotional). Include a brief description of each situation, answering questions such as:
+
 •	Where were you?
+
 •	Who was involved?
+
 •	What was your reaction? (Did you raise your voice? Get a snack from the vending machine? Become emotional? Go for a walk?)
+
 •	How did you feel?
 Taking notes can help you find patterns among your stressors and your reactions to them.
 Next, review your journal. You might find obvious causes of stress, such as the threat of losing your job or obstacles with a particular project. You might also notice subtle but persistent causes of stress, such as a long commute, pace of work, many interruptions, or an uncomfortable workspace.
 ________________________________________
+
 What are some tips I can use to help manage my reaction to stress?
  
 Try some of the following steps:
+
 •	Build confidence: Identify your abilities and weaknesses. Accept them, build on them, and try your best whenever you can.
+
 •	Prioritize: Take charge of the situation by taking 10 minutes at the beginning of each day to prioritize and organize your day. Be honest with colleagues, but be constructive and make practical suggestions.
+
 •	Talk to others: Talk with trusted colleagues or friends about the issues you are facing at work. They might be able to provide insights or offer suggestions. Sharing a problem with others who have had similar experiences may help you find a solution.
+
 •	Set boundaries: Set limits to when you will work extra hours (including when you will take work calls or check for e-mails outside regular work hours).
+
 •	Eat right, keep fit: A balanced diet, exercise, and rest can help you to reduce stress and enjoy life. Learn to relax, take several deep breaths throughout the day, or have regular stretch breaks.
+
 •	Make time for family and friends: These relationships need to be nurtured; if taken for granted they will not be there to share life's joys and sorrows.
+
 •	Give and accept support from friends and family.
+
 •	Create a meaningful budget: Financial problems cause stress. Over-spending on our wants instead of our needs can be added stress.
+
 •	Volunteer: Being involved in community can give a sense of purpose and satisfaction.
+
 •	Learn to laugh: Share a laugh with a co-worker, watch a funny movie at home with friends, read the comics, and try to see the humour in the situation.
+
 •	Identify and deal with moods: We all need to find safe and constructive ways to express our feelings of anger, sadness, joy and fear.
+
 •	Learn to be at peace with yourself: Get to know who you are, what makes you really happy, and learn to balance what you can and cannot change about yourself.
 Other mental fitness tips include:
+
 •	Give yourself permission to take a break from your worries and concerns. Recognize that dedicating even a short time every day to your mental fitness will help you feel rejuvenated and more confident.
+
 •	"Collect" positive emotional moments - Make a point of recalling times when you have experienced pleasure, comfort, tenderness, confidence or other positive things.
+
 •	Do one thing at a time - Be "present" in the moment, whether out for a walk or spending time with friends, turn off your cell phone and your mental "to do" list.
+
 •	Enjoy hobbies - Hobbies can bring balance to your life by allowing you to do something you enjoy because you want to do it.
+
 •	Set personal goals - Goals don't have to be ambitious. They could be as simple as finishing a book, walking around the block every day, learning a new hobby, or calling your friends instead of e-mailing. Whatever goal you set, reaching it will build confidence and a sense of satisfaction.
+
 •	Express yourself - Whether in a journal or talking to a wall, expressing yourself after a stressful day can help you gain perspective, release tension, and boost your body's resistance to illness.
+
 •	Treat yourself well - Take some "you" time to help relax- whether it's cooking a good meal, mediation, participating in sports, seeing a movie, go for a walk, play with your family and pets - do something that brings you joy.
 ________________________________________
+
 What are some ways to get support?
  
 Support may come in many ways, including:
+
 •	Talk to your supervisor: Start by having an open conversation with your supervisor. They may not be aware that you are struggling. The purpose of the meeting is to come up with an effective plan for managing your work or the stressors you've identified so you can perform at your best on the job. While some parts of the plan may be designed to help you improve your skills in areas such as time management, other elements might include clarifying what is expected of you, getting necessary resources or support from colleagues, enriching your job to include more challenging or meaningful tasks, or making changes to your physical workspace to make it more comfortable and reduce strain.
+
 •	Set realistic goals. Work with management to set realistic expectations and deadlines. Set regular progress reviews and adjust your goals as needed.
+
 •	Seek and accept help. Your employer may also have resources available through an employee assistance program (EAP), including online information, available counseling and referral to mental health professionals, if needed. Accepting help from trusted friends and family members or professionals can improve your ability to manage stress.
 If you continue to feel overwhelmed by work stress, you may want to talk to your doctor, a mental health professional, or psychologist who can help you better manage stress. Know when to seek help.
 ________________________________________
+
 •	Fact sheet first published: 2018-06-01
+
 •	Fact sheet confirmed current: 2022-01-25
+
 •	Fact sheet last revised: 2018-06-01
-
-
-
-
-
 
 4.	Mental Health - Having Courageous Conversations
 On this page
+
 •	How can I support someone with mental health issues?
+
 •	How can workplaces support their workers?
+
 •	How do I have “that” conversation with a worker?
+
 •	What are some tips for effective verbal communication?
+
 •	What are tips for effective non-verbal behaviour and communication?
+
 •	What employers can do for mental well-being in the workplace?
+
 •	What can workers do to address their mental well-being?
+
 ________________________________________
+
 How can I support someone with mental health issues?
  
 Often we are hesitant to reach out to help a friend or co-worker who is struggling for fear of saying the wrong thing, offending the other person, or worrying that you are not qualified to ask about their health.
+
 However, asking someone a simple “Are you okay?” is a great place to start when it comes to supporting individuals who may be facing mental health challenges. Remember, you don’t need to be a therapist to show compassion and empathy to individuals who may be facing struggles or challenges with their mental health.
+
 ________________________________________
+
 How can workplaces support their workers?
  
 Workplaces have a responsibility to protect workers’ health and safety, including to protect them from any workplace factor that may impact their mental health. This duty must be balanced with other responsibilities such as fulfilling business and operational requirements. An organization’s key asset is their workers, and ensuring a worker is healthy and able to perform their duties to the best of their ability is usually considered to be the right thing to do. Creating a safe space so the worker can share and discuss their concerns will foster a caring culture of support in which everyone benefits.
 ________________________________________
+
 How do I have “that” conversation with a worker?
  
 If a change in a worker’s behaviour or performance is noticed, there is a duty to inquire. A meeting should be scheduled to discuss any concerns and issues that may be noticed. If there are concerns about performance and completing work, this fact should not be the first focus. Start with what you have observed, such as “I’ve noticed lately…” or “You haven’t been yourself lately, are you okay?”
+
 These conversations may not be successful the first time, but continual follow up and discussion should bring about trust and empathy so the employee feels comfortable in sharing if there is something affecting their mental health. Active listening skills are necessary so the worker feels safe and secure in sharing private details about their mental health.
 ________________________________________
+
 What are some tips for effective verbal communication?
  
 •	Focus your attention on the other person to let them know you are interested in what they have to say.
+
 •	Listen carefully. Do not interrupt with unsolicited advice or criticism.
+
 •	Be observant. Decide if it is a good time to interrupt, or if you should wait for a more appropriate time to speak.
+
 •	Be aware of how you are delivering your words.
+
 •	Speak calmly, quietly, and confidently.
+
 •	Use common words. Do not use official language, jargon, or complex terminology.
+
 •	Encourage the person to talk.
+
 •	Remain open minded and objective.
+
 •	Acknowledge the person’s feelings. If they appear upset, indicate that you can see they are upset.
+
 •	Try to understand. Ask questions like “help me understand why you are upset.” Once you think you understand, repeat it back to the person so they know you understand.
+
 •	Remain calm if the situation becomes heated, and try to gently calm the other person (but do not yell “calm down!”). Do not allow the other person’s anger to become your anger.
 ________________________________________
+
 What are tips for effective non-verbal behaviour and communication?
  
 •	Use calm body language. Have a relaxed posture with unclenched hands and an attentive expression.
+
 •	Position yourself at a right angle to the person, rather than directly in front of them.
+
 •	Give the person enough physical space. This distance varies by culture but normally 2 to 4 feet is considered an adequate distance.
+
 •	Get on the other person’s physical level. If they are seated, try kneeling or bending rather than standing over them.
+
 •	Pay attention to the person. Do not do anything else at the same time such as answer phone calls, read e-mails, etc.
+
 •	Do not stand or sit in a challenging stance such as:
+
 o	standing directly opposite someone
+
 o	putting your hands on your hips
+
 o	pointing your finger
+
 o	waving your arms
+
 o	crossing your arms
+
 •	Do not glare or stare. It may be perceived as a challenge.
+
 •	Do not make sudden movements. These movements can be seen as threatening.
 ________________________________________
+
 What employers can do for mental well-being in the workplace?
  
 Some strategies for creating a positive space for protecting mental health include:
+
 •	Create an organizational culture that values worker input in all aspects, including planning, policy making, and setting goals.
+
 •	Be sure that managers and supervisors act to support the organization’s values.
+
 •	Balance job demands with workers’ capabilities and resources.
+
 •	Have clearly defined job descriptions to help people understand their roles and what is expected of them.
+
 •	Provide leadership and mental health training for managers and supervisors to learn their roles in promoting positive mental health.
+
 •	Encourage and create opportunities for learning, skill development, personal growth, and social interaction with other workers.
+
 •	Address psychosocial hazards as equally as you would safety or other hazards.
+
 •	Provide opportunities or programs that assist individuals in maintaining good health, such as a fitness policy or healthy food choices.
+
 ________________________________________
+
 What can workers do to address their mental well-being?
  
 Some strategies for workers to protect their mental health include:
+
 •	Seek help when needed. Talk to your supervisor, human resources, or health and safety representative. Use the Employee Assistance Program if available.
+
 •	Participate in planning with your manager to balance work demands and work load.
+
 •	Find a hobby or activity that helps you relax and brings happiness, and then do it regularly.
+
 •	Share your feelings with someone you trust, or write them down in a journal.
+
 •	Acknowledge when things are going well. Celebrate your successes.
+
 •	Get to know who you are, what makes you happy, and what your stress triggers are. Learn to acknowledge what you can and cannot change about yourself or the situation.
+
 •	Develop healthy habits such as regular exercise, adequate sleep, and a balanced diet.
 ________________________________________
+
 •	Fact sheet first published: 2018-07-03
+
 •	Fact sheet last revised: 2018-07-03
 
 5.	Mental Health - How to Address and Support
 On this page
+
 •	Why should employers be concerned about mental health?
+
 •	Are there any specific issues in the workplace that affect employee mental health?
+
 •	What can workplaces do to support mental health?
+
 •	What can be done to gain support and participation across the organization?
+
 •	What else can employers do?
+
 •	Does CCOHS have any other resources to help?
+
 ________________________________________
+
 Why should employers be concerned about mental health?
  
 The overall health of a workplace includes both the physical and psychological well-being of its workers. By treating mental health and its psychological component equally with the physical environment, a workplace can support their workers' overall well-being. Poor mental health not only hurts the individual, it also reduces corporate profits. It's important that all levels of the workplace – including the Board of Directors, management, finance, and human resources departments – get involved to incorporate mental health at your workplace. It is also necessary to engage your health and safety committee and workers – we all have a shared responsibility for health and safety, including mental health.
+
 There is no one "right way" to create a mentally healthy workplace because every workplace is different – from the people doing the work, to the work that needs to be done, to the leaders running the organization, the size of the organization, the external environment that influences the community, and the external resources the company draws. All of these factors play a role in employee mental health.
+
 There is also a legislative requirement for employers to protect the mental and physical health of their employees. Many provincial occupational health and safety acts have been expanded to include harm to psychological well-being in the definition of harassment. In jurisdictions that do not have explicit legislation dealing with psychological health in the workplace, the general duty clause would apply. Some legislation now recognizes psychological health and safety as part of overall health and safety responsibilities by using terms like ‘psychological well being’ and ‘psychological injury’. Psychological health and safety can also be found in the following legislated areas:
+
 •	Definition of harassment and violence
+
 •	Purpose of the Act
+
 •	Definition of health and safety
+
 •	Definition of injury
+
 •	Adjustment of the work environment to address the well-being of the worker
+
 In jurisdictions that do not have explicit legislation addressing psychological health in the workplace, the general duty clause would apply. Please refer to the legislation in your jurisdiction for specific requirements.
  
 ________________________________________
+
 Are there any specific issues in the workplace that affect employee mental health?
  
 Research has identified several workplace factors – known as psychosocial risk factors (PSR) – that can have an impact on organizational health, the health of individual employees, and the financial bottom line. The way work is carried out and the context in which work occurs can have a significant impact on an employee's mental health – positively or negatively. When employees have a negative exposure to these factors, there is potential for the development of stress, demoralization, depressed mood, anxiety, or burnout.
+
 Organizations need to consider all of these in their efforts to create a mentally healthy workplace. The factors are:
+
 •	Balance
+
 •	Civility and Respect
+
 •	Clear Leadership and Expectations
+
 •	Engagement
+
 •	Growth and Development
+
 •	Involvement and Influence
+
 •	Organizational Culture
+
 •	Protection of Physical Safety
+
 •	Psychological Competencies and Demands
+
 •	Psychological Protection
+
 •	Psychological and Social Support
+
 •	Recognition and Reward
+
 •	Workload Management
+
 Workplace issues that can also affect mental health include:
+
 •	stigma and discrimination
+
 •	demand/control and effort/reward relationships
+
 •	presenteeism
+
 •	job burnout
+
 •	harassment, violence, bullying and mobbing
+
 •	problematic substance us
+
 For more information about these issues, please see the OSH Answers Mental Health - Psychosocial Risk Factors.
 ________________________________________
+
 What can workplaces do to support mental health?
  
 A psychologically safe and healthy workplace is one that promotes workers' mental well-being and does not harm employee mental health through negligent, reckless or intentional ways. For example, a psychologically safe workplace would be free of excessive fear or chronic anxiety. An organization's commitment should start at the top.
+
 One way to achieve a psychologically safe workplace is to create and implement a Comprehensive Workplace Health and Safety (CWHS) Program. This program is a series of strategies and related activities, initiatives and policies developed by the employer, in consultation with employees, to continually improve or maintain the quality of working life, health, and the well-being of the workforce. These activities are developed as part of a continual improvement process to improve the work environment (physical, psychosocial, organizational, economic), and to increase personal empowerment and personal growth.
 ________________________________________
+
 What can be done to gain support and participation across the organization?
  
 When introducing psychological health and safety initiatives, it is important to get buy-in from all levels in the organization. Support and participation will help to improve the environmental and behavioural factors that influence how all employees interact with each other on a daily basis. 
+
 Senior leaders  
+
 Owners and senior leaders have the critical capacity to positively influence workplace culture, management practices, priorities, and values through setting expectations, leading by example, and allocating time, people power, and resources. 
+
 To gain support and participation from senior leaders: 
+
 •	Help leaders understand the legal, ethical, and economical benefits of psychological health and safety 
+
 •	Identify champions from all levels of the organization 
+
 •	Establish decision-making procedures and clearly identify who are responsible for the development and implementation of psychological health and safety initiatives 
+
 To gain support and participation from managers: 
+
 •	Communicate the purpose of psychological health and safety initiatives and who are responsible for them 
+
 •	Clearly demonstrate senior leaders’ support 
+
 •	Recognize managers’ efforts in performing the day-to-day duties of ensuring a healthy and safe workplace 
+
 •	Ask for feedback from managers about the roll-out of mental health initiatives and respond to their concerns 
+
 •	Help managers understand how their work and their team’s work might be affected by new initiatives and what resources and supports are available 
+
 •	Highlight the importance of training and equipping managers with skills and resources to help them respond to issues brought up by their team 
+
 Managers  
+
 Managers and supervisors are often tasked with balancing between meeting business targets and wanting to model healthy habits and support their team members. Managers and supervisors are also on the front lines of addressing mental health issues that are reported or intentionally noticed through interactions with their team. 
+
 All employees  
+
 Initiatives may fall short of their intended effect if employees are not given a clear idea of the initiative’s end goal and whether their participation is encouraged by the organization’s leaders.  
+
 To gain support and participation from all employees: 
+
 •	Help employees understand the purpose of the initiatives and how the initiatives might impact their experience at work 
+
 •	Clearly demonstrate senior leaders’, managers’, and supervisor’s support 
+
 •	Assure everyone that initiatives are about assessing and minimizing workplace factors that are associated with negative mental health outcomes rather than identifying personal strengths and weaknesses or asking for personal medical status 
+
 ________________________________________
+
 What else can employers do?
  
 Below are eight strategies that employers can use to encourage positive mental health:
+
 1.	Encourage active employee participation and decision making
+
 2.	Clearly define employees' duties and responsibilities
+
 3.	Promote work-life balance
+
 4.	Encourage respectful and non-derogatory behaviours
+
 5.	Manage workloads
+
 6.	Allow continuous learning
+
 7.	Have conflict resolution practices in place
+
 8.	Recognize employees' contributions effectively
+
 (Adapted from Canadian Mental Health Association’s Workplace Mental Health Promotion, A How-To Guide.)
+
 Additionally, employers can:
+
 •	When implementing a new process or procedure, always consider the psychological impact of the change.
+
 •	Assess psychological safety in your workplace and develop a plan to address it. See Guarding Minds @ Work or the CSA Standard “Z1003-13  (R2022) Psychological health and safety in the workplace - Prevention, promotion, and guidance to staged implementation” for more information.
+
 •	Develop a policy statement that reflects your organization's commitment to making workplace mental health a priority. A policy demonstrates leadership and commitment. Additionally, your health and safety policy should address commitment to addressing psychosocial risk factors as well as other hazards
+
 •	Explicitly include mental health and psychological safety in your  health and safety committee mandate.
+
 •	Develop policies and practices to address workplace harassment, violence, and bullying. Review your current policies and procedures and consider how they might be positively or negatively contributing to issues of violence and harassment.
+
 •	Provide education and training that ensures managers and employees know how to recognize hazards such as harassment, bullying, and psychologically unhealthy work conditions. This training provides concrete ways for co-workers to recognize and talk about health issues in general. Managers can additionally contribute to a positive work environment if they have the skills and knowledge to identify and respond to issues before they escalate.
+
 •	Educate all health and safety committee members about the importance of psychological health in the workplace.
+
 •	Ask the worker representative(s) on the committee to bring forward general workplace psychological health issues that affect their workforce rather than any individual's particular situation. Require that individual privacy and confidentiality be respected at all times.
 •	Develop policies regarding problematic substance use in the workplace and/or impairment at work make sure all employees are aware of the steps they need to follow.
 ________________________________________

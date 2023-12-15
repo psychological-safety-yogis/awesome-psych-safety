@@ -9,6 +9,7 @@
 ## Table of Contents
 - [Table of Contents (You Are Here)](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#table-of-contents)
 - [How to edit Github READMEs and request changes](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#preamble-guide-to-github-and-editing-readmes)
+- [SECTION A - How to psych the safety]()
 - [What is Psychological Safety?](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#what-is-psychological-safety)
 - [Where do I start?  Article by Denise Cooper and Katrina Hardie in Psychology Today](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#where-do-i-start)
 - [The Best up front](https://github.com/psychological-safety-yogis/awesome-psych-safety/tree/live#the-best-sources)
@@ -32,6 +33,7 @@
 - [Awesome Mental Health List (like this one! Bonus!)](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#bonus-awesome-mental-health-list):
   - [Awesome Mental Health](https://dreamingechoes.github.io/awesome-mental-health/#/)
   - [Source for their Github Pages / github.io page](https://github.com/dreamingechoes/awesome-mental-health)
+- [SECTION B - Copy Pasta]()
 - [Excerpts from Canada's Occupational Health](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#excerpts-from-ccoh)
   - [Fact sheets](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#mental-health-fact-sheets)
     - [Active Listening](https://www.ccohs.ca/oshanswers/psychosocial/mh/mentalhealth_activelistening.html)
@@ -62,6 +64,8 @@
 | Something broken? |[Create issue](https://github.com/psychological-safety-yogis/awesome-psych-safety/issues) |
 | Grow the Psych Safety Wiki here |[Wiki](https://github.com/psychological-safety-yogis/awesome-psych-safety/wiki) |
 | Love Psychological Safety as much as we do? | [Sponsor us!](https://github.com/sponsors/psychological-safety-yogis)
+
+# SECTION A - How to psych the safety
 
 ## What is Psychological Safety?
 “Psychological safety is a cornerstone for collaboration and risk-taking, essential elements for driving innovation and success in our rapidly evolving industry.” -Sundar Pichai (Alphabet/Google)
@@ -542,6 +546,11 @@ UK-based Psychological Safety community, ready to field your questions and famil
 ## Bonus Awesome Mental Health List:
   - [Awesome Mental Health](https://dreamingechoes.github.io/awesome-mental-health/#/)
   - [Source for their Github Pages / github.io page](https://github.com/dreamingechoes/awesome-mental-health/#/)
+
+----------------------------------------------------------------------------------------------------------------------------------
+
+# SECTION B - Copy Pasta
+-------------------------
 
 ## Excerpts from Canadian Centre on Occupational Health and Safety, or CCOHS
 

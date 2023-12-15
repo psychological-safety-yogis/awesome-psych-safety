@@ -195,43 +195,25 @@ Sundar Pichai (Alphabet/Google): “Psychological safety is a cornerstone for co
 
 ## Videos: 
 
-| Title | Link |
+| Title | Link | 
 | Building a psychologically safe workplace Amy Edmondson TEDxHGSE | https://www.youtube.com/watch?v=LhoLuui9gX8 |
-
 | What is Psychological Safety, and How do you create Psychological Safety at Work? | https://www.youtube.com/watch?v=73FfNvGePMg |
-
 | How Google builds the perfect team, with Charles Duhigg | https://www.youtube.com/watch?v=v2PaZ8Nl2T4 |
-
 | Leading Psychological Safety: Obligations and Opportunities with Dr Hillary Bennett | https://www.youtube.com/watch?v=waD9K4MQG_U |
-
 | Just Culture in an Organization | https://www.skybrary.aero/video/just-culture-organization |
-
 | Safety Culture Evolution General Introduction | https://www.skybrary.aero/video/safety-culture-evolution-general-introduction |
-
 | Safety Culture Evolution Episode 1 | https://www.skybrary.aero/video/safety-culture-evolution-episode-1 |
-
 | Safety Culture Evolution Episode 2 | https://www.skybrary.aero/video/safety-culture-evolution-episode-2 |
-
 | Safety Culture Evolution Episode 3 | https://www.skybrary.aero/video/safety-culture-evolution-episode-3 |
-
 | The Case for Psychological Safety and Better Teams Rafael Chiuzi TEDxMcMasterU | https://www.youtube.com/watch?v=MO3k6eGEJ5w |
-
 | Psychological health - Is the work safe? Do I feel safe? | https://www.youtube.com/watch?v=UkccLEzaPTI |
-
 | What a Trusting Team Feels Like Simon Sinek | https://www.youtube.com/watch?v=0ui9rxIUKxg |
-
 | Emotional Safety: How to Improve Relationships and Communication #2 | https://www.youtube.com/watch?v=hEfCxEdDtGU |
-
 | What is psychological safety? | https://www.youtube.com/watch?v=GZgmoxOgfig |
-
 | How Psychological Safety has been the bedrock of key innovation programs at Google | https://www.youtube.com/watch?v=-zrLI-Osg88 |
-
 | What is Psychological Safety, and why is it important? | https://www.youtube.com/watch?v=eHJN6rAMVQI | 
-
 | Why we (like Google) should strive for team psychological safety | https://www.youtube.com/watch?v=IH67P7EMnt0 |
-
 | How does psychological safety impact performance? | https://www.youtube.com/watch?v=2630mnn3U5Y |
-
 | The Neuroscience of Psychological Safety | https://www.youtube.com/watch?v=ugQuuHoI-zw |
 
 **[`^        back to top        ^`](#awesome-psychological-safety)**
@@ -344,50 +326,27 @@ https://hbswk.hbs.edu/item/four-steps-to-build-the-psychological-safety-that-hig
 https://hbr.org/2022/03/research-to-excel-diverse-teams-need-psychological-safety 
 
 | link | description |
-| --- | --- |
-
 | https://www.hbs.edu/faculty/Pages/item.aspx?num=61676 | Feeling Seen: Leader Eye Gaze Promotes Psychological Safety, Participation, and Voice|
-
 |https://www.hbs.edu/faculty/Pages/item.aspx?num=20682  | Explaining Psychological Safety in Innovation Teams |
-
 |https://www.hbs.edu/faculty/Pages/item.aspx?num=50683  | Understanding Psychological Safety in Healthcare and Education Organizations: A Comparative Perspective |
-
 |https://www.hbs.edu/faculty/Pages/item.aspx?num=23399  | Overcoming Barriers to Collaboration: Psychological Safety and Learning in Diverse Teams |
-
 |https://www.hbs.edu/faculty/Pages/item.aspx?num=62294  | Psychological Safety and Fearless Organisations |
-
 |https://www.hbs.edu/faculty/Pages/item.aspx?num=62296 | Creating Psychological Safety in the Workplace |
-
 |https://www.hbs.edu/faculty/Pages/item.aspx?num=58211  | The Psychological Safety Imperative |
-
 |https://www.hbs.edu/faculty/Pages/item.aspx?num=61993 | Exploring the Relationship between Team Diversity, Psychological Safety and Team Performance: Evidence from Pharmaceutical Drug Development |
-
 |https://www.hbs.edu/faculty/Pages/item.aspx?num=62287  | How to Build Psychological Safety in Your Workplace with The Fearless Organization Author, Amy C. Edmondson |
-
 |https://www.hbs.edu/faculty/Pages/item.aspx?num=60426  | The Impact of Covid-19 on Psychological Safety in the Workplace (Interview) |
-
 |https://www.hbs.edu/faculty/Pages/item.aspx?num=54851  | The Fearless Organization: Creating Psychological Safety in the Workplace for Learning, Innovation, and Growth |
-
 |https://www.hbs.edu/faculty/Pages/item.aspx?num=62225  | How Psychological Safety and Feeling Heard Relate to Burnout and Adaptation Amid Uncertainty |
-
 |https://www.hbs.edu/faculty/Pages/item.aspx?num=23401  | Psychological Safety |
-
 |https://www.hbs.edu/faculty/Pages/item.aspx?num=62297 | How to Build Psychological Safety, with Amy Edmondson |
-
 |https://www.hbs.edu/faculty/Pages/item.aspx?num=50688  | Psychological Safety |
-
 |https://www.hbs.edu/faculty/Pages/item.aspx?num=57981  | Psychological Safety and Near Miss Events in Radiation Oncology |
-
 |https://www.hbs.edu/faculty/Pages/item.aspx?num=63309  | Psychological Safety Comes of Age: Observed Themes in an Established Literature |
-
 |https://www.hbs.edu/faculty/Pages/item.aspx?num=53934  | The Strategic Imperative of Psychological Safety and Organizational Error Management |
-
 |https://www.hbs.edu/faculty/Pages/item.aspx?num=60423  | From Orientation to Behavior: The Interplay Between Learning Orientation, Open-mindedness, and Psychological Safety in Team Learning |
-
 |https://www.hbs.edu/faculty/Pages/item.aspx?num=2959  | Psychological Safety and Learning Behavior in Work Teams |
-
 |https://www.hbs.edu/faculty/Pages/item.aspx?num=36470  | Varied Experience, Team Familiarity, and Learning: The Mediating Role of Psychological Safety |
-
 |https://www.hbs.edu/faculty/Pages/item.aspx?num=22109  | Workplace Safety at Alcoa (A) |
 
 **[`^        back to top        ^`](#awesome-psychological-safety)**

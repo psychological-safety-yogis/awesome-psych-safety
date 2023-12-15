@@ -3139,1086 +3139,2103 @@ There are many applications of the SOCIAL STYLES model for working with teams. F
 Example of putting styles into practice
 
 Below is an example of Persona that is used to show how SOCIAL STYLEs can be put into practice as a Manager within GitLab. Personas’s are a tool to show a representation of the target audience. In this example, we’ve applied the SOCIAL STYLES framework to a ficitious manager at GitLab and how they could use the assessment within their team to personalize a management approach. Personas are archetypical users whose goals and characteristics represent the needs of a larger group. In this example, Managers. However, we can use personas for any audience at GitLab and beyond.
+
 Use the persona as a roadmap to implementing the SOCIAL STYLEs assessment within your team.
+
 Additional Resources on SOCIAL STYLES
+
 Below are additional resources on social styles for review
+
 •	TRACOM SOCIAL STYLE Model
+
 •	Social Styles and Conflict Resolution
+
 •	Managerial Success Stories
+
 •	Communicating with Style
+
 The SSOT for the slides on this page can be found in this folder.
+
 Last modified October 31, 2023
  
 
 
 
+
 4.	Leadership
+
 On This Page
+
 •	Managers of One
+
 o	Examples of actions from managers of one at GitLab
+
 •	Interim and Acting Leadership
+
 •	Making decisions
+
 •	Communication should be direct, not hierarchical
+
 •	Giving Feedback
+
 o	Identifying root causes
+
 •	Responding to Negative Feedback
+
 •	1-to-1
+
 •	Skip level interactions
+
 •	Your Individual README
+
 o	READMEs by Division
+
 o	Creating Your README
+
 o	Advertising Your README
+
 •	Coaching
+
 o	What is coaching?
+
 •	No matrix organization
+
 •	Stable counterparts
+
 •	Factory vs. studio
+
 •	Effective escalations
+
 •	Process gets a bad rep
+
 •	Talent Acquisition and retention
+
 •	High Output Management
+
 •	Building High Performing Teams
+
 o	Strategies to Build High Performing Teams
+
 o	Manager M-Team Groups
+
 •	Articles
+
 •	Books
+
 •	Email Lists
+
 •	Training
+
 o	Leadership Development Opportunities
+
 •	People Group
+
 •	Being a public company
+
 •	Mitigating Concerns
+
 Leadership
+
 This page contains leadership pointers. The first couple of headers indicate which group they apply to, using the groupings defined on our team structure page.
+
 Managers of One
+
 In an all-remote organization, we want each team member to be a manager of one. A manager of one is an attribute associated with our Efficiency value. To be successful at GitLab, team members need to develop their daily priorities to achieve goals. Managers of one set the tone for their work, assign items and determine what needs to get done. No matter what role you serve, self-leadership is an essential skill needed to be successful as a manager of one.
+
 1.	At GitLab, leadership is requested from everyone, whether an individual contributor or member of the leadership team.
+
 2.	As a leader, GitLab team members will follow your behavior, so always do the right thing. Lead by example with effort.
+
 3.	Everyone who joins GitLab should consider themselves ambassadors of our values and protectors of our culture.
+
 4.	Behavior should be consistent inside and outside the company. We do the right thing outside the company, too.
+
 5.	GitLab respects your judgment of what is best for you, since you know yourself best. If you have a better opportunity somewhere else don’t stay at GitLab out of a sense of loyalty to the company.
+
 6.	In tough times people will put in their best effort when they are doing it for each other.
+
 7.	We work asynchronously. Lead by example and make sure people understand that things need to be written down in issues as they happen. Hold your team accountable with documentation.
+
 8.	We are not a democratic or consensus driven company. People are encouraged to give their comments and opinions, but in the end one person decides the matter after they have listened to all the feedback.
+
 9.	It is encouraged to disagree and have constructive debates but please argue intelligently.
+
 10.	We value truth seeking over cohesion.
+
 11.	We avoid meetings, when possible, because they don’t support the asynchronous work flow and are hard to conduct due to timezone differences.
+
 12.	Start meetings on time, be on time yourself, don’t ask if everyone is there, and don’t punish people that have shown up on time by waiting for people or repeating things for those that come late. When a meeting unblocks a process or decision, don’t celebrate that but instead address the question: How can we unblock in the future without needing a meeting?
+
 13.	Be intentional in how you prepare for and participate in meetings. Async communication works best when folks review their calendars and prepare in advance of meetings.
+
 14.	We give feedback, lots of it. Don’t hold back on suggestions for improvements, this helps us grow. Take pride in helping others through feedback.
+
 15.	Focus on improvement. If you meet external people, always ask what they think we should improve.
+
 16.	Following from Paul Graham’s advice: Strive to make the organization simpler.
+
 17.	Saying something to the effect of “as you might have heard”, “unless you’ve been living in a cage you know”, “as everyone knows”, or “as you might know” is toxic. The people that know don’t need it to be said. The people that don’t know feel like they missed something and might be afraid to ask about the context.
+
 18.	Don’t use someone else’s name, remind people of your title, or otherwise “pull rank” to get things done.
+
 19.	Act as a CEO of yourself and your role by taking responsibility to set goals and appropriate timelines. Prioritize your contributions and know it’s impossible to know everything.
+
 20.	Communicate clearly with your team and people leader on the status of your goals. Act quickly to address areas that pose a challenge or to reassess goals that cannot be reached in an alloted timeframe.
+
 Examples of actions from managers of one at GitLab
+
 1.	When asked to attend a synchronous brainstorming call, a team member instead opens an issue and requests for their team’s ideas asynchronously.
+
 2.	A people leader champions our value of Diversity, Inclusion and Belonging by becoming a mentor.
+
 3.	A team member blocks out dedicated time for learning and development to implement a regular practice of self-serving and self-learning.
+
 4.	A team member in a new role finds an inefficiency in a process they are learning. Without being asked or supervised, they open a merge request (MR) proposing a change and assign it to their manager for review.
+
 5.	When a scheduled meeting agenda is complete 10 minutes before the call is set to end, an attendee ends the call early.
+
 6.	A people leader hires a new team member that demonstrates our CREDIT values.
+
 7.	Before asking for others’ time to discuss a topic, they dedicate time to process their thoughts and make a proposal.
+
 8.	A manager of one prioritizes wellbeing by blocking their calendars for fitness, meals, paid time off, and personal appointments.
+
 9.	A team member surfaces blockers as opposed to assuming their manager or team is already aware, and simultaneously works to unblock others by working in public and with a low level of shame.
-In the CEO Handbook Learning Session above, GitLab CEO Sid Sijbrandij gives more context on individual contributor leadership and managers of one.
+
+In the CEO Handbook Learning Session above, GitLab CEO Sid Sijbrandij gives more context on individualcontributor leadership and managers of one.
+
 We want leadership from everyone at GitLab. Since we are remote, there is a high expectation to do your work without direct supervision. It means that every team member is responsible for communication, structuring decisions, and managing your workload individually.
+
 Interim and Acting Leadership
+
 In some cases, a individual in the Management group, Director group, S-group, or even E-group may have an “Interim” or “Acting” title.
+
 1.	Acting means that someone is occupying this role temporarily and will move back to their original role after a set amount of time or other conditions, such as an external hire.
+
 2.	Interim means the individual is working on a promotion into the role.
+
 In either case, they will be fulfilling the full responsibilities of the role. If you have any questions, about the future of the role, please ask them or their manager.
+
 Individual departments will have their own criteria for who is eligible to occupy these roles, so please check the career development page for your department.
+
 Making decisions
+
 Please see the Making Decisions Leadership page.
+
 Communication should be direct, not hierarchical
+
 Most companies communicate from top to bottom through a chain of command. This communication flow often empowers managers, but it also introduces inefficiency as team members are not able to connect directly with the people they need to communicate with in order to get their work done. At GitLab, every team member is encouraged to reach out to whoever is the correct person (or people) to quickly unblock issues, solve problems or support in other ways. Do be courteous of your direct manager and copy them on the request. We don’t encourage unnecessary friction in asking team members to escalate through managers and wait for responses to come back. What matters is efficiency in getting to results. Slack the CEO, Slack a VP, or Slack a peer. Do what you need to do to make GitLab successful.
+
 Managers should not be bottlenecks or silos for communication. Anyone should feel comfortable reaching out to anyone else with the best information they can to solve a problem. This is a more efficient, transparent, and collaborative way to work.
+
 Giving Feedback
+
 Giving regular feedback is extremely important for both managers and team members. Feedback can take the form of coaching sessions, separate from 1-to-1 meetings. Giving feedback is also about being prepared and, depending on the situation, you should create separate agendas and structure them as follows:
+
 1.	Provide context.
+
 2.	Use a framework for your feedback. Our recommended framework is Crucial Conversations – we offer a training course, and the book is part of our recommended reading for leaders.
+
 3.	Ask yourself, is this:
+
 o	Actionable
+
 o	Specific
+
 o	Kind (Does the feedback help the person? Note: Being kind is not the same as being nice.)
+
 o	Objective (similar to Fair)
+
 o	Relevant to the job role and compa ratio
+
 Identifying root causes
+
 Sometimes when performance dips, the best way to tackle it is to try to determine the root cause. This is easier said than done. There is a great tool that CEB (now Gartner) created to help with this called performance issue root cause diagnostic. It may not always be possible or appropriate to determine the root cause, so the underperformance process should be followed.
+
 Responding to Negative Feedback
+
 As a leader, the way you respond to negative feedback makes a significant impact on your team. Remember that it can be difficult for people to approach someone in authority with concerns and respond with sensitivity and appreciation. In particular, we recommend that you keep the following in mind:
+
 •	Don’t argue or get defensive. Accept the feedback for what it is: an attempt to help you improve your work or your professional relationships. If you do have to explain yourself, try to remain empathetic.
+
 •	It’s fine (even preferable) to defer action. When presented with negative feedback, we often feel like we have to either justify our actions or promise change, and since change isn’t always easy when you’re responsible for a large team, justification becomes the default. It’s OK to say you need time to evaluate the feedback and decide how to proceed.
+
 •	The Right Way to Respond to Negative Feedback
-•	If a team member from your department or another part of the org comes to you and says they do not feel like they or their reports’ contributions are valued by your reports, the manager should try to resolve this. Research shows that this is more likely to happen to underrepresented minorities. Please note that DRIs are free to ignore feedback without acknowledging it and that valuing contributions isn’t the same as agreeing with them. This is about co-opting someone else’s idea without attribution and/or dismissing an idea with an ad-hominem remark.
+
+•	If a team member from your department or another part of the org comes to you and says they do not feel like they or their reports’ contributions are valued by your reports, the manager should try to resolve this. Research shows that this is more likely to happen to underrepresented minorities. 
+Please note that DRIs are free to ignore feedback without acknowledging it and that valuing contributions isn’t the same as agreeing with them. This is about co-opting someone else’s idea without attribution and/or dismissing an idea with an ad-hominem remark.
+
 1-to-1
+
 Please see /handbook/leadership/1-1/.
+
 Skip level interactions
+
 Please see /handbook/leadership/skip-levels/.
+
 Your Individual README
+
 A team member’s README page is intended to help others understand what it might be like to work with them, especially people who haven’t worked with them before. It’s also a well-intentioned effort at building some trust by being intentionally vulnerable, and to share your ideas of a good working relationship, to reduce the anxiety of people who may be on your team, now or in the future.
+
 READMEs provide a genuine report on how a person works, reducing bias/assumption and enabling people to work together based on a common framework. As part of GitLab’s transparency value, we encourage each GitLab team member to consider creating their own README.
+
 READMEs by Division
+
 GitLab division README pages are linked below for context. Reading other READMEs is an important way to get ideas on what you can include in yours. Let these serve as a guide and inspiration to you.
+
 •	Engineering READMEs
+
 •	Marketing Team READMEs
+
 •	Product READMEs
+
 o	UX Department READMEs
+
 •	Sales Team READMEs
+
 •	People Group READMEs
+
 •	Finance Team READMEs
+
 •	Legal Team READMEs
+
 •	Chief of Staff Team to the CEO READMEs
+
 Creating Your README
+
 1.	Copy the README-template and paste into your favorite Markdown editor. If you do not have a Markdown editor, Typora and Bear are recommended.
+
 2.	Fill out the recommended sections. Note that each section is optional. You can remove those you aren’t comfortable filling out, and add sections that are interesting or important to you.
+
 3.	Once complete, you’ll need to create a new page and a subsequent merge request to add the page to GitLab’s website.
+
 1.	If your division already has a page to host READMEs (see above), follow the guidelines to add a new page within that directory (e.g. Darren M., a member of the marketing team, would add a new directory and page within /handbook/marketing/readmes, creating /handbook/marketing/readmes/dmurph)
+
 2.	If your division does not yet have a holding page for READMEs, follow the guidelines to add a new page (readmes) within your division’s handbook section first, then create your username directory within readmes.
+
 4.	Bonus points if you add your README & yourselves as codeowner to the .gitlab/CODEOWNERS file.
-Alternatively you can create your README dogfooding GitLab’s README profile customization feature. Follow documentation on how to add details to your GitLab profile with a README. Do not forget to add your profile’s link to you division’s holding page.
+
+Alternatively you can create your README dogfooding GitLab’s README profile customization feature. 
+
+Follow documentation on how to add details to your GitLab profile with a README. Do not forget to add your profile’s link to you division’s holding page.
+
 Advertising Your README
+
 Once your README is created, consider adding a link to it from following places:
+
 •	Google Doc agendas or calendar invites
+
 •	Your GitLab.com profile
+
 •	Your Slack profile
+
 •	Your Email signature
+
 This provides maximum visibility to others, so that they may read your README in advance of working with you. This allows them to take your working style and communication preferences into account, ideally increasing the overall level of empathy expressed.
+
 READMEs are particularly powerful when working with those outside of GitLab, who may be unfamiliar with our values. A README is a beacon of transparency, and helps set the tone for any working relationship.
+
 Coaching
+
 What is coaching?
+
 Coaching is about helping others help themselves. It is not about giving advice, instruction, or telling someone what to do. Coaching is about focusing on the future and identifying where the coachee wants to be and what they want to achieve. At GitLab, we’ve defined coaching as a conversation that helps people think for themselves, find their own answers, and commit to action they design. As a coach, your role is to clarify the pathway from the current state to the future. Coaches do this by enabling the coachee to make informed choices based on deeper insight.
+
 No matrix organization
+
 Please see /handbook/leadership/no-matrix-organization/
+
 Stable counterparts
+
 We want to promote organic cross-functional collaboration by giving people stable counterparts for other functions they need to work with. For example, each Strategic Account Executive (SAE) works with one Sales Development Representative (SDR). With our categories every backend team of developers maps to a Product Manager (PM) and a frontend team.
+
 Giving people a stable counterpart allows for more social trust and familiarity, which speeds up decision making, prevents communication problems, and reduces the risk of conflicts. This way we can work effectively cross functionally without the downsides of a matrix organization.
+
 Factory vs. studio
+
 We want the best combination of a factory and a studio. The studio element means anyone can chime in about anything, from a user to the CEO. You can step outside your work area and contribute. The factory element means everyone has a clearly assigned task and authority.
+
 Effective escalations
+
 Team members should feel comfortable escalating issues when help is needed to resolve unexpected challenges. Effective escalations are good, because they speed up decision making. When team members escalate an issue, another person is brought in as a decision maker or adviser as other team members disagree or need help with alignment or a serious trade-off is needed. Escalation can offer clarity and a path forward, and can be a sign of seniority for the person initiating the escalation when they know what, how, and when to escalate.
+
 As noted in this medium article, explicit esclatation should answer these four questions:
+
 1.	Why is this important to the person/team I’m escalating to?
+
 2.	What are the relevant details of the challenge?
+
 3.	What have you tried?
+
 4.	What do you need?
+
 Folks who are escalating an issue should avoid surprising folks in the management chain. This means that other relevant team members should be aware that an escalation is occurring. For example, in E-Group, members agree that they will not go to the CEO with an escalation without first notifying other relevant members that this is happening.
+
 There may be some exceptions to first notifying managers or peers. For example, a team member feels unsafe in voicing a concern to a manager or their peers and feels that they can’t effectively escalate with standard notification without retribution. While exceptions may be appropriate, they should be rare.
+
 After a team member escalates an issue, it is OK if they disagree, commit, and disagree with the decisions made by the person they escalated to.
+
 Process gets a bad rep
+
 Process has a bad reputation. It has that reputation for things that we try to avoid doing at GitLab. When you have processes that are not needed it turns into a bureaucracy. A good example are approval processes. We should keep approval processes to a minimum, by both giving people the authority to make decisions by themselves and by having a quick lightweight approval process where needed.
 But process also has good aspects. Having a documented process for how to communicate within the company greatly reduces time spend on on-boarding, increases speed, and prevents mistakes. A counterintuitive effect is that it also makes it easier to change processes. It is really hard to change a process that doesn’t have a name or location and lives in different versions in the heads of people. Changing a written process and distributing the diff is much easier.
 Talent Acquisition and retention
+
 Managers have an tremendous responsibility around talent acquisition and retention of team members.
+
 •	Voluntary departures should be low, especially unexpected ones. The most common reasons for resignations can be tied back to the manager.
+
 •	We want few candidates to decline an offer, especially when the reason isn’t compensation.
+
 •	We need adequate candidate pipeline volume and quality, especially for crucial positions.
+
 •	Candidates that have a proposed offer should meet the bar, especially for more senior positions.
+
 •	Build a global team. Unless shown with a business case, “we can’t find the talent out of the bay” goes against our diversity, inclusion and belonging mission and the Location Factor KPI.
+
 High Output Management
+
 GitLab leadership and management approach was built using principles covered in the book “High Output Management.” Please see High Output Management to learn more.
+
 Building High Performing Teams
+
 Building a team to deliver results is a very important aspect of improving efficiency and iteration. A high-performing team will always deliver results. As a leader at GitLab, your role is to develop a high-performing team to reach the desired level of performance and productivity. There are certain traits that high-performing teams display at GitLab:
+
 •	Have a clear vision of their objectives and goals
+
 •	Stay committed to achieving their goals
+
 •	Manage conflicts
+
 •	Maintain effective communication and a healthy relationship with each other
+
 •	Make unanimous decisions as a team
+
 Watch the replay of our conversation with Jeb Hurley, Co-founder and Managing Partner Brainware Partners where we discussed:
+
 1.	Managing trust, productivity, and wellbeing on remote teams
+
 2.	Behavior, biochemistry, and dynamics of trust
+
 3.	The value of measuring and reporting on impacts of building trust
+
 Skills and behavior of building high performing teams competency for Managers:
+
 •	Models and encourages teamwork by fostering collaboration, communication, trust, shared goals, mutual accountability and support
+
 •	Fosters an environment where results are balanced with time management of multiple assignments and Direct Responsible Individuals (DRI’s) on important topics
+
 •	Empowers team members to be a Manager of One and gives them the tools to grow professionally in their careers
+
 •	Attracts and retains top talent by creating an inclusive environment built on trust, delegation, accountability, and teachability
+
 Strategies to Build High Performing Teams
+
 The Drexler-Sibbet Team Performance Model is an excellent tool to help build high performing teams at GitLab. The model provides a roadmap for a team and a common language. It is a simplified description of how a team works together that highlights the most important things the team needs to focus on to reach high performance. At GitLab, we can use it as a frame of reference to developing high performing teams. It can help Managers ensure new and existing team members know the mission and direction of the team by the following:
+
 •	To form your team
+
 •	To guide what your team does
+
 •	To monitor how well your team is doing
+
 •	To diagnose where your team may be struggling or identify the keys to your team’s success.
+
 7 Stages to developing high performing teams:
+
 1.	Orientation - Why are we here? Team members need to see a sense of team identity and how individual team members fit in.
-2.	Trust Building - Who are you? Team members share mutual regard for each other and are open and supportive of trust-based relationships.
-3.	Goal Clarification - What are we doing? Assumptions are made clear; individual assumptions are made known with a clear vision of the end state.
-4.	Commitment - How will we do it? Team members understand how it will make decisions and do the work.
-5.	Implementation - Who does what, when, where? Team members have a sense of clarity and can operate effectively due to the alignment of shared goals.
-6.	High Performance - Wow! The team is accomplishing more than it expected. The team has taken off, creativity is fostered and goals are surpassed.
-7.	Renewal - Why continue? The team is given recognition and celebrates achievements of individuals that produce valuable work. Reflect on lessons learned and reassess for the future.
+
+3.	Trust Building - Who are you? Team members share mutual regard for each other and are open and supportive of trust-based relationships.
+
+4.	Goal Clarification - What are we doing? Assumptions are made clear; individual assumptions are made known with a clear vision of the end state.
+
+5.	Commitment - How will we do it? Team members understand how it will make decisions and do the work.
+
+6.	Implementation - Who does what, when, where? Team members have a sense of clarity and can operate effectively due to the alignment of shared goals.
+
+7.	High Performance - Wow! The team is accomplishing more than it expected. The team has taken off, creativity is fostered and goals are surpassed.
+
+8.	Renewal - Why continue? The team is given recognition and celebrates achievements of individuals that produce valuable work. Reflect on lessons learned and reassess for the future.
+
 Manager Resource: Identifying & Addressing Burnout
+
 Building and maintaining high performance includes staying mindful of team well-being and potential burnout. With GitLab’s results-driven culture, the demands of product innovation around AI, the fast-paced and ever-evolving business environment, our organization recognizes the crucial balance between achieving ambitious goals and maintaining the well-being of our team members. Everyone can access this handbook resource designed for managers to identify & address burnout. This has an ongoing impact on team performance.
+
 Manager M-Team Groups
+
 M-teams are management support groups made up of 3 to 6 managers who are in timezones that allow for sync meetings among members. M-teams should set up a regular meeting on a cadence agreed by the members with the agenda being “what’s challenging this week?”. Decide who will facilitate and each person will get a chance to have their challenge discussed in the meeting. When it’s your turn, you talk a little about what you’re struggling with. M-groups agree to a level of confidentiality so that group members are willing to be vulnerable; vulnerability leads to trust and better outcomes for the group.
+
 If you’re interested in starting or joining an m-team meeting, reach out to other managers in the #managers Slack channel.
+
 Articles
+
 1.	Carta’s Manager’s FAQ
+
 2.	Carta’s How to hire
+
 3.	How Facebook Tries to Prevent Office Politics
+
 4.	The Management Myth
+
 5.	Later Stage Advice for Startups
+
 6.	Mental Models I Find Repeatedly Useful
+
 7.	This Is The Most Difficult Skill For CEOs To Learn
+
 8.	Great article about how to think about PIPs, although our time scales are shorter.
+
 9.	Impraise Blog: 1-on-1s for Engaged Employees
+
 10.	Mind Tools: Giving Feedback: Keeping Team Member Performance High, and Well Integrated
+
 11.	Remote.Co: 5 Tips for Providing Feedback to Remote Workers
+
 12.	Really interesting blog post from Hanno on remote team feedback
+
 13.	51 questions to ask in one-on-ones with a manager
+
 14.	HBR: The rise of data driven decision making is real but uneven
+
 15.	Forbes: 6 Tips for Making Better Decisions
+
 Books
+
 Books in this section can be expensed.
+
 Notable books from the E-Group Offsite Book Selections may be added to the list below.
+
 We sometimes self-organize book clubs to read through these books as a group.
+
 1.	High Output Management - Andrew Grove
+
 o	Top 10 quotes
+
 o	Book club
-2.	The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers - Ben Horowitz
+
+2.	The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers - Ben
+
+3.	Horowitz
+
 o	Chase Wright’s notes
-3.	Crucial Conversations: Tools for Talking When Stakes Are High - Kerry Patterson
+
+4.	Crucial Conversations: Tools for Talking When Stakes Are High - Kerry Patterson
+
 o	Notes from the E-group reading:
+
 o	Virtual teams are much more likely to fail on crucial conversations than colocated teams
+
 o	We need to develop the skill of sensing the tone of a-sync conversations to uncover potential issues
+
 o	We need to find a way to create psychological safety for people in official channels
+
 o	Starting with empathy is a great way to gather the context needed in a tense situation - this is hard a-sync, but more important
+
 o	Consider getting context 1-on-1 (through Slack) before posting a comment in an issue that you might regret later
+
 o	As leaders, we need to give context as well. A good question is: “What would have to change for us to get X prioritized…”
+
 o	Documenting something is not a replacement for having the hard conversation
+
 o	Book club
+
 o	Crucial Conversations Handbook Page
+
 Email Lists
+
 1.	Software Lead Weekly
+
 Training
+
 When you give leadership training please screenshare the handbook instead of creating a presentation.
+
 Leadership Development Opportunities
+
 1.	Managers can participate in our Elevate program, focused on developing management skills to lead all-remote teams.
+
 2.	Leadership development coaching with the growth & development benefit. More details about a formal GitLab coaching program to come.
+
 3.	Self-led opportunities to be a mentor - keep an eye out for a company-wide mentorship program with applications opening at the end of January 2022.
+
 4.	Join the women’s TMRG mentorship group to either be a mentor to practice leadership or get paired with a leader to learn from.
+
 5.	Sign up for Crucial Conversations training
+
 6.	Explore opportunities to join the CEO Shadow program or other division specific shadow programs with the Chief of Staff, People Connect Shadow Program, Security, and Development Director Shadow Program.
+
 7.	Explore the skills needed to successfully transistion from IC to Manager in GitLab Learn.
+
 8.	Explore leadership and management courses on LinkedIn Learning
+
 9.	Watch or listen to one of the many CEO Handbook Learning sessions with Sid on various leadership topics
+
 10.	Join a monthly Leadership Chats talk to learn from people leaders across the organization.
+
 11.	Learning and Development is developing several programs in FY23 to include a Managing at GitLab Course, New Manager Bootcamp, LifeLabs Learning Pilot and Launch, coaching program, and much more!
+
 People Group
+
 Feel free to reach out to anyone in the People Group for further support on leadership development topics. You can find us on the team page, using the People Group dropdown. The team may also be reached in the #people-connect chat channel.
+
 Being a public company
+
 Learn more on GitLab’s view of being a public company.
+
 Mitigating Concerns
+
 We have a page which documents our Mitigating Concerns. Many of our values help to mitigate some of these concerns.
+
 ________________________________________
+
 1-1
+
 Maintaining an effective and efficient agenda is important to get the best out of the 1-1 (read as: one to one) meetings you have with your team members. Furthermore this page will take you through other tips and tricks to conduct an effective 1-1 meeting. The 1-1 Agenda Make sure you use a consistent agenda format for each 1-1. Both parties add items to the agenda. Preferably, the majority added by the team member.
+
 Biggest Tailwinds
+
 We believe that the market opportunity for a complete DevSecOps platform designed as a single application for the software development lifecycle is several billion dollars and expanding. There are three primary trends outlined below that we have identified as the most significant to supporting the long term success of our business. We also have a Mitigating Concerns page. 1. Digital Transformation Digital Transformation Customer Experience Software is Eating the World
+
 Book clubs
+
 From time to time, we run internal book clubs on a book from one of our resource lists. All are welcome! However, each club has a suggested audience to indicate roles to which the content is tailored. Leadership Development To propose a new book club, create an issue in the book clubs project. Individual book clubs which need a dedicated project can create on in the book-clubs group (example). Better Onboarding Dates: 2021-07-08 and 2021-07-15 Time: 02:00 PM UTC Zoom (password is in the calendar event info) Meeting agenda Discussion issue Recording Session 1 Recording Session 2 Suggested audience: Growth, Product, Product Design and Development Trustworthy Online Controlled Experiments (A Practical Guide to A/B Testing) Dates: 2021-03-11 to 2021-06-10 (every week) Time: 08:00 PT / 15:00 UTC Zoom (password is in the calendar event info) Meeting agenda Discussion issue Suggested audience: growth, product & engineering Ruby under a Microscope Dates: 2020-11-24 to 2021-03-03 (every week) Time: EMEA 14:00 UTC, AMER/APAC 23:00 UTC Zoom EMEA, Zoom AMER/APAC (password is in the calendar event info) Meeting agenda Discussion issue Suggested audience: engineering Software Engineering at Google Dates: 2020-05-20 to 2020-07-29 (every 2 weeks) Time: 21:30 UTC Zoom Meeting agenda Discussion issue Suggested audience: engineering management The Principles of Product Development Flow Dates: 2019-09-05 to 2019-10-31 (every week) Time: 11:30 Pacific Time Zoom Meeting agenda Discussion issue Suggested audience: engineering management High Output Management Dates: 2019-06-03 to 2019-07-15 (every two weeks) Time: 7:30 Pacific Time (one hour before the company call) Zoom Meeting agenda Discussion issue Recordings Suggested audience: people managers Crucial Conversations This book club was internal-only.
+
 Building Trust at GitLab
+
 On this page, GitLab details considerations for building trust in remote teams. Learn more!
+
 Coaching
+
 Coaching at GitLab Coaching conversations are fluid, dynamic acts of co-creation where the coach and the coachee are equal partners. Coaching is an important component of our 360 review process and for guidance on feedback. Coaching can occur during one-on-one meetings or at any time. It is an important component of career development, leading teams, building an inclusive culture, mentoring, and much more. Selecting a coach There are various ways to find a coach at GitLab:
+
 Compensation Review Conversations
+
 Compensation Review Conversations Conversations with regards to compensation are an important part of being a people manager. This page will take you through information and recommendations to effectively manage and guide these conversations. If you’re ever in doubt or have a question, don’t hesitate to reach out to your aligned People Business Partner. Content to Review Prior to Compensation Conversations Please make sure to review and understand the following content with regards to Compensation at GitLab:
+
 Crucial Conversations
+
 “GitLab’s strategies for being an effective leader during crucial conversations with team members”
+
 Effective Delegation
+
 Effective Delegation The purpose of this section is to give you the following: An appreciation for the importance of delegation to others as a way to manage workload and prioritize action items. Face any fears that you may have regarding delegating to others. Help you adopt an appropriate strategy to delegate the right tasks to the right people at the right time and in the right way. Help you develop a systematic step-by-step approach to brief team members on what you want to delegate to others.
+
 Emotional Intelligence
+
 Introduction At GitLab, we place a high level of importance on interpersonal skills for workplace effectiveness. Employee interpersonal skills have an impact on productivity, morale, engagement, performance, and help us live up to our values. Whether you are a People Manager or an Individual Contributor, being skilled in “emotional intelligence” (also referred to as EQ) is a key attribute to interpersonal effectiveness. One of the most important factors in people’s decisions to stay or leave a job is the quality of the relationship they have with their immediate boss and their coworkers.
+
 GitLab Onsites - Getting your team together in person
+
 GitLab Onsites GitLab Onsites noun Dedicated time for all-remote teams to come together in person to build trust As a leader in all-remote work, it’s important that we recognize the value and impact of time spent in the same location. Meaningful time spent together influences the trust and results our teams build. Co-located companies often gather for offsites to connect in a new location. In our all-remote environment, we call in-person team meetings onsites.
+
 High Output Management
+
 Introduction At GitLab, one of our favorite books is, “High Output Management” by Andrew Grove. The book provides a comprehensive overview of a manager’s role and purpose. Our CEO, Sid, applied many of the concepts covered when partnering with the People team to design management and people practices for GitLab. On this page, we will cover some of the key topics covered in the book and what they mean for people leaders.
+
 Identifying & Addressing Burnout
+
 Manager Guide: Identifying & Addressing Burnout With GitLab’s results-driven culture, the demands of product innovation around AI, the fast-paced and ever-evolving business environment, our organization recognizes the crucial balance between achieving ambitious goals and maintaining the well-being of our team members. Defining Burnout The World Health Organization defines Burnout as “a syndrome conceptualized as resulting from chronic workplace stress that has not been successfully managed. It is characterized by three dimensions: feelings of energy depletion or exhaustion; increased mental distance from one’s job, or feelings of negativism or cynicism related to one’s job”
+
 Making Decisions
+
 Intro to making decisions On this page, we have outlined how we make decisions at GitLab. Making decisions GitLab’s values are the guiding principles for our business. They inform hiring, performance management, and promotion assessments. They also guide other decisions that we make. At times, values may be in conflict. To address this, GitLab has a values hierarchy. At the top of this hierarchy is “results”. While items higher in the hierarchy don’t always override items lower in the hierarchy, this structure guides team members as they weigh decision making alternatives.
+
 Managing Conflict
+
 Managing conflict In this section we will review the definition of conflict, the different causes of conflict, review different methods for addressing conflict, steps in the conflict process and some do’s and dont’s of workplace conflict. Conflict in the workplace is inevitable when you have team members of various backgrounds and different work styles all working towards the same goals and OKRs (Objectives and Key Results). Conflict should never just be avoided, conflict should be managed and resolved.
+
 No Matrix Organization
+
 No matrix organization introduction On this page, we will give an overview of how GitLab operates as a no matrix organization. “No matrix organization” means that everyone reports to exactly one person. At GitLab we have a simple functional management hierarchy. Technical leadership at GitLab is leadership without a formal reporting line, based on project roles and experience. No matrix organization overview We believe everyone deserves to report to exactly one person that knows and understands what you do day to day.
+
 Skip Level Meetings - Overview
+
 Purpose and Benefits of Skip-Levels A skip-level meeting is a meeting during which a manager’s manager meets directly with team members without the direct manager present. While 1-1s facilitate communication between a team member and their manager, skip levels should facilitate communication between the leader’s whole team, not just their direct reports. The CEO conducts quarterly skip-level meetings with all indirect reports. The goal of this meeting is to help the CEO be a better manager of him/herself, of the report of their function, and the rest of the executive team.
+
 Underperformance
+
 We want team members to be successful and should offer every opportunity for them to work effectively.
+
 Workforce Planning
+
 Workforce planning and SWOT analysis
+
 Last modified December 11, 2023
 
-
-
-
  
-Leadership TOC
-o	Leadership
-	[1-1](https://handbook.gitlab.com/handbook/leadership/1-1/)
-	[Biggest Tailwinds]( https://handbook.gitlab.com/handbook/leadership/biggest-tailwinds/)
-	[Book clubs](https://handbook.gitlab.com/handbook/leadership/book-clubs/)
-	[Building Trust at GitLab](https://handbook.gitlab.com/handbook/leadership/building-trust/
-	[Coaching](https://handbook.gitlab.com/handbook/leadership/coaching/)
-	[Compensation Review Conversations](https://handbook.gitlab.com/handbook/leadership/compensation-review-conversations/)
-	[Crucial Conversations](https://handbook.gitlab.com/handbook/leadership/crucial-conversations/)
-	[Effective Delegation](https://handbook.gitlab.com/handbook/leadership/effective-delegation/)
-	[Emotional Intelligence](https://handbook.gitlab.com/handbook/leadership/emotional-intelligence/)
-	[GitLab Onsites - Getting your team together in person](https://handbook.gitlab.com/handbook/leadership/in-person/)
-	[High Output Management](https://handbook.gitlab.com/handbook/leadership/high-output-management/)
-	[Identifying & Addressing Burnout](https://handbook.gitlab.com/handbook/leadership/managing-burnout/)
-	[Making Decisions](https://handbook.gitlab.com/handbook/leadership/making-decisions/)
-	[Managing Conflict](https://handbook.gitlab.com/handbook/leadership/managing-conflict/)
-	[Leading through Adversity](https://handbook.gitlab.com/handbook/leadership/managing-conflict/leading-through-adversity/)
-	[No Matrix Organization](https://handbook.gitlab.com/handbook/leadership/no-matrix-organization/)
-	[Skip Level Meetings - Overview](https://handbook.gitlab.com/handbook/leadership/skip-levels/)
-	[Underperformance](https://handbook.gitlab.com/handbook/leadership/underperformance/)
-	[Workforce Planning](https://handbook.gitlab.com/handbook/leadership/workforce-planning/)
+## Gitlab Leadership TOC
+
+Leadership
+
+ [1-1](https://handbook.gitlab.com/handbook/leadership/1-1/)
+
+ [Biggest Tailwinds]( https://handbook.gitlab.com/handbook/leadership/biggest-tailwinds/)
+
+ [Book clubs](https://handbook.gitlab.com/handbook/leadership/book-clubs/)
+
+ [Building Trust at GitLab](https://handbook.gitlab.com/handbook/leadership/building-trust/
+
+ [Coaching](https://handbook.gitlab.com/handbook/leadership/coaching/)
+
+ [Compensation Review Conversations](https://handbook.gitlab.com/handbook/leadership/compensation-review-conversations/)
+
+ [Crucial Conversations](https://handbook.gitlab.com/handbook/leadership/crucial-conversations/)
+
+ [Effective Delegation](https://handbook.gitlab.com/handbook/leadership/effective-delegation/)
+
+[Emotional Intelligence](https://handbook.gitlab.com/handbook/leadership/emotional-intelligence/)
+
+ [GitLab Onsites - Getting your team together in person](https://handbook.gitlab.com/handbook/leadership/in-person/)
+
+ [High Output Management](https://handbook.gitlab.com/handbook/leadership/high-output-management/)
+
+ [Identifying & Addressing Burnout](https://handbook.gitlab.com/handbook/leadership/managing-burnout/)
+
+ [Making Decisions](https://handbook.gitlab.com/handbook/leadership/making-decisions/)
+
+[Managing Conflict](https://handbook.gitlab.com/handbook/leadership/managing-conflict/)
+
+ [Leading through Adversity](https://handbook.gitlab.com/handbook/leadership/managing-conflict/leading-through-adversity/)
+
+ [No Matrix Organization](https://handbook.gitlab.com/handbook/leadership/no-matrix-organization/)
+
+ [Skip Level Meetings - Overview](https://handbook.gitlab.com/handbook/leadership/skip-levels/)
+
+ [Underperformance](https://handbook.gitlab.com/handbook/leadership/underperformance/)
+
+ [Workforce Planning](https://handbook.gitlab.com/handbook/leadership/workforce-planning/)
 
  
  
 •	Managing conflict
+
 •	What is conflict?
+
 •	Different methods or approaches to managing conflict
+
 o	Competing method
+
 o	Avoiding method
+
 o	Accomodating method
+
 o	Compromising method
+
 o	Collaborating method
+
 •	8 tips for managing conflict
+
 •	Balancing conflict
+
 •	Conflict Resolution Competency
+
 •	Additional resources
+
 1.	The Handbook
+
 2.	Leadership
+
 3.	Managing Conflict
+
 Managing Conflict
+
 Managing conflict 
+
 In this section we will review the definition of conflict, the different causes of conflict, review different methods for addressing conflict, steps in the conflict process and some do’s and dont’s of workplace conflict. Conflict in the workplace is inevitable when you have team members of various backgrounds and different work styles all working towards the same goals and OKRs (Objectives and Key Results). Conflict should never just be avoided, conflict should be managed and resolved. The first step is for the team members that experience conflict to work to address the situation to work towards a resolution. If a resolution is not possible, the manager should then work with the team members and their assigned People Business Partner to help foster a resolution.
+
 What is conflict?
+
 Conflict is any situation in which your concerns, desires, perceptions, goals or values differ and clash with other team members. Here are a few examples of potential causes of workplace conflict:
+
 •	Personality differences
+
 •	Team member behavior is regarded by some as irritating or annoying
+
 •	Perceived unfairness or inequities of resources, trainings or project work
+
 •	Unclear role expectations
+
 •	Poor communication skills
+
 •	Differences over work methods or goals
+
 Different methods or approaches to managing conflict
+
 Competing method
+
 This method involves managing conflict through unilateral decision making.
+
 •	Primarily used for: Situations that require a quick decision, instances where there is no compromise or debate on making a hard decision.
+
 •	Competing styles: Win-Lose approach, Assertive & Uncooperative and You try to satisfy your own concerns at the other team members expense.
+
 •	Examples:
+
 o	Imposing or dictating a decision - “Sorry X, but that’s my decision as your manager”
+
 o	Arguing for a conclusion that fits your data - “Our customer survey shows a steady decline. We need to design the route”
+
 o	Hard bargaining (making no concessions) - I won’t take less than X - Take it or leave it.
+
 Avoiding method
+
 Actively deciding not to manage a conflict.
+
 •	Primarily used for: Unimportant, non-work relates issues, buying time until a resolution can be reached and recognizing issues as symptoms.
+
 •	Avoiding styles: “Lose-Lose” approach, unassertive and uncooperative, evading conflict without trying to satisfy either person’s concerns and effective in emotionally charged circumstances.
+
 •	Examples:
+
 o	Avoiding people you find troublesome - “This doesn’t seem to be a good time to discuss this issue with X”.
+
 o	Avoiding issues that are unimportant, complex or perceived threatening - “Maybe. We’ll see. Let’s move along to the next topic.”
+
 o	Postponing the discussion until later - “Let me check on that and get back to you next week.”
+
 Accomodating method
+
 Allowing the other side to “win.”
+
 •	Primarily used for: Maintaining perspective in a conflict situation, making active decisions on what can be “let go” and maintaining peace and creating goodwill.
+
 •	Accomodating styles: Unassertive & cooperative and you attempt to satisfy the other team members concerns at the expense of your own concerns.
+
 •	Examples:
+
 o	Doing a favor to help someone - " I can see this is important to you, OK.""
+
 o	Being persuaded - I didn’t think of that, you are right."
+
 o	Obeying an authority - “I’d do it differently, but it is your call.”
+
 o	Deferring to another’s expertise - “You are the experts, I’ll trust your judgement.”"
+
 o	Appeasing someone who is threatening - Ok, ok, please calm down."
+
 Compromising method
+
 Reaching a resolution with a “win” on both sides.
+
 •	Primarily used for: Resolving issues of moderate to high importance, finding a solution that involves equal power and strong commitment on both sides, situations where a temporay “fix” may be needed and backing up a decision that’s been made via the competing or collaborating method.
+
 •	Compromising style: In the middle and you try to find an acceptable settlement that only partially satisfies both team members concerns.
+
 •	Examples:
+
 o	Soft bargaining or exchanging concessions - “Let’s split the difference and settle for X”.
+
 o	Taking turns - “Suppose I do X this time and then you do Y next time.”
+
 o	Moderating your conclusions - “You think X will solve the problem but I think Y will, so perhaps we say X&Y are possible solutions?”
+
 Collaborating method
+
 Managing conflict through team input.
+
 •	Primarily used for: Gaining support from the team, using different perspectives as an opportunity to learn and improving relationships through collaboration.
+
 •	Collaborating style: Assertive and cooperative and finding a “win-win.”
+
 •	Examples:
+
 o	Reconciling interest through a “win-win” solution - “You need to fund project X but I need to project Y, how can we do both?”
+
 o	Combining insights into a richer understanding - “You are praising X’s technical skills, however I have concerns about their iteration and collaborations skills. Both are true aren’t they? They have high potential if they can improve on their interpersonal skills.”
+
 8 tips for managing conflict
+
 1.	Management/leadership sets the tone
+
 o	A workplace built on mutual respect
+
 o	Manager/leaders behaivor and actions provide team members with a model to follow
+
 2.	Hire the right people
+
 o	Look for team members who demonstrate the ability to address conflict in a positive and productive way
+
 3.	Train team members
+
 o	Provide learning and development opportunities on how to engage in positive conflict
+
 4.	Reward meaningful conflict
+
 o	Recognize team members who participate in positive conflict, and acknowledge those whose actions result in successful outcomes for the department, division and GitLab.
+
 5.	Encourage team members to support their position
+
 o	Team members should be expected to be able to support their positions with data. This will take the conflict from emotional to rational.
+
 6.	Encourage your team members to be respectful
+
 o	Team members in meaningful conflict situations must be respectful of others and should not be allowed to make personal attacks.
+
 7.	Encourage transparency and inclusion
+
 o	All team members must feel free to express their opinions in a non judgemental environment.
+
 8.	Serve as a resource
+
 o	Serve as a resource in business decisions to coach through conflict and understand a path forward to support GitLab’s Vision.
+
 Balancing conflict
+
 Managers and leaders need to find the right balance depending on the team members involved and the situation. Remember conflict is a problem when it:
+
 •	Hampers productivity and increases tensions
+
 •	Lowers morale
+
 •	Causes more and continued conflict
+
 •	Causes inappropriate behaivor
+
 •	Leads to team member absenteeism.
+
 Conflict is constructive when it:
+
 •	Opens up issues of importance resulting in issue clarification
+
 •	Helps build cohesiveness as team members learn more about each other
+
 •	Causes team members to reassess process or actions
+
 •	Increases team member involvement.
+
 If at any time a manager feels the conflict situation has violated our values or code of conduct they should reach out to the PBP (People Business Partner). Also, if a manager would like to talk through different conflict situations and approaches your PBP is willing to help you work through the best strategies.
+
 Conflict Resolution Competency
-Managers need to be well versed in managing and facilitating conflict resolution between team members. They can do this by surfacing and clarifying areas of disagreement and by creating an environment where resolution is possible. Conflict resolution is a key component to enabling team members to be successful and reach their potential.
+
+Managers need to be well versed in managing and facilitating conflict resolution between team members. 
+They can do this by surfacing and clarifying areas of disagreement and by creating an environment where resolution is possible. Conflict resolution is a key component to enabling team members to be successful and reach their potential.
+
 Skills and behavior of the conflict resolution manager competency:
+
 •	Facilitates conflict resolution between co-workers by surfacing and clarifying areas of disagreement
+
 •	Creates an environment where resolution is possible
+
 •	Works to resolve conflict by engaging in open, productive dialogue that clarify differences, identify common ground, and work towards agreement or acceptance
+
 •	Provides guidance to team members on conflict management as needed
+
 •	Advises team or others on conflict management strategies especially for difficult or complex situations
+
 Additional resources
+
 If you are interested in learning about conflict and your role as a manager please review the following articles.
+
 •	Do You Handle Conflict like a Rhinocerso or an Ostrich
+
 •	Conflict in the Workplace
+
 •	How to deal with employees who do not get along How managers should deal with conflict between two employees
+
 •	5 Conflict Management Skills For Every Manager
+
 •	5 Conflict Management Styles for Every Personality type
+
 •	The Science of Productive Conflict: Podcast Transcript
+
 ________________________________________
+
 Leading through Adversity
+
 Leading team through adversity and challenging times One of the more challenging things managers and leaders will have to do in their careers is to lead team members through adversity or challenging times. These could be related to many different things, economic downturns, pandemics, team member deaths or illnesses, change in company leadership, changing of priorities and focus for the team and any thing else that was not expected that is causing stress or churn for the organization.
+
 Last modified December 8, 2023 
  
 On This Page
+
 •	How Crucial Conversations align with GitLab Values
+
 •	Strategies for Successful Crucial Conversations
+
 o	9 Influencing Strategies
+
 o	Having crucial conversations on an all-remote team
+
 •	What GitLab Managers Say about Crucial Conversations
+
 o	Additional resources
+
 1.	The Handbook
+
 2.	Leadership
+
 3.	Crucial Conversations
+
 Crucial Conversations
+
 “GitLab’s strategies for being an effective leader during crucial conversations with team members”
+
 Any synchronous or asynchronous engagement with team members may turn into a crucial conversation. At GitLab, we can develop the skills of sensing the tone of an async or sync conversation to uncover potential pain-points, risks, blockers, etc for team members. We need to find a way to create psychological safety for our people. Using a 1-1 can be a great way to gain context on a situation a team member is facing and hold a crucial conversation.
+
 Team members can take a crucial conversations training led by the Learning and Development team.
+
 What is a Crucial Conversation: According to the book, a conversation to be crucial is that the results of it could have a huge impact on the quality of your life. A conversation involving a promotion, performance, debate between coworkers, etc. In short crucial conversations are discussions between two or more people where:
+
 1.	Stakes are high
+
 2.	Opinion vary
+
 3.	Emotions run strong
+
 Most of us are good at avoiding them because it’s human nature to avoid pain and discomfort when addressing a crucial conversation. So what do you do when faced with a crucial conversation?
+
 1.	We can avoid them
+
 2.	We can face them and handle them poorly
+
 3.	We can face them and handle them well
+
 At GitLab, there can be many instances where a crucial conversation is needed. Whether it is addressing the underperformance of a team member, discussing the results of promotion, interviewing, being notified that a high performer is leaving the team, etc. The Crucial Conversations book has strategies laid out that can help master one:
+
 1.	Power of Dialogue: Gaining information and context on the situation. The free flow of meaning between two or more people.
+
 2.	Shared Meaning: Each of us enters conversations with our own opinions, feelings, theories, and experiences about the topic at hand. Coming to a shared opinion and entering a pool of a shared meaning helps our synergy with team members in many ways. Adding information to the shared pool of meaning requires each person to take meaningful ownership of their role in the conversation.
+
 3.	Start with the Heart: If you can’t get yourself right, you’ll have a hard time getting dialogue right by looking inward first. Apply empathy in the moment by asking questions to yourself that return you to the dialogue:
+
 o	What do I really want for myself?
+
 o	What do I really want for others?
+
 o	What do I really want for the relationship?
+
 o	How would I behave if I really wanted these results?
+
 4.	Learn to Look - How to Notice When Safety is at Risk: It can be difficult to see what exactly is going on and why during crucial conversations. Watch for these situations to learn to spot one:
+
 o	The moment a conversation turn crucial
+
 o	Signs that people feel safe
+
 o	Your own style under stress
+
 5.	Make It Safe: Nothing kills dialogue faster than fear. When you make it safe, you can talk about almost anything and people will listen. If you spot safety risks as they happen, you can step out of the conversation, build safety, and then find a way to dialogue about almost anything.
+
 6.	Master Your Stories: Learn to exert influence over your feelings by slowing down the storytelling process, take a step back, and retrace your path to action one element at a time.
+
 These are just a few strategies outlined in the Crucial Conversation book. We highly recommend reading it for leading teams at GitLab. Team members can also sign up to take our in-house Crucial Conversations training.
+
 How Crucial Conversations align with GitLab Values
+
 GitLab Value	Crucial Conversation Connection
+
 Collaboration
+
 Crucial conversations are introduced not just by people leaders but by all GitLab team members. We are all managers of one and should feel enabled to open crucial conversations whenever necessary. Building a shared pool of meaning in a discussion requires everyone in the conversation to share to be successful.
+
 Results
+
 Crucial conversations are results-oriented. Conversations should focus on action that will improve the situation or problem for all members involved in the conversation.
+
 Efficient
+
 Crucial conversations can be evaluated via the CPR (Content, Pattern, Relationship) method to determine the root cause of the conflict or problem. This method allows for efficiency in approaching crucial conversations with specific tools depending on the context.
+
 Diversity, Inclusion, and Belonging
+
 Everyone has a shared voice in a crucial conversation. The goal is to fill a shared pool of knowledge with facts and stories from all points of view. Hosts of crucial conversations should be open to having their stories challenged.
+
 Iteration
+
 Crucial conversations should happen early and often. The CPR (Content, Pattern, Relationship) encourages conversation early and often in the content category before something becomes a pattern
+
 Transparency
+
 Results, goals, and stories about crucial conversations are shared throughout teams to encourage more crucial conversations. While the content of specific conversations isn’t always shared to maintain a safe space, the discussion about practicing crucial conversations keeps us accountable.
+
 Strategies for Successful Crucial Conversations
+
 9 Influencing Strategies
+
 The ability to influence is an essential leadership skill. To influence is to have an impact on the behaviors, attitudes, opinions and choices of your team members and others across GitLab and externally. Influence should not be confused with power or control. It is also not about manipulating others to get your own way. It is about noticing what motivates team members commitment and using that knowledge to leverage performance and results.
+
 Leadership has sometimes been described as the ability to influence others. An effective leader does not move team members into action by coercion. An effective leader will articulate the overall vision and goals for the organization. By doing such this can motivate and move team members to action by tapping into their desires and need for success. Positive influence that is properly channeled can also bring about transformation and change for team members, department, division and the company. A leader that exhibits and exerts positive influence in others will build trust and become a true driving force towards transparency, iteration, collaboration and results.
+
 There are many different influencing strategies and in this section we are going to review 9 that leaders can review. Each strategy below will include a definition, example and ways for leaders to develop this strategy.
+
 1.	Empowerment: Making others feel valued by involving them in decision making and giving them recognition.
+
 o	Example: Manager invites their team members to a meeting in order to take their inputs on how to improve product quality.
+
 o	Develop: Finding win-win situations, not taking people for granted, not providing unsolicited advice to people and having confidence in the ability of others.
+
 2.	Interpersonal Awareness: Being able to recognize and address the concerns of key stakeholders.
+
 o	Example: A manager/leaders offers support to team members by identifying a list of questions that may be asked in meetings with senior leadership.
+
 o	Develop: Awareness of verbal and non verbal cues, putting yourself in another person’s shoes and testing your own understanding of the message.
+
 3.	Negotiating: Gaining support from others by mutually agreeing on a common set of goals or outcomes.
+
 o	Example: A vendor who is trying to land a big deal may offer their client incentives or a discount provided the size of the order large enough.
+
 o	Develop: Understand the other person’s requirements, identify your non-negotiable, role-play with a colleague, practive in a low risk real life situation.
+
 4.	Networking: Establish and maintain a network of contacts who you may need to influence going forward.
+
 o	Example: A manager spends time with their peers or cross functional partners in different activities (either work or non work related) in order to develop a better bond/relationship with their network.
+
 o	Develop: Take interest in other peoples lives, find common ground, leverage existing relationships and take advantage of existing opportunities.
+
 5.	Stakeholder awareness: Identifying the key stakeholder and the ability to gain support when needed.
+
 o	Example: A manager identifies the key stakeholder and decision maker within a supporting organization and regularly meets with them to collaborate.
+
 o	Develop: Keep your ear to the ground to understand what is happening around you, learn by example, identify the decision makers, appreciate other’s points of view.
+
 6.	Shared vision: Showing others how your ideas support the broader organizational vision.
+
 o	Example: A manager communicates their vision to their team by helping them understand what they can become and the steps needed to achieve the goal.
+
 o	Develop: Always keep the outcomes in sight, speak about the benefits of the approach and get others to participate.
-7.	Impact and Influence: Choosing the most appropriate time and manner to present your point, always keeping in mind your audience.
+
+8.	Impact and Influence: Choosing the most appropriate time and manner to present your point, always keeping in mind your audience.
+
 o	Example: A manager understands the landscape or demographics of their audience and is thoughtful in their presentation approach.
+
 o	Develop: Study prominent influencers, try different approaches each time, take formal training, model good influencers within the organization.
-8.	Analytical reasoning: Using analytical reasoning to convince others about your point of view.
+
+9.	Analytical reasoning: Using analytical reasoning to convince others about your point of view.
+
 o	Example: A team member uses data and market insights to convince their manager about their ideas.
+
 o	Develop: Have more than 1 reason for your idea, clearly lay out the pros and cons, show clarity of thought and structure, spend time on research and case studies.
-9.	Coercion: Using threats or pressure tactics to get other to agree to your point or to comply to rules.
+
+10.	Coercion: Using threats or pressure tactics to get other to agree to your point or to comply to rules.
+
 o	Example: A manager makes a decision with no or little input from team and informs team members of actions or consequences if they do not comply.
+
 o	Develop: Use it sparingly and not as the first resort, leave no room for ambiguity and do not use as a way to surpress your team member or others.
+
 Having crucial conversations on an all-remote team
+
 Having crucial conversations via a Zoom call might be more difficult than having the conversation in person. These strategies are meant to identify what makes having crucial conversations in an all-remote environment challenging and things we can try to make the conversations more effective.
+
 1.	Pre-populate your 1:1 meeting agenda so that everyone can come prepared to have meaningful conversations. The ability to prepare ensures that everyone in the conversation knows the topics that will be discussed and can prepare in advance.
+
 2.	In a video call, we might miss out on key body language markers that are more apparent when having conversations in person. Focus on the body language queues we can see. Does someone who typically uses video have their video off, or does someone turn their video off suddenly? Does the person seem to be looking away or looking down, avoiding the screen?
+
 3.	If an async conversation is starting to get heated and is veering away from productive dialogue, move to a synchronous call to increase safety.
+
 4.	Async conversations make it easier for us to hold off a response until emotions cool off, preventing a fight or flight response. This can be helpful in some cases but watch out for its detriments. It’s important to speak up about projects or conversations that make you feel upset or unheard.
+
 5.	It’s easy to assign tone to text-based communication. The tone we assign can influence the story we tell ourselves. We can avoid this by assuming positive intent. Emoji can help to add context to text-based commuication.
+
 6.	Make space for pause. Silent pauses on a phone call might feel awkward or uncomfortable. These pauses are necessary for people to process feelings and stress and craft thoughtful responses during crucial conversations. Try using these phrases if you need to create a space for silence:
+
 o	Can we wait one second before moving on to that topic?
+
 o	I need a minute to think through this one.
+
 o	Can we take a pause for a minute?
+
 o	I need a few extra seconds/minutes to think through my response here
+
 o	I think I got defensive there - let me take a second to regroup
+
 7.	If you’re in a crucial conversation and a team member uses one of these phrases to indicate they need a pause, remember to respect their need for time by:
+
 o	Don’t try to fill the space with more talking. Let there be a minute or two of quiet on the line.
+
 o	Let your eyes gaze around the room, down, or at your notes if you need something else to focus on
+
 o	Wait until the person you’re speaking with initiates conversation again before speaking
+
 8.	Asking questions lets everyone determine what facts and stories are present in the conversation. They can be can asked in a synchrounous and async formats. Example questions include
+
 o	What do you think?
+
 o	Can I get your perspective/a different perspective on this?
+
 o	How do you feel?
+
 o	Can I get your feedback on...
+
 9.	During a crucial conversation, different priorities might come up from members in the conversation. It’s important to determine what conversation people are prepared to participate in and what topics are most important and efficient to address. Determining the root cause of the conversation is important here. Think about questions like:
+
 o	Is this turning into a performance discussion?
+
 o	Do we need to reschedule so we can all prepare?
+
 o	Is this conversation about a specific problem?
+
 o	Has this problem happened before?
+
 o	What is the most pressing issue to address?
+
 o	Is what is pressing for me the same thing that is pressing for others in the discussion?
+
 10.	Historical messages in tools like GitLab and Slack might help you gather information about the tone and communication patterns of people you’re having crucial conversations with.
+
 11.	Transparency in GitLab projects, Slack statuses, and Google Calendar gives us a picture into what projects our remote team members are working on. We can use this as a tool to help fill our own pool of meaning and have a deeper understanding for the workload that our peers have.
+
 12.	Give team members who are uncomfortable verbalizing in a group on call the option to ask someone to please verbalize. While GitLab issues and Slack may be more comfortable areas for them to contribute, decisions do get made on Zoom calls. Encourage team members to add their input in the agenda doc or Zoom comments section with please verbalize in parentheses. The lead for the call should then verbalize their input to the larger group, so it becomes part of the discussion. This can help create a safe space for their ideas to be shared.
+
 What GitLab Managers Say about Crucial Conversations
+
 During the Manager Challenge Program, we asked GitLab Managers what they had to say about holding crucial conversations
+
 1.	“As noted in Crucial Conversations finding that shared goal and relying on the trust in the conversation ensures the dialogue will be non-threatening.”
+
 2.	“The hardest conversations are with those who are not performing and helping them understand what they need to work on or improve upon. The joy is when they do respond and approve, which happens more than not. The other conversations is mentoring and seeing the growth from it. The joy is to see them prosperous and I’ve had many work for me again. Those to me are both sides of the equation.”
+
 3.	“One thing that I can add to my list, letting someone go due to budget cuts. I find that difficult to inform a great performer and team player that they are being let go. Because it is human to feel that it is tied to performance. Luckily, in the end, they do find a new role quickly.”
+
 4.	“We are so lucky with working async that we have the benefit of time to reflect before responding (part of “master your stories”). I took a moment to think about where things went awry and where I was responsible, so that I could own it and apologise first. The next step was to realign – we actually have the same goals overall, just different ideas about how we would get there. I reaffirmed what we had in common and asked them to contribute how they would go about things, which turned the conversation back to working towards a solution together.”
+
 5.	“Something that I’d like to practice where applicable is to step out of a heated conversation and continue another time if possible. This is not to avoid the issue, and also, this won’t suit every scenario but can help to reset the mind.”
+
 6.	“One that has come up is with a team member that may want to branch out to another area within the company. This was a big deal for them to talk to me about, so I wanted to make sure they knew it was a safe space for them to do it. I never want to stand in someone’s way of improving themselves or trying new challenges. I think my reaction of being enthusiastic as opposed to negative was very helpful in keeping the conversation flowing.”
+
 7.	“Performance reviews can easily turn into crucial conversations. This is one reason why it is so important to make performance and career development a consistent topic throughout the year, and not a one-off conversation that happens cyclically.”
+
 8.	“Product strategy. Sometimes you have to make the unpopular/hard call to say no to continue investing in a product area. The people involved tend to be passionate about their positions, and the outcome affects not only the people working on execution, but also the company’s position in the market and the bottom line.”
+
 9.	“I’m a new manager, and I started my role by doing performance reviews with the team. These very crucial conversations since I haven’t been their manager for long, and I had to provide them with performance feedback and career development guidance.”
+
 Additional resources
+
 Below are additional resources on influencing and leadership for you to review.
+
 •	Team Members: Take the Crucial Conversations Training at GitLab
+
 •	What Great Leaders Know about Influence
+
 •	Influencing Skills: A Key to Leadership Success!
+
 •	Influencing Others: A Key Leadership Skill
+
 •	The 5 Key Skills of Influential Leaders Within Every Organization
+
 •	Influence and Leadership
+
 •	5 Leadership Strategies Proven to Improve Performance on Your Team
+
 •	The 7 Best Books to Improve Influencing Skills
+
 •	7 Ways to Build Influence in the Workplace
+
 •	The Power of Vulnerability
+
 Last modified October 31, 2023 
 
-
-
-
- 
- 
- 
 On This Page
+
 •	Effective Delegation
+
 o	What is delegation?
+
 o	Considerations when delegating
+
 o	Benefits of Delegation
+
 o	So why do managers struggle with delegation?
+
 •	Delegation Stressors
+
 1.	The Handbook
+
 2.	Leadership
+
 3.	Effective Delegation
+
 Effective Delegation
+
 Effective Delegation
+
 The purpose of this section is to give you the following:
+
 •	An appreciation for the importance of delegation to others as a way to manage workload and prioritize action items.
+
 •	Face any fears that you may have regarding delegating to others.
+
 •	Help you adopt an appropriate strategy to delegate the right tasks to the right people at the right time and in the right way.
+
 •	Help you develop a systematic step-by-step approach to brief team members on what you want to delegate to others.
+
 What is delegation?
+
 Delegation is the assignment of responsibilities to another person for the purpose of carrying out specific job-related activities. Delegation is a shift of decision-making authority from one team member to another.
+
 Considerations when delegating
+
 Before further diving into delegation, it’s important for you as a leader to consider whether delegation is the right thing to do. In this Situational Leadership Strategy article, GitLab’s co-founder and CEO Sid Sijbrandij gives an overview of 4 leadership styles discussed in Situational Leadership Theory and the factors he considers when determining whether to delegate.
+
 Benefits of Delegation
+
 Manager/Leader Benefits
+
 •	Reduced stress
+
 •	Improve time management
+
 •	Increased trust
+
 Team Member Benefits
+
 •	Professional knowledge and skills development
+
 •	Enhanced self-esteem and confidence
+
 •	Sense of achievement
+
 GitLab Benefits
+
 •	Increased teamwork and collaboration
+
 •	Increased productivity and efficiency
+
 So why do managers struggle with delegation?
+
 As a Manager, we have to delegate tasks and activities to achieve results. Delegation only works when both the team member and manager share a common understanding of the problem set and how to go about solving them. If a Manager doesn’t understand fully what they are delegating, achieving results could be slowed down. Delegation without follow-through by the manager is abandonment. When delegating tasks, consider monitoring the team member’s progress based on their level of competence/skills with the tasks.
+
 Additional reasons why managers struggle with delegation:
+
 •	It is too hard
+
 •	It takes too much time
+
 •	Nobody can do it as well as I can
+
 •	Nobody else has the time
+
 •	They are scared things will fail
+
 •	They lack trust in their team members
+
 •	Leaders get caught up in all the details
+
 •	Leaders feel the sense of a loss of control
+
 •	Leaders “worry” about quality
+
 Knowing when and to whom you should delegate to
+
 Delegating can be especially helpful in the following situations:
+
 •	When the task offers a valuable training opportunity for a team member
+
 •	When a team member has more knowledge or experience related to the task than you
+
 •	When the task is recurring and all team members should be trained
+
 •	When the task is of low priority and you have higher priority tasks that require your immediate attention
+
 When deciding who to select for the task, you must consider:
+
 •	The team members current work load
+
 •	The strengths and weaknesses of the team member
+
 •	The experience and skill level of the team member
+
 IDEAL - Six steps of delegations. In this section we will review the 6 different steps and approaches for enhancing your delegation skills.
+
 I - Introduce the task D - Demonstrate clearly what needs to be done E - Ensure understanding A - Allocate authority, information and resources L - Let go S - Support and monitor
+
 Introduce the task
+
 •	Determine the tasks to be delegated
+
 •	Determine the tasks to retain
+
 •	Select who you will delegate the task to
+
 When you introduce the task use “What-Why” statements like “I want you to do … because you …”
+
 Demonstrate Clearly
+
 •	Show examples of previous work
+
 •	Explain objectives
+
 •	Discuss timelines, expected outcomes and then set a deadline
+
 Ensuring Understanding
+
 •	Provide clear communication
+
 •	Ask the team member if they need additional clarification
+
 •	Secure commitment that the team member can achieve the objective
+
 •	Collaboratively determine methods for follow up
+
 Allocate authority, information and resources
+
 •	Grant authority to determine process, not desired outcomes
+
 •	Provide access to all the information sources
+
 •	Refer team members to specific resources and other team members that have been assisting with the task in the past or present
+
 •	Provide any appropriate training necessary to ensure success
+
 Let go
+
 •	Communicate to the broader audience the team members authority and ownership of task
+
 •	Step back, let the team member get to work
+
 •	Don’t allow yourself to engage in reverse delegation or step in take over (unless the task is completely going off the track or potentially going to miss the deadline by a significant amount of time) Reverse delegation is a term that describes a situation whereby a manager delegates a task to their direct reports, but only to take it back, for one reason or another, to work on it sometime later. There are two ways, forced and unforced, that reverse delegation may take place.
+
 Support and Monitor
+
 •	Schedule follow-up meetings
+
 •	Review progress
+
 •	Assist, when requested
+
 •	Avoid interference
+
 •	Publicly praise progress and completion
+
 •	Encourage problem-solving
+
 Delegation Stressors
+
 “Why do Managers…?”
+
 •	Loss of control - If you train your team members to apply the same criteria as you would yourself, then they will be exercising your control on your behalf.
+
 •	Too much time spent on explaining the tasks: The amount of time you spent up front is, in fact, great. But, continued use of the team member may free you up to complete more complex tasks and/or gain you some time for yourself.
+
 •	Compromising your own value - By successfully delegating to team members, your value to the department, division and GitLab will grow at a faster rate as you will have more time to do more things.
+
 Delegation Obstacles
+
 •	Lack of support - Manager and team members must be fully supportive of the delegation efforts in order to be successful
+
 •	Failure to plan - Taking the time to follow the steps for delegation can avoid any pitfalls that might otherwise be overlooked
+
 •	Lack of communication - Communicating the plan in a clear and precise manner prevents errors caused by miscommunication
+
 •	Fear of relinquishing control - Management may be resistant to delegating at first, but delegation can build trust and morale among managers and team members
+
 •	Micromanagement - Micromanagement prevents team members from completing their assigned tasks and defeats the purpose of delegation
+
 •	Interruptions - Managing our time is a key attribute to increasing the managerial output of the teams we lead. Interruptions can occur a lot. Ask yourself how you can strive toward regularity and prevent stops and starts in your day.
+
 Signs of Micromanagement
+
 Micromanaging occurs when a manager assigns a task to a team member, but prevents the team member from successfully completing the task on their own. Micromanagers usually:
+
 •	Resist delegating
+
 •	Prevent team members from making decisions
+
 •	Revoke tasks after they have been assigned
+
 •	Avoid letting team members work independently
+
 How to avoid Micromanagement
+
 •	Clearly define the roles and responsibilities of managers and team members
+
 •	Create a written plan and timeline
+
 •	Include scheduled meetings and evaluations rather than frequent “check ins’” that can be viewed as micromanaging
+
 •	Allow team members and managers to openly communicate any concerns or questions they may have
 Consequences of poor delegation
+
 •	Information and decision-making is not shared by the group
+
 •	Leaders become tired our or burnt out
+
 •	If a leader leaves the group, no one has the experience needed to carry on
+
 •	Team or group morale becomes low and people become frustrated and feel powerless
+
 •	The skills and knowledge of the group/division/department are concentrated in a few people
+
 •	New team members do not find any meaningful ways to contribute to the work or growth of the group
+
 Conclusion
+
 Practice makes perfect. It gets easier the more you do it! Below are a few useful articles for managers regarding the importance of delegation.
+
 •	Managers Must Delegate Effectively to Develop Employees
+
 •	Why Aren’t You Delegating
+
 •	Management Tips: 10 Reasons To Delegate
+
 •	The Benefits of Delegation and Why Most Leaders Under-Delegate
+
 •	How to Delegate Tasks Effectively and Why it is Important
+
 Books to consider reading
+
 •	If You Want It Done Right, You Don’t Have to Do It Yourself! The Power of Effective Delegation
+
 •	The Busy Manager’s Guide to Delegation
+
 •	The Art of Delegation: Maximize Your Time, Leverage Others, and Instantly Increase Profits
+
 •	How to Delegate - Essential Managers series
+
 Last modified September 18, 2023 
 
 
+ 
 
 
- 
- 
- 
-On This Page
 •	Introduction
+
 •	Applying High Output Management
+
 o	High Output Management
+
 o	Application of Individual KPIs
+
 o	Performance Management
+
 o	Training is the Boss’s Job
+
 1.	The Handbook
+
 2.	Leadership
+
 3.	High Output Management
+
 High Output Management
+
 Introduction
+
 At GitLab, one of our favorite books is, “High Output Management” by Andrew Grove. The book provides a comprehensive overview of a manager’s role and purpose. Our CEO, Sid, applied many of the concepts covered when partnering with the People team to design management and people practices for GitLab. On this page, we will cover some of the key topics covered in the book and what they mean for people leaders.
+
 Applying High Output Management
+
 Sid and the Learning and Development team discuss High Output Management during a CEO Handbook Learning Session. In the video, we explore how the book shaped GitLab management processes and policies.
+
 Topics covered include:
+
 1.	Why the book is one of Sid’s favorites.
+
 2.	Why dual reporting structures lead to matrix organizations and how GitLab maintains a no-matrix organization.
+
 3.	Why 1-1 meetings are fundamental to management.
+
 4.	Enabling the direct report to show initiative in their career and performance.
+
 5.	The importance of emotional intelligence in management based on task-relevant maturity.
+
 6.	Why training the team should be the manager’s job.
+
 If there is one management book you should read, it is High Output Management. A lot of GitLab policies are directly from the book. Managers can learn that the most challenging aspect of management, is managing their time to make decisions and achieve results. This book will teach you how.
+
 Team members can expense the book if they choose to purchase.
+
 High Output Management
+
 The central thesis is that a manager’s objective is to increase the output of the work of those on their team. At GitLab, managers are expected to lead their teams to achieve results. Therefore, a manager should choose high-leverage activities that have a multiplicative impact on the overall output of the team. GitLab moves fast. There are meetings, issues and MRs to review, 1-1s, informal communication, and much more. One way for a manager to be successful is by providing a clear direction to a team by applying a small amount of the time that yields a tremendous value in terms of the output of the team.
+
 For example, managers at GitLab can:
+
 1.	Delegate tasks through Issue boards. Issue boards can serve as a project management tool to plan, organize, and visualize a workflow for a team.
+
 2.	Decline Meetings in Favor of Async. Meetings are useful for building rapport and moving projects forward. Managers can be role models of our bias towards asynchronous communication by declining meetings in favor of async. They can also be role models by only scheduling meetings where it is necessary to review a concrete proposal or to move forward a series of asynchronous discussion points.
+
 3.	Making decisions by applying the best of both hierarchical and consensus on your team. Allow the person on your team that does the work to make the decisions, the Directly Responsible Individual.
+
 4.	Elicit peak performance through motivation. Managers can improve output on their team by applying motivation, building trust, and training.
+
 Application of Individual KPIs
+
 A topic covered in High Output Management is for managers to choose Key Performance Indicators to help their team achieve results. Managers are responsible for ensuring their teams have KPIs linked to the company OKRs. Managers can also create both team and individual KPIs to measure what gets done. If people leaders set a goal around a desired outcome for their people, the chances of that outcome occurring can be higher; simply because you have committed to managing and measuring direct report progress towards it.
+
 When you set goals and KPIs with direct reports, make sure they align with your team’s overall strategy and KPIs, which aligns with the organization’s overall strategy.
+
 Performance Management
+
 In the book, the author describes applying async practices to begin performance discussions. Managers use a regularly scheduled 1-1 meeting to discuss performance with a direct report. They prepare a document before the meeting with all of the key points, areas of strength, areas of development, and a plan for the future. This gives the direct report time to digest before the performance discussion. The synchronous meeting time can be used by the direct report to ask clarifying questions on the feedback. Managers are able to focus their attention on key points rather than covering all the points in one meeting.
+
 Training is the Boss’s Job
+
 Every page in our handbook is a source of learning and development material. If managers accept that training, along with motivation, are the key ways to improve the performance of direct reports, the way you teach must be closely tied to what you practice. Training should be considered a continuing process rather than a one-time event. Managers fill the role of teacher to their teams. Team members also have valuable skills they can share with their teams and the broader organization.
+
 As a people leader, consider holding training events and/or record videos that teach your team members important concepts related to functional skill-building. At GitLab, we have Focus Friday’s that can be used to take time out to learn. Enable team members to drive training of the team on complex functions through enablement sessions. Also, consider using LinkedIn Learning to focus your team on curated content. During the next team meeting, have team members share feedback on the topics covered.
+
 Managers can lead training sessions throughout the year, and according to the book, it is considered one of the highest-leverage activities a manager can do.
+
 Last modified December 8, 2023 
 
  
  
  
+
 On This Page
+
 •	Manager Guide: Identifying & Addressing Burnout
+
 o	Defining Burnout
+
 o	Goal
-	Resource
+
+Resource
+
 o	Understanding Burnout:
-	Resource
+
+Resource
+
 o	Addressing Burnout
-	Resource to share with team members:
-o	Where to ask questions
-	Resource Respository
-	Additional Resources
-1.	The Handbook
-2.	Leadership
-3.	Identifying & Addressing Burnout
-Identifying & Addressing Burnout
-Manager Guide: Identifying & Addressing Burnout
-With GitLab’s results-driven culture, the demands of product innovation around AI, the fast-paced and ever-evolving business environment, our organization recognizes the crucial balance between achieving ambitious goals and maintaining the well-being of our team members.
-Defining Burnout
-The World Health Organization defines Burnout as “a syndrome conceptualized as resulting from chronic workplace stress that has not been successfully managed. It is characterized by three dimensions: feelings of energy depletion or exhaustion; increased mental distance from one’s job, or feelings of negativism or cynicism related to one’s job”
-Goal
-The primary objective of this resource is to set expectations of leaders when it comes to managing burnout and to provide practical strategies to proactively identify and address signs of burnout. People leaders play a key role in ensuring a healthy, productive, and engaged workforce.
-This guide serves as a toolkit for fostering a supportive work culture where team members feel recognized for high performance and motivated to excel, without compromising on their mental and physical health. We encourage managers to utilize these insights in their regular interactions and decision-making processes, adapting them to their team’s unique dynamics and needs. By doing so, we aim not only to enhance our team’s overall well-being but also to sustain GitLab’s innovative momentum and long-term success.
-Resource
-🏁 Modern Health provides an interactive walkthrough centered on burnout prevention and designed for people managers. Preventing Burnout in Team Members (10 min) is included for all GitLab team members. If this is your first time using GitLab’s Modern Health benefit, you can follow guidance for team member registration.
-•	Reflect: What are other ways “burnout” might show up beyond “fatigue”?
-Understanding Burnout:
-Here are some team member considerations inspired by GitLab’s culture, values, and ways of working. You’ll see some tips, but we’ll share more advice and talking points below:
-•	On & Offline:- When working in a remote, heavily asynchronous, collaborative team environment you may not always see and hear early signs of fatigue or burnout. Make it a point to reserve time in regular connections to see how team members are managing workload and boundaries. Even asking directly in a Slack message can be helpful.
-•	Flexibility: GitLab encourages team members to be directly involved in when, where, and how they get their best work done. Managers still play a key role in allowing space while also remaining dialed into progress, output, and managing capacity.
-•	Results-driven: Burnout has a direct impact on deliverables and overall results. Managers must continuously strive to improve workload management, output, and their team’s well being. This is, in itself, a result of a manager’s leadership capability and there should be a sense of ownership of the work for which their team is responsible.
-•	Common Pitfall: “Taking time away resolves any issues related to burnout.” While taking time away is a great way to set boundaries and strike a healthy balance between work and personal time; it’s not a catch-all solution. Time away should be supported and modeled by leaders, but leaders also need to recognize that addressing a team member’s potential burnout can come from a variety of approaches. This might include coaching on time management, additional targeted feedback, more effective delegation, or goal clarification. Note: Time Away is CRUCIAL to wellbeing and quality work. This is part of GitLab’s culture around work beyond combating burnout.
-•	Sense of “urgency”: Some team members may read this excerpt from GitLab Values…
-“At an exponentially-scaling startup, time gained or lost has compounding effects. Try to get the results as fast as possible, but without compromising our other values and ways we communicate, so the compounding of results can begin and we can focus on the next improvement.”
-…and only hear the “urgency” without recognizing the emphasis GitLab puts on effectively managing work, agency, and family + friends first.
-•	Ask around: Managers may hear about burnout and workload issues directly from team members, but there may be a need to appropriately source information from cross-functional partners or People Business partners to help understand how team members are feeling around workload.
-Resource
-🦊 GitLab Handbook: “Recognizing Burnout” (5 min)
-Addressing Burnout
-•	Again, Rest and Time Off are PRODUCTIVE!: With GitLab’s recent updates to the paid time off policy, prioritizing time away remains top of mind.
-•	Workload Management: Managers are expected to delegate work effectively. Doing this effectively means strategically distributing workload and creating space for team members to express support or push back when needed.
-o	 Encourage open dialogue whenever possible
-o	 Transparently share workload management strategies and systems
-o	 Discuss how workload and demand informs delegation
-•	Growth & Development: There are several ways to improve/enhance capabilities for managers and team members when it comes to combating burnout through professional development opportunities centered around stress management, time management, and professional counseling.
-o	 Preventative training for the whole team
-•	Creating a Supportive Work Environment: Foster an environment of open communication and support, encouraging team members to speak up about their challenges.
-•	Longer-Term Solutions: Encourage participation in wellness programs, explicitly communicate with teams about GitLabs culture of flexible work, and review job/role descriptions for potential stressors and opportunities to address scope.
-•	Dogfood: Managers must model healthy/balanced working behaviors! Taking time away, sharing challenges and success around effectively managing workload, storytelling centered on output as a result of effective workload management.
+
 Resource to share with team members:
+
+o	Where to ask questions
+
+ Resource Respository
+
+ Additional Resources
+
+1.	The Handbook
+
+2.	Leadership
+
+3.	Identifying & Addressing Burnout
+
+Identifying & Addressing Burnout
+
+Manager Guide: Identifying & Addressing Burnout
+
+With GitLab’s results-driven culture, the demands of product innovation around AI, the fast-paced and ever-evolving business environment, our organization recognizes the crucial balance between achieving ambitious goals and maintaining the well-being of our team members.
+
+Defining Burnout
+
+The World Health Organization defines Burnout as “a syndrome conceptualized as resulting from chronic workplace stress that has not been successfully managed. It is characterized by three dimensions: feelings of energy depletion or exhaustion; increased mental distance from one’s job, or feelings of negativism or cynicism related to one’s job”
+
+Goal
+
+The primary objective of this resource is to set expectations of leaders when it comes to managing burnout and to provide practical strategies to proactively identify and address signs of burnout. People leaders play a key role in ensuring a healthy, productive, and engaged workforce.
+
+This guide serves as a toolkit for fostering a supportive work culture where team members feel recognized for high performance and motivated to excel, without compromising on their mental and physical health. We encourage managers to utilize these insights in their regular interactions and decision-making processes, adapting them to their team’s unique dynamics and needs. By doing so, we aim not only to enhance our team’s overall well-being but also to sustain GitLab’s innovative momentum and long-term success.
+
+Resource
+
+🏁 Modern Health provides an interactive walkthrough centered on burnout prevention and designed for people managers. Preventing Burnout in Team Members (10 min) is included for all GitLab team members. If this is your first time using GitLab’s Modern Health benefit, you can follow guidance for team member registration.
+
+•	Reflect: What are other ways “burnout” might show up beyond “fatigue”?
+
+Understanding Burnout:
+
+Here are some team member considerations inspired by GitLab’s culture, values, and ways of working. You’ll see some tips, but we’ll share more advice and talking points below:
+
+•	On & Offline:- When working in a remote, heavily asynchronous, collaborative team environment you may not always see and hear early signs of fatigue or burnout. Make it a point to reserve time in regular connections to see how team members are managing workload and boundaries. Even asking directly in a Slack message can be helpful.
+
+•	Flexibility: GitLab encourages team members to be directly involved in when, where, and how they get their best work done. Managers still play a key role in allowing space while also remaining dialed into progress, output, and managing capacity.
+
+•	Results-driven: Burnout has a direct impact on deliverables and overall results. Managers must continuously strive to improve workload management, output, and their team’s well being. This is, in itself, a result of a manager’s leadership capability and there should be a sense of ownership of the work for which their team is responsible.
+
+•	Common Pitfall: “Taking time away resolves any issues related to burnout.” While taking time away is a great way to set boundaries and strike a healthy balance between work and personal time; it’s not a catch-all solution. Time away should be supported and modeled by leaders, but leaders also need to recognize that addressing a team member’s potential burnout can come from a variety of approaches. This might include coaching on time management, additional targeted feedback, more effective delegation, or goal clarification. Note: Time Away is CRUCIAL to wellbeing and quality work. This is part of GitLab’s culture around work beyond combating burnout.
+
+•	Sense of “urgency”: Some team members may read this excerpt from GitLab Values…
+
+“At an exponentially-scaling startup, time gained or lost has compounding effects. Try to get the results as fast as possible, but without compromising our other values and ways we communicate, so the compounding of results can begin and we can focus on the next improvement.”
+
+…and only hear the “urgency” without recognizing the emphasis GitLab puts on effectively managing work, agency, and family + friends first.
+
+•	Ask around: Managers may hear about burnout and workload issues directly from team members, but there may be a need to appropriately source information from cross-functional partners or People Business partners to help understand how team members are feeling around workload.
+
+Resource
+
+🦊 GitLab Handbook: “Recognizing Burnout” (5 min)
+
+Addressing Burnout
+
+•	Again, Rest and Time Off are PRODUCTIVE!: With GitLab’s recent updates to the paid time off policy, prioritizing time away remains top of mind.
+
+•	Workload Management: Managers are expected to delegate work effectively. Doing this effectively means strategically distributing workload and creating space for team members to express support or push back when needed.
+
+o	 Encourage open dialogue whenever possible
+
+o	 Transparently share workload management strategies and systems
+
+o	 Discuss how workload and demand informs delegation
+
+•	Growth & Development: There are several ways to improve/enhance capabilities for managers and team members when it comes to combating burnout through professional development opportunities centered around stress management, time management, and professional counseling.
+
+o	 Preventative training for the whole team
+
+•	Creating a Supportive Work Environment: Foster an environment of open communication and support, encouraging team members to speak up about their challenges.
+
+•	Longer-Term Solutions: Encourage participation in wellness programs, explicitly communicate with teams about GitLabs culture of flexible work, and review job/role descriptions for potential stressors and opportunities to address scope.
+
+•	Dogfood: Managers must model healthy/balanced working behaviors! Taking time away, sharing challenges and success around effectively managing workload, storytelling centered on output as a result of effective workload management.
+
+Resource to share with team members:
+
 Combating burnout, isolation, and anxiety in the remote workplace Burnout Index: Yerbo’s Risk Check
+
 ________________________________________
+
 Where to ask questions
+
 You can direct questions to #people-managers-and-above Slack channel.
+
 Resource Respository
+
 Below, you can access all the referenced in this guide:
+
 Reference	Notes
+
 GitLab team members share how to recognize burnout (and how to prevent it)
+
 Audience: All team members
+
 Recognizing Burnout
+
 Audience: All team members
+
 Combating burnout, isolation, and anxiety in the remote workplace
+
 Audience: All team members
+
 Yerbo’s Risk Check
+
 Managers can share this with their teams. It’s recommended that managers go through this for themselves as well.
+
 Mental_Health_Aware
+
 Audience: All team members
+
 Additional Resources
+
 LinkedIn Learning Course: How to Beat Burnout, Exhaustion, and Stress
+
 Modern Health: Burnout at work can also be influenced by a multitude of experiences happening inside and outside of work. EAP offers benefits the serve a variety of needs.
+
 Last modified December 12, 2023 
 
 
- 
- 
- 
-On This Page
+
+
 •	Managing conflict
+
 •	What is conflict?
+
 •	Different methods or approaches to managing conflict
+
 o	Competing method
+
 o	Avoiding method
+
 o	Accomodating method
+
 o	Compromising method
+
 o	Collaborating method
+
 •	8 tips for managing conflict
+
 •	Balancing conflict
+
 •	Conflict Resolution Competency
+
 •	Additional resources
+
 1.	The Handbook
+
 2.	Leadership
+
 3.	Managing Conflict
+
 Managing Conflict
+
 Managing conflict
+
 In this section we will review the definition of conflict, the different causes of conflict, review different methods for addressing conflict, steps in the conflict process and some do’s and dont’s of workplace conflict. Conflict in the workplace is inevitable when you have team members of various backgrounds and different work styles all working towards the same goals and OKRs (Objectives and Key Results). Conflict should never just be avoided, conflict should be managed and resolved. The first step is for the team members that experience conflict to work to address the situation to work towards a resolution. If a resolution is not possible, the manager should then work with the team members and their assigned People Business Partner to help foster a resolution.
+
 What is conflict?
+
 Conflict is any situation in which your concerns, desires, perceptions, goals or values differ and clash with other team members. Here are a few examples of potential causes of workplace conflict:
+
 •	Personality differences
+
 •	Team member behavior is regarded by some as irritating or annoying
+
 •	Perceived unfairness or inequities of resources, trainings or project work
+
 •	Unclear role expectations
+
 •	Poor communication skills
+
 •	Differences over work methods or goals
+
 Different methods or approaches to managing conflict
+
 Competing method
+
 This method involves managing conflict through unilateral decision making.
+
 •	Primarily used for: Situations that require a quick decision, instances where there is no compromise or debate on making a hard decision.
+
 •	Competing styles: Win-Lose approach, Assertive & Uncooperative and You try to satisfy your own concerns at the other team members expense.
+
 •	Examples:
+
 o	Imposing or dictating a decision - “Sorry X, but that’s my decision as your manager”
+
 o	Arguing for a conclusion that fits your data - “Our customer survey shows a steady decline. We need to design the route”
+
 o	Hard bargaining (making no concessions) - I won’t take less than X - Take it or leave it.
+
 Avoiding method
+
 Actively deciding not to manage a conflict.
+
 •	Primarily used for: Unimportant, non-work relates issues, buying time until a resolution can be reached and recognizing issues as symptoms.
+
 •	Avoiding styles: “Lose-Lose” approach, unassertive and uncooperative, evading conflict without trying to satisfy either person’s concerns and effective in emotionally charged circumstances.
+
 •	Examples:
+
 o	Avoiding people you find troublesome - “This doesn’t seem to be a good time to discuss this issue with X”.
-o	Avoiding issues that are unimportant, complex or perceived threatening - “Maybe. We’ll see. Let’s move along to the next topic.”
+
+o	Avoiding issues that are unimportant, complex or perceived threatening - “Maybe. We’ll see. 
+
+Let’s move along to the next topic.”
+
 o	Postponing the discussion until later - “Let me check on that and get back to you next week.”
+
 Accomodating method
+
 Allowing the other side to “win.”
+
 •	Primarily used for: Maintaining perspective in a conflict situation, making active decisions on what can be “let go” and maintaining peace and creating goodwill.
+
 •	Accomodating styles: Unassertive & cooperative and you attempt to satisfy the other team members concerns at the expense of your own concerns.
+
 •	Examples:
+
 o	Doing a favor to help someone - " I can see this is important to you, OK.""
+
 o	Being persuaded - I didn’t think of that, you are right."
+
 o	Obeying an authority - “I’d do it differently, but it is your call.”
+
 o	Deferring to another’s expertise - “You are the experts, I’ll trust your judgement.”"
+
 o	Appeasing someone who is threatening - Ok, ok, please calm down."
+
 Compromising method
+
 Reaching a resolution with a “win” on both sides.
+
 •	Primarily used for: Resolving issues of moderate to high importance, finding a solution that involves equal power and strong commitment on both sides, situations where a temporay “fix” may be needed and backing up a decision that’s been made via the competing or collaborating method.
+
 •	Compromising style: In the middle and you try to find an acceptable settlement that only partially satisfies both team members concerns.
+
 •	Examples:
+
 o	Soft bargaining or exchanging concessions - “Let’s split the difference and settle for X”.
+
 o	Taking turns - “Suppose I do X this time and then you do Y next time.”
+
 o	Moderating your conclusions - “You think X will solve the problem but I think Y will, so perhaps we say X&Y are possible solutions?”
+
 Collaborating method
+
 Managing conflict through team input.
+
 •	Primarily used for: Gaining support from the team, using different perspectives as an opportunity to learn and improving relationships through collaboration.
+
 •	Collaborating style: Assertive and cooperative and finding a “win-win.”
+
 •	Examples:
+
 o	Reconciling interest through a “win-win” solution - “You need to fund project X but I need to project Y, how can we do both?”
+
 o	Combining insights into a richer understanding - “You are praising X’s technical skills, however I have concerns about their iteration and collaborations skills. Both are true aren’t they? They have high potential if they can improve on their interpersonal skills.”
+
 8 tips for managing conflict
+
 1.	Management/leadership sets the tone
+
 o	A workplace built on mutual respect
+
 o	Manager/leaders behaivor and actions provide team members with a model to follow
+
 2.	Hire the right people
+
 o	Look for team members who demonstrate the ability to address conflict in a positive and productive way
+
 3.	Train team members
+
 o	Provide learning and development opportunities on how to engage in positive conflict
+
 4.	Reward meaningful conflict
+
 o	Recognize team members who participate in positive conflict, and acknowledge those whose actions result in successful outcomes for the department, division and GitLab.
+
 5.	Encourage team members to support their position
+
 o	Team members should be expected to be able to support their positions with data. This will take the conflict from emotional to rational.
+
 6.	Encourage your team members to be respectful
+
 o	Team members in meaningful conflict situations must be respectful of others and should not be allowed to make personal attacks.
+
 7.	Encourage transparency and inclusion
+
 o	All team members must feel free to express their opinions in a non judgemental environment.
+
 8.	Serve as a resource
+
 o	Serve as a resource in business decisions to coach through conflict and understand a path forward to support GitLab’s Vision.
+
 Balancing conflict
+
 Managers and leaders need to find the right balance depending on the team members involved and the situation. Remember conflict is a problem when it:
+
 •	Hampers productivity and increases tensions
+
 •	Lowers morale
+
 •	Causes more and continued conflict
+
 •	Causes inappropriate behaivor
+
 •	Leads to team member absenteeism.
+
 Conflict is constructive when it:
+
 •	Opens up issues of importance resulting in issue clarification
+
 •	Helps build cohesiveness as team members learn more about each other
+
 •	Causes team members to reassess process or actions
+
 •	Increases team member involvement.
+
 If at any time a manager feels the conflict situation has violated our values or code of conduct they should reach out to the PBP (People Business Partner). Also, if a manager would like to talk through different conflict situations and approaches your PBP is willing to help you work through the best strategies.
+
 Conflict Resolution Competency
-Managers need to be well versed in managing and facilitating conflict resolution between team members. They can do this by surfacing and clarifying areas of disagreement and by creating an environment where resolution is possible. Conflict resolution is a key component to enabling team members to be successful and reach their potential.
+
+Managers need to be well versed in managing and facilitating conflict resolution between team members. 
+They can do this by surfacing and clarifying areas of disagreement and by creating an environment where resolution is possible. Conflict resolution is a key component to enabling team members to be successful and reach their potential.
+
 Skills and behavior of the conflict resolution manager competency:
+
 •	Facilitates conflict resolution between co-workers by surfacing and clarifying areas of disagreement
+
 •	Creates an environment where resolution is possible
+
 •	Works to resolve conflict by engaging in open, productive dialogue that clarify differences, identify common ground, and work towards agreement or acceptance
+
 •	Provides guidance to team members on conflict management as needed
+
 •	Advises team or others on conflict management strategies especially for difficult or complex situations
+
 Additional resources
+
 If you are interested in learning about conflict and your role as a manager please review the following articles.
+
 •	Do You Handle Conflict like a Rhinocerso or an Ostrich
+
 •	Conflict in the Workplace
+
 •	How to deal with employees who do not get along How managers should deal with conflict between two employees
+
 •	5 Conflict Management Skills For Every Manager
+
 •	5 Conflict Management Styles for Every Personality type
+
 •	The Science of Productive Conflict: Podcast Transcript
+
 ________________________________________
+
 Leading through Adversity
+
 Leading team through adversity and challenging times One of the more challenging things managers and leaders will have to do in their careers is to lead team members through adversity or challenging times. These could be related to many different things, economic downturns, pandemics, team member deaths or illnesses, change in company leadership, changing of priorities and focus for the team and any thing else that was not expected that is causing stress or churn for the organization.
+
 Last modified December 8, 2023 
  
+
 On This Page
+
 •	Leading team through adversity and challenging times
+
 o	5 C’s of adversity
+
 o	Tips for weathering storms
+
 •	Additional resources
+
 1.	The Handbook
+
 2.	Leadership
+
 3.	Managing Conflict
+
 4.	Leading through Adversity
+
 Leading through Adversity
+
 Leading team through adversity and challenging times
+
 One of the more challenging things managers and leaders will have to do in their careers is to lead team members through adversity or challenging times. These could be related to many different things, economic downturns, pandemics, team member deaths or illnesses, change in company leadership, changing of priorities and focus for the team and any thing else that was not expected that is causing stress or churn for the organization.
+
 At some point all managers will have to face challenging times and make hard decisions. Your team members will turn to you to help lead the way through the difficult times. If you do research you will find most articles and strategies have a consistent message or theme. They are be credible, consistent, caring, have a plan, having clarity with your plan, manage expectations and set realistic objectives and goals. Below are some of those strategies, tips and resources for your review to help provide you guidance on how to navigate your teams through challenging times.
+
 5 C’s of adversity
+
 In the article 5 C’s of adversity by Stuart Cross he reviews what a leader can focus on during times of adversity:
+
 1.	Credibility: Competency and credibility are the bedrock of leadership
+
 2.	Clarity: Ambiguity is the enemy of leadership
+
 3.	Consistency: Communication or request that are clear and consistent
+
 4.	Confidence: Exuding confidence
+
 5.	(over)Communication: Repeatedly pushing out the message to team members
+
 Tips for weathering storms
+
 In article Leadership during adversity - 5 tips to help weather the storm by the Michael Page team they list the following as a guide for leaders to be successful:
+
 1.	Encourage transparent, open and honest communication: Transparency is one of our core values. Leaders should share what they can with team members at the appropriate time.
+
 2.	Communicate a realistic strategy and keep moving forward: Iteration is even more important at this time. Keep your teams focused and moving toward the department, division or organizational goals.
+
 3.	Focus on what you can control: Keep focusing your teams on the producing Results.
+
 4.	Create small wins and motivating environment: Efficiency and boring solutions should still be a focus for the team.
+
 5.	Take care of your team: Family first is part of our Diversity, Inclusion & Belonging values and as a manager making sure your team members are taken care of as well as yourself is even more important during difficult times.
+
 Additional resources
+
 As managers please make sure you familiarize yourself with the options available for team members and your self in regards to taking care of your mental health. If you have not done so yet, please review the Mental Health Awareness section in our handbook.
+
 If you are facing challenges within your team and are looking for help and guidance please reach out to your leader as well as your PBP (People Business Partner). Your PBP is here to help you talk through the challenges and work through different plans of success.
+
 Additional resources for your review
+
 •	John Addison: The 5 A’s of leading Through Adversity
+
 •	15 Trust-Building Practices for Leaders
+
 •	The Five “C’s” of a Trusted Leader
+
 •	Leading Effectively in Chaos and Uncertainty
+
 •	Five Cs of Leadership
+
 •	10 Quotes About Overcoming Adversity From Leaders Who’ve Done It
+
 Last modified September 18, 2023 
  
  
  
-On This Page
+
 •	No matrix organization introduction
+
 •	No matrix organization overview
+
 •	E-Group Conversation on No-Matrix Organization
+
 1.	The Handbook
+
 2.	Leadership
+
 3.	No Matrix Organization
+
 No Matrix Organization
+
 No matrix organization introduction
+
 On this page, we will give an overview of how GitLab operates as a no matrix organization.
 “No matrix organization” means that everyone reports to exactly one person. At GitLab we have a simple functional management hierarchy. Technical leadership at GitLab is leadership without a formal reporting line, based on project roles and experience.
+
 No matrix organization overview
+
 1.	We believe everyone deserves to report to exactly one person that knows and understands what you do day to day. The benefit of having a technically competent manager is easily the largest positive influence on a typical worker’s level of job satisfaction. We have a simple functional hierarchy, everyone has one manager that is experienced in their subject matter that allows them to meaningfully engage with the work being done within their individual function. Matrix organizations or dotted lines are too hard to get right.
+
 2.	The advantage of a functional structure is that you get better feedback and training since your manager understands your work better than a general manager.
+
 3.	For the organization, forgoing a separate class of managers ensures a simple structure with clear responsibilities.
+
 4.	A functional organization structure mimics the top structure of our organizations (Finance, Sales, Engineering, etc.).
+
 5.	It reduces compensation costs, coordination costs, and office politics.
+
 6.	The disadvantage is that your manager has a limited amount of time for you and probably has less experience managing people.
+
 7.	To mitigate these disadvantages we should offer ample training, coaching, support structures, and processes to ensure our managers can handle these tasks correctly and in a limited amount of time. “It’s easier to train an expert to manage well than to train a manager to be an expert” from How Apple is organized for Innovation.
+
 8.	Everyone deserves a great manager that helps them with their career. A manager should hire a great team, should let you know when to improve, motivate and coach you to get the best out of you.
+
 9.	“Nuke all matrices. Nuke all dual reporting structures. And nuke as many shared services functions as you possibly can.” from the great guide to big companies from Marc Andreessen (the other guides are awesome too).
+
 10.	We recommend reading High Output Management, and its author coined Grove’s law: All large organizations with a common business purpose end up in a hybrid organizational form. We believe a dual reporting structure is inevitable, we just want to delay it as long as possible.
+
 11.	We do make features with a DevOps stage group that is a collection of teams and stable counterparts.
+
 12.	Whenever there is need to work on a specific, high-level, cross functional business problem, we can assemble a working group.
+
 13.	Functional companies are easier when you focus on one product. Apple focuses on the iPhone and can have a unitary/functional/integrated organizational form. The advantage is that you can make one strong integrated product. We can also maintain a functional organization as long as we keep offering new functionality as features of GitLab instead of different products. The fact that we’re in touch with the market because we use our own product helps as well.
+
 14.	Leaders should know the details of their organization three levels down for efficient and effective cross-functional decision-making.
+
 15.	Having functional managers means that they are rarely spending 100% of their time managing. They always get their hands dirty. Apart from giving them relevant experience, it also focuses them on the output function more than the process. Hopefully both the focus and not having a lot of time for process reduces the amount of politics.
+
 16.	Functional managers spend their time between owning, learning, delegating or teaching styles. Managers will decide what activities demand their full attention and fall within their core area of expertise which they will own and what activities require them to learn new areas of expertise. Some activities require less attention from the leader and can be pushed down to others by either delegating or teaching someone on the team.
+
 E-Group Conversation on No-Matrix Organization
+
 Who better to learn how GitLab enables a functional organization structure than our leadership. As part of the CEO Handbook Learning Sessions, the L&D team facilitated a discussion with executives during a E-Group offsite, to discuss no-matrix organization and GitLab organization design.
+
 Last modified December 13, 2023 
 
 
  
  
-On This Page
+
+
 •	Purpose and Benefits of Skip-Levels
+
 •	What Skip-Levels Are Not
+
 •	Conducting skip level meetings
+
 o	Learning From the CEO on Skip Level Meetings
+
 •	Other Resources
+
 1.	The Handbook
+
 2.	Leadership
+
 3.	Skip Level Meetings - Overview
+
 Skip Level Meetings - Overview
+
 Purpose and Benefits of Skip-Levels
+
 A skip-level meeting is a meeting during which a manager’s manager meets directly with team members without the direct manager present. While 1-1s facilitate communication between a team member and their manager, skip levels should facilitate communication between the leader’s whole team, not just their direct reports.
+
 The CEO conducts quarterly skip-level meetings with all indirect reports. The goal of this meeting is to help the CEO be a better manager of him/herself, of the report of their function, and the rest of the executive team. What is going well, what needs improvement, how can the CEO help, and what should the CEO focus on when coaching the report?
+
 It also gives the skips and senior leaders an opportunity to:
+
 •	Get to know each other and build rapport
+
 •	Provide an opportunity to have contributions recognized by a senior leader
+
 •	Ask questions
+
 •	Clarify their understanding of company or functional objectives
+
 What Skip-Levels Are Not
+
 It’s important to note that the following are not purposes for the skip level meetings:
 •	To check in on the performance of a manager by “going around them.”
 •	To manage priorities, career management, or perform any duties typically handled by a team member’s direct manager.
@@ -4508,7 +5525,3 @@ Action Planning and KPIs
 The last step in the SWOT, Supply and Demand, Workforce Gaps and Risk Analysis is where you will formulate a specific Action Plan with KPIs to address the gaps that have been identified. This will be done by identifying 1-2 year initiatives as well as 3-5 year initiatives. A sample template has been created here
 The above steps are just a recommendation and a starting point for leaders. There are many great resources and templates on the web regarding how to conduct a SWOT, workforce gap analysis and create an action plan. This is meant as a guide and to start the conversations. Workforce planning has many benefits to a division/department, including team member retention, career development, top talent identification and can make budgeting and forecasting for the division/department a more data driven exercise. It also allows division/departments to respond quickly and more strategically to changes or emerging challenges in the market, workforce and overall business. Please reach out to your assigned PBP if you would like to partner on this exercise or have additional questions.
 Last modified September 18, 2023 
- 
- 
-
-

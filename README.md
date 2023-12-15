@@ -8,9 +8,13 @@
 
 This is a shortcut path to start studying **Psychological Safety**.  Just follow the steps to answer the questions, "What is Psychological Safety, and what should I study to learn it?"
 
+## Submitting edits via pull requests or creating issues
+
+| [Create issue](https://github.com/psychological-safety-yogis/awesome-psych-safety/issues) | [Fork](https://github.com/psychological-safety-yogis/awesome-psych-safety/fork) this repo, make your changes, then create a [pull (change) request](https://github.com/psychological-safety-yogis/awesome-psych-safety/pulls) | [How to pull request](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/pull_request_guide.md) | [Wiki](https://github.com/psychological-safety-yogis/awesome-psych-safety/wiki) |
+
 ## Sponsors
 
-| Supporters | Pitch | [Fork](https://github.com/psychological-safety-yogis/awesome-psych-safety/fork) this repo and create a [pull (change) request](https://github.com/psychological-safety-yogis/awesome-psych-safety/pulls) | [How to pull request](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/pull_request_guide.md) |
+| Supporters | Pitch | |
 | --- | --- | --- | --- |
 | 1. *Your name, company* | Be the first to endorse! | --- | --- |
 
@@ -979,4 +983,5 @@ Some data mining competition platforms
 
   gtag('config', 'G-YL0RV0E5XZ');
 </script>
+
 

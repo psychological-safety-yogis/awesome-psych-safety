@@ -243,7 +243,7 @@ https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-t
 
 https://knowledge.insead.edu/leadership-organisations/psychological-safety-unlocks-potential-diverse-teams 
 
-[Trend Watch: Rise of the Chief Wellness Officer - WebMD Health Services](Trend Watch: Rise of the Chief Wellness Officer - WebMD Health Services)
+[Trend Watch: Rise of the Chief Wellness Officer - WebMD Health Services](https://www.webmdhealthservices.com/blog/trend-watch-rise-of-the-chief-wellness-officer/)
 
 https://behavioralscientist.org/the-intelligent-failure-that-led-to-the-discovery-of-psychological-safety/ 
 
@@ -308,7 +308,6 @@ https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/385339/Dis
 **[`^        back to top        ^`](#awesome-psychological-safety)**
 
 ## HBR / HBS (Harvard)
-
 https://hbr.org/2023/02/what-is-psychological-safety 
 
 [4 Steps to Boost Psychological Safety at Your Workplace (hbr.org)](https://hbr.org/2021/06/4-steps-to-boost-psychological-safety-at-your-workplace)
@@ -341,14 +340,14 @@ https://hbr.org/2022/03/research-to-excel-diverse-teams-need-psychological-safet
 | https://www.hbs.edu/faculty/Pages/item.aspx?num=62225 | How Psychological Safety and Feeling Heard Relate to Burnout and Adaptation Amid Uncertainty |
 | https://www.hbs.edu/faculty/Pages/item.aspx?num=23401 | Psychological Safety |
 | https://www.hbs.edu/faculty/Pages/item.aspx?num=62297 | How to Build Psychological Safety, with Amy Edmondson |
-|https://www.hbs.edu/faculty/Pages/item.aspx?num=50688  | Psychological Safety |
-|https://www.hbs.edu/faculty/Pages/item.aspx?num=57981  | Psychological Safety and Near Miss Events in Radiation Oncology |
-|https://www.hbs.edu/faculty/Pages/item.aspx?num=63309  | Psychological Safety Comes of Age: Observed Themes in an Established Literature |
-|https://www.hbs.edu/faculty/Pages/item.aspx?num=53934  | The Strategic Imperative of Psychological Safety and Organizational Error Management |
-|https://www.hbs.edu/faculty/Pages/item.aspx?num=60423  | From Orientation to Behavior: The Interplay Between Learning Orientation, Open-mindedness, and Psychological Safety in Team Learning |
-|https://www.hbs.edu/faculty/Pages/item.aspx?num=2959  | Psychological Safety and Learning Behavior in Work Teams |
-|https://www.hbs.edu/faculty/Pages/item.aspx?num=36470  | Varied Experience, Team Familiarity, and Learning: The Mediating Role of Psychological Safety |
-|https://www.hbs.edu/faculty/Pages/item.aspx?num=22109  | Workplace Safety at Alcoa (A) |
+| https://www.hbs.edu/faculty/Pages/item.aspx?num=50688 | Psychological Safety |
+| https://www.hbs.edu/faculty/Pages/item.aspx?num=57981 | Psychological Safety and Near Miss Events in Radiation Oncology |
+| https://www.hbs.edu/faculty/Pages/item.aspx?num=63309 | Psychological Safety Comes of Age: Observed Themes in an Established Literature |
+| https://www.hbs.edu/faculty/Pages/item.aspx?num=53934 | The Strategic Imperative of Psychological Safety and Organizational Error Management |
+| https://www.hbs.edu/faculty/Pages/item.aspx?num=60423 | From Orientation to Behavior: The Interplay Between Learning Orientation, Open-mindedness, and Psychological Safety in Team Learning |
+| https://www.hbs.edu/faculty/Pages/item.aspx?num=2959 | Psychological Safety and Learning Behavior in Work Teams |
+| https://www.hbs.edu/faculty/Pages/item.aspx?num=36470 | Varied Experience, Team Familiarity, and Learning: The Mediating Role of Psychological Safety |
+| https://www.hbs.edu/faculty/Pages/item.aspx?num=22109 | Workplace Safety at Alcoa (A) |
 
 **[`^        back to top        ^`](#awesome-psychological-safety)**
 

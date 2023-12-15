@@ -412,7 +412,7 @@ https://www.mckinsey.com/featured-insights/mckinsey-explainers/what-is-psycholog
 
 [Toxic Positivity in the Workplace: Why & How to Deal with it (getlighthouse.com)](https://getlighthouse.com/blog/toxic-positivity-in-the-workplace/)
 
-Protection from Harm – Surgeon General Essential #1 (kgopm.com)](https://www.kgopm.com/essential-1-protection-from-harm/)
+[Protection from Harm – Surgeon General Essential #1 kgopm.com)](https://www.kgopm.com/essential-1-protection-from-harm/)
 
 [Psychological safety and leadership development | McKinsey](https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/psychological-safety-and-the-critical-role-of-leadership-development)
 

@@ -6,13 +6,13 @@
 
 **An awesome open-source list of ways to make your environment more psychologically safe . . . and coincidentally more successful"**
 
-This is a shortcut path to start studying **Psychological Safety**. Just follow the steps to answer the questions, "What is Psychological Safety, and what should I study to learn it?"
+This is a shortcut path to start studying **Psychological Safety**.  Just follow the steps to answer the questions, "What is Psychological Safety, and what should I study to learn it?"
 
 ## Sponsors
 
-| Supporters | Pitch | [Fork this repo and create a pull (change) request to modify](https://github.com/psychological-safety-yogis/awesome-psych-safety/pulls) | [How and why to pull request](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/pull_request_guide.md) |
+| Supporters | Pitch | [Fork](https://github.com/psychological-safety-yogis/awesome-psych-safety/fork) this repo and create a [pull (change) request](https://github.com/psychological-safety-yogis/awesome-psych-safety/pulls) | [How to pull request](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/pull_request_guide.md) |
 | --- | --- | --- | --- |
-| 1. *Your name / company here* | Be the first to endorse! | --- | --- |
+| 1. *Your name, company* | Be the first to endorse! | --- | --- |
 
 
 

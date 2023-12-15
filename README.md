@@ -64,8 +64,9 @@
 | Something broken? |[Create issue](https://github.com/psychological-safety-yogis/awesome-psych-safety/issues) |
 | Grow the Psych Safety Wiki here |[Wiki](https://github.com/psychological-safety-yogis/awesome-psych-safety/wiki) |
 | Love Psychological Safety as much as we do? | [Sponsor us!](https://github.com/sponsors/psychological-safety-yogis)
-
+<br>
 # SECTION A - How to psych the safety
+------------------------------------------
 <br>
 
 ## What is Psychological Safety?
@@ -550,8 +551,10 @@ UK-based Psychological Safety community, ready to field your questions and famil
 
 ----------------------------------------------------------------------------------------------------------------------------------
 
+<br>
 # SECTION B - Copy Pasta
--------------------------
+------------------------------------------
+<br>
 
 ## Excerpts from Canadian Centre on Occupational Health and Safety, or CCOHS
 

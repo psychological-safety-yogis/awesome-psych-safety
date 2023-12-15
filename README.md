@@ -134,7 +134,7 @@ Similarly, Canada’s occupational safety agency has a great guide, not just for
 [ccohs.ca/oshanswers/psychosocial/mh/mentalhealth_risk.html](https://www.ccohs.ca/oshanswers/psychosocial/mh/mentalhealth_risk.html) 
 
 ### Psych Safety community
-Psychological Safety community (UK-based but friendly, ready to field questions, and familiar with military aspects)
+UK-based Psychological Safety community, ready to field your questions and familiar with psych safety as it relates to military.
 
 [Join the Psychological Safety Community – Psychological Safety, powered by Iterum Ltd (psychsafety.co.uk)](https://psychsafety.co.uk/psychological-safety-community/)
 

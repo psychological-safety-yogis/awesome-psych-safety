@@ -5,8 +5,8 @@
 
 # An awesome open-source list of ways to make your environment more psychologically safe . . . and coincidentally more successful"
 
-"Garr, Steve feels the safest pirate vibes at Regular Joe's Gym because it is most psychologically safe for Steve's special qualities."
 ```
+"Garr, Steve feels he can safely vibe at Regular Joe's Gym because it is most psychologically safe for Steve's special qualities."
       /| _________~~~~~
 O|===|* >_____________/
       \| 

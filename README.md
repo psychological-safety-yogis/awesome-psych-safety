@@ -10,9 +10,9 @@ This is a shortcut path to start studying **Psychological Safety**. Just follow 
 
 ## Sponsors
 
-| Supporters | Pitch | --- | --- |
+| Supporters | Pitch | [Fork this repo and create a pull (change) request to modify](https://github.com/psychological-safety-yogis/awesome-psych-safety/pulls) | [How and why to pull request](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/pull_request_guide.md) |
 | --- | --- | --- | --- |
-| --- | Be the first to endorse! | *Your name here* | [`submit a pull request to modify`](https://github.com/psychological-safety-yogis/awesome-psych-safety/pulls) | [How and why to pull request](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/pull_request_guide.md) |
+| 1. *Your name / company here* | Be the first to endorse! | --- | --- |
 
 
 

@@ -7,8 +7,6 @@
 
 # An awesome open-source list of ways to make your environment more psychologically safe . . . and coincidentally more successful"
 
-<div align="center"><img src="./images/safety and danger.jpg"></div>
-
 ## Submitting changes / edits via "pull requests" or opening "issues"
 
 | Issues | Forks | Pull Requests | Wiki |
@@ -56,6 +54,8 @@
     - [Recognizing and Addressing Stigma at Work](https://www.ccohs.ca/oshanswers/psychosocial/mh/mentalhealth_stigma.html)
 - [The Gitlab Handbook](https://handbook.gitlab.com/)
   - [Leadership Table of Contents](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#gitlab-leadership-toc)
+
+<div align="center"><img src="./images/safety and danger.jpg"></div>
 
 #### Sponsors
 

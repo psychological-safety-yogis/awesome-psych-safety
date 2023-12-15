@@ -249,7 +249,7 @@ UK-based Psychological Safety community, ready to field your questions and famil
 
 [hrmagazine.co.uk/content/features/the-importance-of-psychological-safety](https://www.hrmagazine.co.uk/content/features/the-importance-of-psychological-safety)
 
-[Creating Psychological Safety in the Workplace | Psychology Today](https://www.psychologytoday.com/us/blog/brain-reboot/202309/creating-psychological-safety-in-the-workplace)
+[Creating Psychological Safety in the Workplace Psychology Today](https://www.psychologytoday.com/us/blog/brain-reboot/202309/creating-psychological-safety-in-the-workplace)
 
 [army.mil/article/245626/how_psychological_safety_creates_cohesion_a_leaders_guide](https://www.army.mil/article/245626/how_psychological_safety_creates_cohesion_a_leaders_guide)
 

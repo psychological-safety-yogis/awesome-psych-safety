@@ -1254,447 +1254,810 @@ Additionally, employers can:
 •	Educate all health and safety committee members about the importance of psychological health in the workplace.
 
 •	Ask the worker representative(s) on the committee to bring forward general workplace psychological health issues that affect their workforce rather than any individual's particular situation. Require that individual privacy and confidentiality be respected at all times.
+
 •	Develop policies regarding problematic substance use in the workplace and/or impairment at work make sure all employees are aware of the steps they need to follow.
 ________________________________________
+
 Does CCOHS have any other resources to help?
  
 Yes! We have several related OSH Answers on health promotion, wellness and psychosocial issues. The following are just a few of the topics that you can find on OSH Answers:
+
 •	Mental Health - Introduction
+
 •	Mental Health - Psychosocial Risk Factors in the Workplace
+
 •	Mental Health - Having Courageous Conversation
+
 •	Mental Health - Addressing Conflicts  
+
 •	Workplace Health and Wellness Program - Getting Started
+
 •	Samples of Workplace Health Program Elements
+
 •	Sample Workplace Health and Wellness Survey
+
 •	Workplace Stress - General
+
 •	Work/Life Balance
+
 •	Violence and Harassment in the Workplace
+
 •	Bullying in the Workplace
+
 •	Internet Harassment or Cyberbullying
+
 •	Employee Assistance Programs (EAP)
+
 •	Substance Use in the Workplace
+
 •	Impairment at  Work
 
 6.	Mental Health - Introduction
 On this page
+
 •	What is mental health?
+
 •	What is mental illness?
+
 •	What is psychological safety and health?
+
 •	What is the difference between a mentally healthy workplace and a psychologically healthy workplace?
+
 •	How do psychosocial risk factors in the workplace affect employee health?
+
 •	Where can I find more information?
+
 ________________________________________
+
 What is mental health?
  
 Mental health is a state of well-being in which a person understands his or her own abilities, can cope with the normal stresses of life, can work productively and fruitfully, and is able to make a contribution to his or her community.
+
 Both physical and mental health are the result of a complex interplay between many individual and environmental factors, including:
+
 •	family history of illness and disease/genetics
+
 •	lifestyle and health behaviours (e.g., smoking, exercise, substance use)
+
 •	levels of personal and workplace stress
+
 •	exposure to toxins
+
 •	exposure to trauma
+
 •	personal life circumstances and history
+
 •	access to supports (e.g., timely healthcare, social supports)
+
 •	coping skills
+
 When the demands placed on someone exceed their resources and coping abilities, their mental health will be negatively affected. Two examples of common demands are: i) working long hours under difficult circumstances, and ii) caring for a chronically ill relativ or friend.
+
 Economic hardship, unemployment, underemployment and poverty also have the potential to harm mental health.
+
 ________________________________________
+
 What is mental illness?
  
 Mental illness is a recognized, medically diagnosable illness that results in the significant impairment of an individual's cognitive, affective (emotional) or relational abilities. Mental disorders result from biological, developmental and/or psychosocial factors and can be managed using approaches comparable to those applied to physical disease (i.e., prevention, diagnosis, treatment, and rehabilitation).
+
 ________________________________________
+
 What is psychological safety and health?
  
 The Canadian Oxford Dictionary defines psychological as “of, relating to, affecting, or arising in the mind”. The concept of “psychological safety” involves preventing injury to the mental well-being of workers. A psychologically safe and healthy workplace is one that promotes workers' mental well-being and does not harm employee mental health through negligent, reckless or intentional ways. For example, a psychologically safe workplace would be free of excessive fear or chronic anxiety.
+
 ________________________________________
+
 What is the difference between a mentally healthy workplace and a psychologically healthy workplace?
  
 Nothing - psychologically healthy workplaces and mentally healthy workplaces both describe the same high-functioning, respectful and productive workplace. The term “psychologically healthy workplace” is often used when talking about preventing psychological injuries (e.g., stress-related emotional conditions resulting from real or imagined threats or injuries). The term “mentally healthy workplace” is often used within the context of mental health promotion and is viewed as a strategy used to reduce risk factors for developing mental illness.
+
 ________________________________________
+
 How do psychosocial risk factors in the workplace affect employee health?
  
 Workplace health and safety has traditionally focused on addressing hazards that could cause physical harm, such as injuries to the body (e.g., cuts, bruises, broken bones, etc.). To have a complete or comprehensive approach, workplaces should also give the same priority and attention to psychological hazards.
+
 There is strong evidence that workplace management practices, communication systems, and participation systems can influence employee’s mental health, in both positive and negative ways. The term “psychosocial factors” is often used to describe these practices and systems.
+
 •	Positive influences can make you feel energized, positively challenged, motivated, and engaged.
+
 •	Negative influences can make you feel frustrated, burnt-out, unmotivated, and disengaged.
+
 See the OSH Answers Mental Health - Psychosocial Risk Factors in the Workplace for more information.
+
 ________________________________________
+
 Where can I find more information?
  
 Mental Health Commission of Canada
+
 Funded by Health Canada, the Mental Health Commission of Canada (MHCC) has been developing programs and tools to support the mental health and wellness of Canadians since 2007. The MHCC offers resources on psychological health and safety topics including action guides, videos introducing the psychosocial factors, and case studies.
+
 Guarding Minds at Work (GM@W)
+
 A set of free tools (surveys, automated scorecards, audit forms, evidence-based recommendations and evaluation methods) that can be used to assess and address the psychosocial risk factors (PSRs) in your workplace.
+
 CSA Standard “Z1003-13 - Psychological health and safety in the workplace - Prevention, promotion, and guidance to staged implementation”
+
 CAN/CSA-Z1003-13 (BNQ 9700-803/2013) is a voluntary standard intended to provide systematic guidelines for Canadian employers that will help enable them to develop and continuously improve psychologically safe and healthy work environments for their employees. The standard is currently available for free from the CSA website.
+
 Canadian Mental Health Association
+
 The Canadian Mental Health Association (CMHA) is a non-profit organization that has been providing services to persons with mental health issues since 1918. The CMHA offers information on understanding your mental health and information on mental illness
+
 Government of Canada: Mental Health and Wellness
+
 Information from the Government of Canada about mental illness, its risk factors, symptoms, treatment and suicide prevention.
+
 (*We have mentioned these organizations as a means of providing a potentially useful referral. You should contact the organization(s) directly for more information about their services. Please note that mention of these organizations does not represent a recommendation or endorsement by CCOHS of these organizations over others of which you may be aware.)
 ________________________________________
+
 •	Fact sheet last revised: 2022-02-09
 
 7.	Mental Health - Job Burnout
+
 Mental Health
-Share this page
-Download PDF
 On this page
+
 •	What is meant by job burnout?
+
 •	What are some general effects of job burnout?
+
 •	What are some factors associated with job burnout?
+
 •	How can causes of job burnout be addressed?
+
 ________________________________________
+
 What is meant by job burnout?
  
 While job burnout is not a condition that is formally defined as a medical diagnosis, the American Psychiatric Association describes it as:
+
 •	emotional depletion – feeling frustrated, tired of going to work, finding it hard to deal with others at work
+
 •	detachment or cynicism – being less empathetic with others, detached from work, seeing work or elements of work as a source of frustration
+
 •	low personal achievement – experiencing work as unrewarding, feelings of “going through the motions”
+
 •	depersonalization – thoughts and feelings seem unreal or not belonging to oneself
 The American Psychiatric Association also describes burnout as the individual’s response to a systematic problem.
+
 ________________________________________
+
 What are some general effects of job burnout?
  
 General effects include:
+
 •	being cynical or critical at work or always having a negative or suspicious response to work conditions
+
 •	struggling to get to work or having trouble being productive when you arrive
+
 •	being irritable or impatient with co-workers, customers or clients
+
 •	lacking energy, or feelings of apathy or hopelessness
+
 •	being tired, forgetful, or lack of attention
+
 •	lack of satisfaction from your achievements or lack of enjoyment in activities outside of work
+
 •	feeling unappreciated for your work or contributions
+
 •	disillusionment about your job, feelings of detachment, or being disconnected
+
 •	feeling the need to use food, drugs, or alcohol to feel better or to simply not feel
+
 •	that your sleep habits have changed (having trouble falling asleep or staying asleep)
+
 •	that your appetite has changed (over or under eating)
+
 •	being troubled by unexplained headaches, backaches, or other physical complaints
+
 Burnout is often chronic – meaning that these feelings may exist for a long time.
+
 While these effects or symptoms are common when experiencing job burnout, they can also be the result of other health conditions, such as thyroid problems, vitamin deficiency, or depression. Check with your medical or health professional and ask about appropriate treatments.
+
 In general, feeling sad or low is a part of life and can’t be avoided. When something goes wrong in your life, your mood might drop. If you feel especially sad or irritable because of a situation and have poor sleep, less interest in seeing friends, or frequent worry about the situation, you’re probably experiencing low mood. Low mood will typically go away in a week or two, especially if there’s an improvement in the situation that started it. When these feelings remain for longer than about two weeks, it is important to ask for help.
+
 ________________________________________
+
 What are some factors associated with job burnout?
  
 Various factors can contribute to job burnout, including:
+
 •	unreasonable demands
+
 •	lack of control or the ability to influence decisions that affect your job (e.g., scheduling, workload, resources)
+
 •	unclear job expectations
+
 •	poor work environment (e.g., bullying, harassment, dysfunctional workplace dynamics, etc.)
+
 •	extreme levels of activities (e.g., either very monotonous or very busy)
+
 •	a miss-match in values or job fit
+
 •	lack of support, either at work or at home
+
 •	lack of work-life balance
 ________________________________________
+
 How can causes of job burnout be addressed?
  
 A workplace committed to the creation of an environment that promotes mental health provides its employees with protection from psychological harm while promoting healthy lifestyle habits.
+
 As noted by the Great-West Life Centre for Mental Health in the Workplace, many of the organizational factors described in the CSA standard Z1003-13 (R2018) "Psychological health and safety in the workplace - Prevention, promotion, and guidance to staged implementation” (available for free from the CSA Group website) are the same factors that contribute to job burnout.
+
 The psychosocial workplace risk factors include:
+
 •	Balance
+
 •	Civility and Respect
+
 •	Clear Leadership and Expectations
+
 •	Engagement
+
 •	Growth and Development
+
 •	Involvement and Influence
+
 •	Organizational Culture
+
 •	Protection of Physical Safety
+
 •	Psychological Competencies and Demands
+
 •	Psychological Protection
+
 •	Psychological and Social Support
+
 •	Recognition and Reward
+
 •	Workload Management
+
 Please see the following OSH Answers for more information about how to address these psychological risk factors and how to establish a comprehensive workplace health and safety program.
+
 •	Mental Health - Psychosocial Risk Factors in the Workplace
+
 •	Mental Health - Introduction
+
 •	Mental Health – How to Address and Support
+
 •	Mental Health – Dealing with Stress in the Workplace
+
 •	Mental Health – Having Courageous Conversations
+
 •	Workplace Health and Well-being - Comprehensive Workplace Health and Safety Program
+
 •	Workplace Health and Well-being Promotion - Getting Started
+
 •	Employee Assistance Programs
+
 ________________________________________
+
 •	Fact sheet last revised: 2022-02-28
 
 8.	Mental Health - Psychosocial Risk Factors in the Workplace
 What are Psychosocial Risk (PSR) factors?
  
 Several psychosocial risk (PSR) factors have been identified by researchers at Simon Fraser University “based on extensive research and review of empirical data from national and international best practices. The factors were also determined based on existing and emerging Canadian case law and legislation.”
+
 These factors are discussed in detail on the Guarding Minds at Work (GM@W) website. GM@W is a free, evidence-based strategy that helps employers protect and promote psychological safety and health in their workplace. The same factors are used in the CSA Z1003-13 (R2022) "Psychological health and safety in the workplace - Prevention, promotion, and guidance to staged implementation” which is available for free from the CSA Group website.
+
 These organizational factors that impact organizational health, the health of individual employees and the financial bottom line, including the way work is carried out and the context in which work occurs, are:
+
 •	Balance
+
 •	Civility and Respect
+
 •	Clear Leadership and Expectations
+
 •	Engagement
+
 •	Growth and Development
+
 •	Involvement and Influence
+
 •	Organizational Culture
+
 •	Protection of Physical Safety
+
 •	Psychological Competencies and Demands
+
 •	Psychological Protection
+
 •	Psychological and Social Support
+
 •	Recognition and Reward
+
 •	Workload Management
+
 ________________________________________
+
 What are these psychological risk factors in more detail?
  
 Balance 
+
 Present in a workplace where there is recognition of the need for balance between the demands of work, family, and personal life. This factor reflects the fact that everyone has multiple roles employees, parents, partners, etc. These multiple roles can be enriching and allow for the fulfillment of individual strengths and responsibilities, but conflicting responsibilities can lead to role conflict or overload. Greater workplace flexibility enables employees to minimize work-life conflict by allowing them to accomplish the tasks necessary in their daily lives.
+
 Work-life balance is a state of well-being that allows a person to effectively manage multiple responsibilities at work, at home and in their community. Work-life balance is different for everyone and it supports physical, emotional, family and community health and does so without grief, stress, or negative impact.
+
 Why it is important? 
+
 Recognizing the need for work-life balance:
+
 •	makes employees feel valued and happier both at work and at home
+
 •	reduces stress and the possibility that home issues will spill over into work, or vice versa
+
 •	allows staff to maintain their concentration, confidence, responsibility, and sense of control at work
+
 •	results in enhanced employee well-being, commitment, job satisfaction, organizational citizenship behaviours (behaviours of personal choice that benefit the organization), job performance and reduced stress
+
 What happens when it is lacking? 
+
 When work-family role conflict occurs (that is, roles within the workplace and outside it are overwhelming to a person or interfering with one another), health and well-being are undermined by accumulating home and job stress. This imbalance can lead to:
+
 •	constant tiredness
+
 •	bad temper
+
 •	inability to progress
+
 •	high job stress resulting in dissatisfaction with work and being absent either physically or mentally
+
 These effects can then lead to additional stress-related illness, as well as higher cholesterol, depressive symptoms, and overall decreased health. The impact on the organization can include increased costs due to benefit payouts, absenteeism, disability, and turnover.
+
 Not all employees will have the same work-life balance issues. Age, culture, gender, family and marital status, caregiver demands , socioeconomic status, and many other factors affect an employee's work-life balance. Organizations will benefit from having flexible arrangements to address this issue.
+
 Civility and Respect 
+
 A workplace where employees are respectful and considerate in their interactions with one another and with customers, clients, and the public. Civility and respect are based on showing esteem, care and consideration for others, and acknowledging their dignity.
+
 Why is it important? 
+
 A civil and respectful workplace is related to greater job satisfaction, greater perceptions of fairness, a more positive attitude, improved morale, better teamwork, greater interest in personal development, engagement in problem resolution, enhanced supervisor-staff relationships, and reduction in sick leave and turnover. Organizations characterized by civility and respect create a positive atmosphere of high spirits and work satisfaction. This civility allows people to enjoy the environment, whether they are staff, clients, or customers.
+
 What happens when it is lacking? 
+
 A workplace that lacks civility and respect can lead to emotional exhaustion among staff, greater conflicts, and job withdrawal. A work environment that is uncivil and disrespectful also exposes organizations to the threat of more grievances and legal risks.
+
 One example of disrespectful behaviour is bullying. Exposure to workplace bullying is associated with psychological complaints, depression, burnout, anxiety, aggression, psychosomatic complaints, and musculoskeletal health complaints. Bullying not only affects those directly involved, but also affects bystanders, as they also experience higher stress levels. A number of provinces currently have legislation to address such behaviours.
+
 Clear Leadership and Expectations 
+
 A workplace where there is effective leadership and support that helps employees know what they need to do, how their work contributes to the organization and whether there are impending changes.
+
 Why is it important? 
+
 Effective leadership increases employee morale, resiliency, and trust; and decreases employee frustration and conflict. Good leadership results in employees with higher job well-being, reduced sick leave, and reduced early retirements with disability pensions. A leader who demonstrates a commitment to maintaining his or her own physical and psychological health can influence the health of employees (e.g., sickness, presenteeism, absenteeism) and the health of the organization as a whole (e.g., vigour, vitality, productivity).
+
 What happens when it is lacking? 
+
 Leaders who are more instrumental in their approach (such as focusing on producing outcomes with little attention paid to the big picture, the psychosocial dynamics within the organization, and the individual employees) are more likely to hear staff health complaints, including general feelings of malaise, irritability, and nervousness. Similarly, leaders who do not demonstrate visible concern for their own physical and psychological health set a negative example for their staff and can undermine the legitimacy of any organizational program, policy and/or service intended to support employees. Middle managers are at greater risk because they must be leaders and be led simultaneously. This role conflict can lead to feelings of powerlessness and stress.
+
 Engagement 
+
 Employees enjoy and feel connected to their work, and where they feel motivated to do their job well. Employee engagement can be physical (energy exerted), emotional (positive job outlook and passion for their work) or cognitive (devote more attention to their work and be absorbed in their job).
+
 Engaged employees feel connected to their work because they can relate to, and are committed to, the overall success and mission of their company. Engagement is similar but should not be mistaken for job satisfaction, job involvement, organizational commitment, psychological empowerment, and intrinsic motivation.
+
 Why is it important?
+
 •	Engagement is important for individual satisfaction and psychological health, and leads to the following:
+
 •	increased profitability for companys
+
 •	greater customer satisfaction
+
 •	enhanced task performance
+
 •	greater morale
+
 •	greater motivation
+
 •	increased organizational citizenship behaviours (behaviours of personal choice that benefit the organization)
+
 What happens when it is lacking? 
+
 Organizations that do not promote engagement can see:
+
 •	negative economic impact in productivity losses
+
 •	psychological and medical consequences
+
 •	have greater employee turnover
+
 •	workplace deviance (in the form of withholding effort)
+
 •	counterproductive behaviour
+
 •	withdrawal behaviours
+
 Growth and Development 
+
 A workplace where employees receive encouragement and support in the development of their interpersonal, emotional and job skills. This type of workplace provides a range of internal and external opportunities for employees to build their repertoire of competencies. It helps employees with their current jobs as well as prepares them for possible future positions.
+
 Why it is important? 
+
 Employee development increases goal commitment, organizational commitment and job satisfaction. Employees feel that organizations care when the organization supports growth and development. Skill acquisition and career development directly enhance employee well-being. It is important to ensure that opportunities go beyond learning specific technical skills, and also include opportunities to learn personal and interpersonal skills that are critical to successfully caring for oneself and relating to others.
+
 What happens when it is lacking? 
+
 Employees who are not challenged by their work will grow bored, their well-being will suffer, and their performance will drop. When staff do not have opportunities to learn and improve their interpersonal and psychological skills, the result can be conflict, disengagement, and distress.
+
 Involvement and Influence 
+
 A workplace where employees are included in discussions about how their work is done and how important decisions are made. Opportunities for involvement can relate to an employee's specific job, the activities of a team or department, or issues involving the organization as a whole.
+
 Why it is important? 
+
 When employees feel they have meaningful input into their work they are more likely to be engaged, to have higher morale, and to take pride in their organization. This feeling, in turn, increases the willingness to make extra effort when required. Job involvement is associated with increased psychological well-being, enhanced innovation, and organizational commitment.
+
 What happens when it is lacking? 
+
 If employees do not believe they have a voice in the affairs of the organization, they tend to feel a sense of indifference or helplessness. Job alienation or non-involvement is associated with cynicism and distress, greater turnover, and burnout.
+
 Organizational Culture 
+
 A workplace characterized by trust, honesty, and fairness. Organizational culture, in general, are basic assumptions held by a particular group. These assumptions are a mix of values, beliefs, meanings, and expectations that group members hold in common and that they use as cues to what is considered acceptable behaviour and how to solve problems.
+
 Why it is important? 
+
 Organizational trust is essential for any positive and productive social processes within any workplace. Trust is a predictor of cooperative behaviour, organizational citizenship behaviours (behaviours of personal choice that benefit the organization), organizational commitment, and employee loyalty. An organization that has a health-focused culture enhances employee well-being, job satisfaction and organizational commitment, which helps to retain and attract employees. A work culture with social support also enhances employee well-being by providing a positive environment for employees who may be experiencing psychological conditions such as depression and anxiety.
+
 What happens when it is lacking? 
+
 Culture sets the tone for an organization – a negative culture can undermine the effectiveness of the best programs, policies and services intended to support the workforce. An unhealthy culture creates more stress, which lowers employee well-being. A culture of profit at all costs and constant chaotic urgency can create an environment in which burnout is the norm.
+
 Protection of Physical Safety 
+
 This factor includes the work environment itself. Steps can be taken by management to protect the physical safety of employees. Examples include policies, training, appropriate responses to incidents or situations identified as risks, and a demonstrated concern for employees' physical safety.
+
 Why is it important? 
+
 Employees who work in an environment that is perceived as physically safe will feel more secure and engaged. Higher levels in the confidence of the safety protection at work results in lower rates of psychological distress and mental health issues. Safety is enhanced through minimizing hazards, training, response to incidents, and the opportunity to have meaningful input into workplace policies and practices. The concept of 'safety climate' is linked to this factor as they both relate to the larger culture or climate of the organization.
+
 What happens when it is lacking? 
+
 Failure to protect physical safety results in workplaces that are likely to be more dangerous. Not only could employees be injured or develop illnesses, but those who do not see their workplace as physically safe will feel less secure and less engaged.
+
 Psychological Competencies and Demands 
+
 A workplace where there is a good fit between employees' interpersonal and emotional competencies, their job skills, and the position they hold. A good fit means that the employees possess the technical skills and knowledge for a particular position as well as the psychological skills and emotional intelligence (self-awareness, impulse control, persistence, self-motivation, empathy, and social deftness) to do the job. Note that a subjective job fit (when employees feel they fit their job) can be more important than an objective job fit (when the employee is assessed and matched to the job).
+
 Why it is important? 
+
 A good job fit is associated with:
+
 •	fewer health complaints
+
 •	lower levels of depression
+
 •	greater self-esteem
+
 •	a more positive self-concept
+
 •	enhanced performance
+
 •	job satisfaction
+
 •	employee retention
+
 What happens when it is lacking?
+
 When there is a poor job fit, employees can experience job strain, which can be expressed as emotional distress and provocation, excessive dwelling on thoughts, defensiveness, energy depletion and lower mood levels. Organizationally, job misfit is linked to fewer applicants in the recruitment and training process, lack of enjoyment and engagement, poor productivity, conflict, and greater voluntary turnover.
+
 Psychological Protection 
+
 Workplace psychological safety is demonstrated when employees feel able to put themselves on the line, ask questions, seek feedback, report mistakes and problems, or propose a new idea without fearing negative consequences to themselves, their job or their career. A psychologically safe and healthy workplace actively promotes emotional well-being among employees while taking all reasonable steps to minimize threats to employee mental health.
+
 Why is it important? 
+
 When employees are psychologically protected, they demonstrate greater job satisfaction, enhanced team learning behaviour, and improved performance. Employees are more likely to speak up and become involved. They show increased morale and engagement and are less likely to experience stress-related illness. Psychologically protected workplaces also experience fewer grievances, conflicts, and liability risks.
+
 What happens when it is lacking? 
+
 When employees are not psychologically safe, they experience demoralization, a sense of threat, disengagement, and strain. They perceive workplace conditions as ambiguous and unpredictable. This demoralization can, in turn, undermine shareholder, consumer, and public confidence in the organization.
+
 Psychological and Social Support 
+
 A workplace where co-workers and supervisors are supportive of employees' psychological and mental health concerns, and respond appropriately as needed. For some organizations, the most important aspect of psychological support may be to protect against traumatic stressors at work.
+
 Why is it important? 
+
 Employees who feel they have psychological support have greater job attachment, job commitment, job satisfaction, job involvement, positive work moods, desire to remain with the organization, organizational citizenship behaviours (behaviours of personal choice that benefit the organization), and job performance.
+
 What happens when it is lacking? 
+
 Employee perceptions of a lack of psychological support from their organization can lead to:
+
 •	increased absenteeism
+
 •	withdrawal behaviours
+
 •	conflict
+
 •	strain - which can lead to fatigue, headaches, burnout and anxiety
+
 •	turnover
+
 •	loss of productivity
+
 •	increased costs
+
 •	greater risk of accidents, incidents and injuries
+
 Recognition and Reward 
+
 A workplace where there is appropriate acknowledgement and appreciation of employees' efforts in a fair and timely manner. This element includes appropriate and regular financial compensation as well as employee or team celebrations, recognition of years served, acting according to organizational values, or milestones reached.
+
 Why it is important? 
+
 Recognition and reward:
+
 •	motivates employees
+
 •	fuels the desire to excel
+
 •	builds self-esteem
+
 •	encourages employees to exceed expectations
+
 •	enhances team success
+
 •	Employees receiving appropriate recognition and reward have more energy and enthusiasm, a greater sense of pride and participation in their work, and are more likely to treat colleagues and customers with courtesy, respect and understanding.
+
 What happens when it is lacking? 
+
 Lack of recognition and reward undermines employee confidence in their work and trust in the organization. Employees may feel demoralized or they may quit. An imbalance between effort and reward is a significant contributor to burnout and emotional distress leading to a range of psychological and physical disorders.
+
 Workload Management 
+
 A workplace where tasks and responsibilities can be accomplished successfully within the time available. A large workload is often described by employees as being the biggest workplace stressor (i.e., having too much to do and not enough time to do it). It is not only the amount of work that makes a difference but also the extent to which employees have the resources (time, equipment, support) to do the work well.
+
 Why it is important? 
+
 Most employees willingly work hard and feel a good day's work is fulfilling and rewarding. Workload management is important because there is a unique relationship between job demands, intellectual demands and job satisfaction. Job demands reduce job satisfaction, while intellectual demands or decision-making latitude, increase job satisfaction. Even when there are high demands, if employees also have high decision-making ability, they will be able to thrive. Having high decision-making latitude also allows for positive coping behaviours to be learned and experienced.
+
 What happens when it is lacking? 
+
 Any system subject to excess load without reprieve will break. This is as true for people as it is for equipment. Increased demands, without opportunities for control, result in physical, psychological and emotional fatigue, and increase stress and strain. Emotionally fatigued individuals also have a diminished sense of personal accomplishment and an increased sense of inadequacy. Excessive workload is one of the main reasons employees are negative about their jobs and their employers.
  
 ________________________________________
+
 What are other issues in the workplace that may affect mental health?
  
 Along with the psychological risk factors listed above, there are several other key issues in the workplace that affect employee mental health. Within each issue are various factors that organizations need to consider in their efforts to create a mentally healthy workplace. The following is adapted from "Workplace Mental Health Promotion: A How-To Guide  " from The Health Communication Unit at the Dalla Lana School of Public Health at the University of Toronto, and the Canadian Mental Health Association, Ontario.
+
 Stigma and Discrimination – Stigma is defined as negative attitudes, beliefs, or behaviours about or toward an individual or group of people because of a characteristic they share. It includes discrimination, prejudice, judgment, and stereotypes. Using substance use as an example, stigma happens when someone sees you in a negative way because of your substance use disorder. Discrimination happens when someone treats you in a negative way because of your substance use disorder.
+
 Stress – Stress refers to potentially negative physical or mental tensions experienced by a person. A stressor is any event or situation that an individual perceives as a threat; precipitates either adaptation or the stress response. Stress can come from both good and bad experiences, so the effects of stress can be positive or negative. Stress is not all bad – without stress, there would be no productivity or engagement. Stress becomes a problem when individuals cannot handle an event or situation and become overwhelmed.
+
 Demand/control and effort/reward relationships – Major causes of job stress come from problems with conflicts in demand vs. control as well as effort vs. reward. When the demand and control an employee has at work changes, stress results if either factor is not increased or decreased proportionately. The same is true for the relationship between effort and reward. Changes to the organization can make for a more mentally healthy workplace, especially when employees feel appropriately rewarded for their effort and in control of their work.
+
 Presenteeism – Presenteeism is the action of employees coming to work despite having a sickness that justifies an absence, therefore they are performing their work under sub-optimal conditions. When employees come to work not mentally present due to an illness, extreme family/life pressures or stress, they are not giving themselves adequate time to get better. Presenteeism can occur because employees feel
+
 •	they cannot afford to take the day off
+
 •	there is no back-up plan for tasks the individual is responsible for
+
 •	when they return to work, there would be even more to do
+
 •	committed to personally attending meetings or events
+
 •	concerned about job insecurity related to downsizing or restructuring
+
 Job Burnout – Job burnout is a state of physical, emotional and mental exhaustion caused by long-term exposure to demanding work situations. Burnout is the cumulative result of stress. Anyone can experience job burnout. However, professions with high job demands and few supports can increase the prevalence of burnout and reduce engagement. Helping professions, such as jobs in health care, teaching or counselling, often have high rates of burnout.
+
 Burnout has three main characteristics:
+
 1.	exhaustion (i.e., the depletion or draining of mental resources)
+
 2.	cynicism (i.e., indifference or a distant attitude towards one's job)
+
 3.	lack of professional efficacy (i.e., the tendency to evaluate one's work performance negatively, resulting in feelings of insufficiency and poor job-related self-esteem)
+
 Harassment, Violence, Bullying and Mobbing – Most people think of violence as a physical assault. However, workplace violence is a much broader problem. It is any act in which a person is abused, threatened, intimidated or assaulted in his or her employment. Workplace violence includes:
+
 •	threatening behaviour – such as shaking fists, destroying property or throwing objects
+
 •	verbal or written threats – any expression of an intent to inflict harm
+
 •	harassment – any behaviour that demeans, embarrasses, humiliates, annoys, alarms or verbally abuses a person and that is known or would be expected to be unwelcome. This act includes words, gestures, intimidation, bullying, or other inappropriate activities.
+
 •	verbal abuse – swearing, insults or condescending language
+
 •	physical attacks – hitting, shoving, pushing or kicking
+
 •	bullying – repeated, unreasonable or inappropriate behaviour directed towards an employee (or group of employees) that creates a risk to health and safety
+
 •	mobbing – ongoing, systematic bullying of an individual by his or her co-workers – this includes rudeness and physical intimidation, as well as more subtle and possibly unintentional behaviour involving social ostracism and exclusion
+
 Most jurisdictional occupational health and safety acts have been expanded to include harm to psychological well-being. Organizations should not tolerate any violent behaviour including aggression, harassment or threats of violence. Violent or aggressive behaviour hurts the mental health of everyone in the organization and creates a psychologically unsafe work environment filled with fear and anxiety.
+
 For more information on workplace violence, see the OSH Answers Violence and Harassment in the Workplace.
+
 Substance Use, and Problematic Substance Use at Work – Substance use, problematic substance use, and coping strategies can have a significant impact on mental health at work. Addictions and mental health conditions are often coupled (called a concurrent disorder). However, it is often the addiction that first gets noticed, especially in the workplace. Generally, substance use becomes a problem when an individual has lost control over their use or continues to use despite experiencing negative consequences. Employers should look for warning signs that indicate an employee may be struggling with substance use. Some signs of problematic substance use are similar to those caused by increased stress, lack of sleep, and physical or mental illness. Don't assume that an employee has problematic substance use; however, ignoring warning signs will only make the situation worse if someone is indeed struggling.
 ________________________________________
+
 •	Fact sheet last revised: 2023-09-18
-
-
-
-
-
-
 
 9.	Mental Health - Return to Work
 On this page
+
 •	What is a return to work (RTW) program?
+
 •	Is there a difference between return to work programs and mental health return to work?
+
 •	Is it important to keep in touch while the worker is recovering?
+
 •	What are the general steps for facilitating return to work?
+
 •	How do you determine what are appropriate accommodations and return to work tasks?
+
 •	What are some examples of accommodations?
+
 •	Should the return to work plan be monitored?
+
 ________________________________________
+
 What is a return to work (RTW) program?
+
 A return to work program focuses on finding meaningful and suitable work for workers coming back to the workplace from injury or illness. Through collaboration, the program's goal is to return the worker to their pre-injury or pre-illness job, where appropriate and in a timely manner. The process is not about diagnosis, and medical confidentiality must be respected at all times.
+
 The details of the overall return to work program should be communicated to all staff (ideally, before it is actually needed). This open communication makes sure that everyone understands their role and has clear expectations.
+
 For more information on return to work programs, please see the following OSH Answers documents:
+
 •	Return to Work – Program Overview
+
 •	Return to Work – Accommodation
+
 •	Return to Work – Job Demands Analysis
+
 •	Return to Work – Functional Abilities Evaluation
- 
+
 ________________________________________
+
 Is there a difference between return to work programs and mental health return to work?
  
 The guiding principles are very similar when planning for a return to work due to mental illness as it would be for a physical injury. The plan should focus on the worker's functional abilities, not the symptoms of the injury or illness. You do not need to create a separate return to work program, but be sure your existing program will accommodate workers returning from mental illness-related absences. The return to work program should include the following elements:
+
 •	Roles and responsibilities
+
 •	Communication
+
 •	Prevention
+
 •	Accommodation
+
 •	Support for recovery
+
 •	Education and training
+
 •	Review
+
 For more information on the elements of a return to work program, please see Return to Work - Program Overview. 
+
 It's important to create and foster a safe, supportive work environment. Such an environment can be created by focusing on both physical hazards and psychosocial risk factors. Workplaces must address the psychosocial hazard(s) that caused the injury when within their control to ensure the worker feels comfortable returning to the workplace and is not re-injured when they return. 
+
 Note that the worker's emotions and experiences may differ from those who are away due to an injury. When workers are absent due to a mental illness, they may experience concerns about being a bother to others, rejection, isolation, and shame. They may also fear potential harassment and associated stigmas. During the planning stages, how the absence will be explained and what level of information will be shared with the rest of the team should be discussed.
+
 ________________________________________
+
 Is it important to keep in touch while the worker is recovering?
  
 Yes. Maintaining the connection between work and the recovering individual can help support their early and safe return. When recovering workers feel disconnected from their workplace, they may experience more negative mental health and feel it is harder to return.
+
 When you know a worker will be away, establish a frequency and method of contact as soon as possible, and periodically check whether the current arrangement needs to be modified. Keep the worker in the loop about news at work and encourage the worker's colleagues to stay in touch with them as well. 
+
 To prevent inaction or confusion about the worker's future return, clearly state roles, responsibilities, and milestones for facilitating the return to work, including who will maintain regular contact and when to begin return to work planning. 
+
 ________________________________________
+
 What are the general steps for facilitating return to work?
  
 Each return to work plan and accommodations will be different based on the individual and the circumstances. The following steps should be considered when developing a return to work plan:
+
 1.	Determine meaningful work and suitable accommodations based on a completed functional abilities evaluation (physical or cognitive abilities) or fit to work assessment.
+
 2.	Create a detailed plan with milestone dates, times, tasks, and expectations. Discuss the plan with the individual before they return. Be sure to engage the individual and ask them if they anticipate any issues with the plan. This planning period is also the time to review any procedural, department, or organizational changes that may have occurred while the individual was off work.
+
 3.	Communicate with the worker’s department that the worker will be returning so the individual can be welcomed back and any retraining can be organized. Be available to support coworkers as needed. Do not allow gossip and other uncivil behaviours to occur, which can continue any stigma and result in unsupportive work environments.
+
 4.	Complete an orientation checklist when the individual returns to work. The orientation should review any changes to the procedures, department, or the workplace.
+
 5.	Review the individualized return to work plan during the first two weeks back. It's important to check in with the returning worker to see how they are doing and if they need any further accommodation to remain functional in their job. The plan should be reviewed with the worker's input at set intervals to ensure the work is still appropriate and a gradual increase to full duties can be achieved.
+
 Keep in mind the process of return planning may reveal the worker's decreased capacity or ability to handle work responsibilities, which may add stress and worsen symptoms. Focus on the worker's current capabilities and ways they can still actively contribute to the workplace. Be proactive by reassuring workers and providing coaching and training on relevant topics, such as giving feedback or responding to disagreements.
+
 ________________________________________
+
 How do you determine what are appropriate accommodations and return to work tasks?
  
 Accommodations should be based on the current physical and cognitive functional abilities of the worker, which is often determined through conducting a functional abilities evaluation or a fit to work assessment. To conduct the assessments, the medical professional needs to know the demands of the individual's job, including physical, cognitive/mental, and social/emotional demands. Typically, the employer would provide the medical professional with a description of the job demands and work conditions for the individual's role or position. The employer can provide this description directly to the medical professional, or they can give this description to the worker to bring to their assessment. Recall that diagnosis or details of treatment do not need to be disclosed. Focus on current abilities and functionality as well as the needs of the organization. 
+
 Using the functional abilities evaluation results, identify gaps between their position's responsibilities and their current abilities, then determine potential modifications to the psychological demands of the individual's job. For example, if the worker currently has a reduced capacity for multi-tasking or working under time pressures, suitable accommodations may include: 
+
 •	Working with their supervisor to establish timelines, schedules, and priorities. 
+
 •	Providing training on tasks to support proficiency. 
+
 •	Reducing distractions from the work area. 
+
 •	Modifying workflow processes to allow the worker to focus on one task at a time. 
+
 •	Supporting the worker to perform fewer tasks until their capacity increases.
+
 The accommodation process is a collaboration. Understand the needs of the worker and determine how the workplace can support them. When discussing work duties and possible modified or alternate duties, help facilitate the conversation with questions such as:
+
 •	How can your team and your supervisor best support your successful return to work? 
+
 •	How much information would you like us to share with your team?
+
 •	Is there anything your supervisor and coworkers should be aware of?  
+
 •	What were some of the challenges before the absence, and what could potentially be a challenge when you return to work?
+
 •	How often would you like to meet to see how the return to work process is going? 
+
 •	In addition to our return to work orientation, are there any tasks that you believe you may require retraining on? 
+
 •	How do you prefer to receive feedback? 
+
 •	Do you expect any barriers to your return to work? How can we best address these barriers? 
+
 •	Are there any tasks or job duties that you feel would be easier to complete?
+
 •	How would you like to see any future issues be handled?  
+
 Requests for accommodations should be made in good faith, and every effort should be made to accept the request. However, it may not be possible for the employer to accommodate a request, and equally, not every request may be appropriate. If the essential duties of the recovering worker's role cannot be modified, consider assigning alternative duties until they are able to perform the essential duties again. It is important to work collaboratively to determine suitable work and accommodations for the individual, the situation, the team, and the workplace involved.
 ________________________________________
+
 What are some examples of accommodations?
  
 Remember to work with the individual and their abilities to determine appropriate accommodations. Accommodations that may work for some individuals may not work for others. Examples include:
+
 •	Scheduling flexibility for medical appointments, working reduced hours, or allowing for more frequent breaks.
+
 •	Changing the work space to consider the needs of the individual with regard to noise, space, light, and other factors that may impact mental health, concentration, and well-being. This space may include working in a different cubicle, private area, or a different building.
+
 •	Allowing the worker to work from home, if desired and possible.
+
 •	Considering the energy and concentration levels of the individual and schedule the work accordingly throughout the day.
+
 •	Modifying the way instructions and feedback are given. Examples include written instructions or weekly meetings.
+
 •	Having more frequent meetings to ensure success with the work or the return to work plan.
+
 •	Helping the individual prioritize work and activities. This step may involve breaking work into small, achievable tasks, creating timelines and checklists, or removing any non-essential tasks.
+
 •	Modifying job duties, such as by exchanging minor tasks with other coworkers.
+
 •	Reviewing training needs and providing any necessary re-training or reorientation.
+
 •	Allowing more time to learn tasks or providing one-on-one training.
+
 •	Using equipment and technology such as a lamp instead of fluorescent lights (to help reduce flicker), a recording device to assist with memory difficulties, anti-glare screens, voice-to-text software, or noise-cancelling headphones.
+
 •	Providing a job coach such as a peer, mentor, someone from human resources, or an outside agency.
+
 •	Assigning alternate duties that minimize the potential for experiencing confrontation.
+
 •	Allowing time for the worker to access emotional support by phone or text during work (similar to allowing time away for counselling or medical appointments).
+
 ________________________________________
+
 Should the return to work plan be monitored?
  
 Yes. Create benchmarks and check-in dates to monitor the current return to work plan and accommodations. Adjust responsibilities and accommodations based on the worker's recovery to facilitate a gradual return to full duties if possible. Not only can regular check-ins and reviews help make sure the plan continues to meet the needs of both the worker and the workplace, but they can also contribute to the continuous improvement of the overall return to work program.
+
 Monitor the return to work plan and progress through informal check-ins and formal reviews. Informal check-ins can be daily and decrease in frequency as recovery progresses. Formal reviews may be on a bi-weekly basis or whenever concerns arise. These frequencies should be discussed with the appropriate people, including the recovering worker, the return to work coordinator, the manager, the union, or the human resources team. 
 ________________________________________
+
 •	Fact sheet last revised: 2023-12-07
 
 10.	Mental health - Recognizing and Addressing Stigma at Work

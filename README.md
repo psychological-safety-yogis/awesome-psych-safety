@@ -75,16 +75,14 @@
 
 
 ## What is Psychological Safety?
-**[`^        back to top        ^`](#awesome-psychological-safety)**
-
 “Psychological safety is a cornerstone for collaboration and risk-taking, essential elements for driving innovation and success in our rapidly evolving industry.” -Sundar Pichai (Alphabet/Google)
 
-## Where do I Start?
 **[`^        back to top        ^`](#awesome-psychological-safety)**
 
+## Where do I Start?
 [Splashy psych safety attachment from the UK MOD](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1099704/Psychological_Safety_in_MOD_Major_Programmes_Report.pdf)
 
-[Psychology Today: Creating Psychological Safety in the Workplace](https://www.psychologytoday.com/us/blog/brain-reboot/202309/creating-psychological-safety-in-the-workplace)
+[Psychology Today: Creating Psychological Safety in the Workplace, by Denise Cooper](https://www.psychologytoday.com/us/blog/brain-reboot/202309/creating-psychological-safety-in-the-workplace)
 
 "KEY POINTS: 
 - Psychological safety boosts well-being, productivity, innovation, and job satisfaction, benefiting business.
@@ -113,15 +111,11 @@ Start with Leadership. Leaders set the tone. Effective leaders play a crucial ro
 Encourage Open Communication. Active listening, non-judgmental feedback, and respectful communication contribute to an environment of psychological safety. Share stories and examples of how psychological safety has improved workplaces, recognize and encourage open communication, and engage employees in collaborative problem-solving.
 Foster Inclusivity. Encourage cognitive diversity as a driving factor for innovation. Create a workplace that celebrates and embraces cognitive differences, where everyone feels capable of sharing their ideas. Train employees to recognize and mitigate cognitive biases that can hinder critical thinking and data processing.
 Continuously Improve. Create an environment where it's acceptable to make mistakes and learn from them. Regularly evaluate policies and practices to ensure that they support psychological safety, making changes when necessary.
-Remember, creating psychological safety is an ongoing process that requires commitment from employers and employees alike. To foster a workplace culture that values psychological safety, promotes well-being, and drives business success is an intentional act of leadership.
+Remember, creating psychological safety is an ongoing process that requires commitment from employers and employees alike. To foster a workplace culture that values psychological safety, promotes well-being, and drives business success is an intentional act of leadership."
 
-Denise Cooper is a executive trainer, author, podcast host, and Chief People Operations at Custom Health and Founder and CEO of Remarkable Leadership Lessons, a company that assists senior-level business leaders and managers in raising their game. Katrina Hardie is a Workplace Wellbeing Culture Consultant who helps individuals, leaders, and teams recognize how their work environment impacts their health, well-being and performance and teaches them methods to turn this around in a sustainable way."
-
-
-
-## The Best Sources
 **[`^        back to top        ^`](#awesome-psychological-safety)**
 
+## The Best Sources
 ### Gitlab Example
 https://handbook.gitlab.com/handbook/leadership/emotional-intelligence/ 
 
@@ -182,9 +176,9 @@ https://www.betterup.com/blog/why-psychological-safety-at-work-matters
 
 https://amycedmondson.com/psychological-safety/ 
 
-## Quotes from [Key business Leaders](https://newyorkimprovtheater.com/2023/11/21/10-business-leaders-endorse-psychological-safety-corporate-culture-leadership-team-building/)
+**[`^        back to top        ^`](#awesome-psychological-safety)**
 
-https://www.sciencedirect.com/science/article/abs/pii/S1053482217300013
+## Quotes from [Key business Leaders](https://newyorkimprovtheater.com/2023/11/21/10-business-leaders-endorse-psychological-safety-corporate-culture-leadership-team-building/)
 
 **[`^        back to top        ^`](#awesome-psychological-safety)**
 
@@ -199,7 +193,7 @@ Arvind Krishna (IBM): “Continuous innovation is closely tied to psychological 
 Marc Benioff (Salesforce): “Trust and psychological safety go hand in hand, creating an environment where employees feel supported in taking risks and pushing boundaries.”
 Sundar Pichai (Alphabet/Google): “Psychological safety is a cornerstone for collaboration and risk-taking, essential elements for driving innovation and success in our rapidly evolving industry.”
 
-##Videos: 
+## Videos: 
 
 | Title | Link |
 | Building a psychologically safe workplace Amy Edmondson TEDxHGSE | https://www.youtube.com/watch?v=LhoLuui9gX8 |
@@ -251,7 +245,8 @@ https://www.gallup.com/workplace/236198/create-culture-psychological-safety.aspx
 https://www.hrmagazine.co.uk/content/features/hr-must-build-psychological-safety-so-employees-feel-safe-speaking-up 
 
 https://www.hrmagazine.co.uk/content/features/the-importance-of-psychological-safety 
-Creating Psychological Safety in the Workplace | Psychology Today
+
+[Creating Psychological Safety in the Workplace | Psychology Today](https://www.psychologytoday.com/us/blog/brain-reboot/202309/creating-psychological-safety-in-the-workplace)
 
 https://www.army.mil/article/245626/how_psychological_safety_creates_cohesion_a_leaders_guide 
 
@@ -273,10 +268,11 @@ https://accelerate.uofuhealth.utah.edu/improvement/psychological-safety-for-team
 
 https://www.safetyandhealthmagazine.com/articles/21201-psychological-safety-hot-concept-workplace-safety
 
+https://www.sciencedirect.com/science/article/abs/pii/S1053482217300013
 
-## Academic Sources
 **[`^        back to top        ^`](#awesome-psychological-safety)**
 
+## Academic Sources
 https://cipp.ug.edu.pl/The-model-of-psychological-safety-of-a-soldier-s-personality,140500,0,2.html 
 
 https://www.researchgate.net/publication/276002402_Team_Training_Team_Learning_Leadership_and_Psychology_Safety_A_Study_of_Team_Training_and_Team_Learning_Behavior_during_a_Swedish_Military_Staff_Exercise 
@@ -292,6 +288,8 @@ https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Group_Performance/Ed
 [The interactive effects of conscientiousness, work effort, and psychological climate on job performance - ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S000187910400096X)
 
 https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/385339/Dissertation_SonjaFoerster_2019.pdf?sequence=6&isAllowed=y 
+
+**[`^        back to top        ^`](#awesome-psychological-safety)**
 
 ## O'Reilly Learning videos, playlists, books. Free through Mil OneSource, MWR Digital Libraries
 [Psychological Safety and Workplace Inclusion, by Daniel Rust](https://learning.oreilly.com/playlists/bdd33cce-7d13-43ec-b22c-e1b03a935ef7/)
@@ -324,7 +322,7 @@ https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/385339/Dis
 
 [The People Equation by Deborah Perry Piscione, David Crawley](https://learning.oreilly.com/library/view/the-people-equation/9781626566439/)
 
-
+**[`^        back to top        ^`](#awesome-psychological-safety)**
 
 ## HBR / HBS (Harvard)
 
@@ -391,6 +389,7 @@ https://hbr.org/2022/03/research-to-excel-diverse-teams-need-psychological-safet
 
 |https://www.hbs.edu/faculty/Pages/item.aspx?num=22109  | Workplace Safety at Alcoa (A) |
 
+**[`^        back to top        ^`](#awesome-psychological-safety)**
 
 ## Podcasts: 
 https://podcasts.apple.com/us/podcast/live-brave-with-dr-margie-warrell/id1435730743?i=1000623994998 
@@ -399,6 +398,8 @@ https://hbr.org/podcast/2019/01/creating-psychological-safety-in-the-workplace
 
 https://hbr.org/podcast/2021/12/psychological-safety-in-theory-and-in-practice 
 
+**[`^        back to top        ^`](#awesome-psychological-safety)**
+
 ## Emotional intelligence (EQ) assessments
 [Color Code Personality Test](https://www.colorcode.com/free_personality_test/?timestamp=1588009250.89&hash=667424d7d32a031b41b6896af6ab1ad7)
 [Global Leadership Foundation EQ Test]( https://globalleadershipfoundation.com/geit/eitest.html)
@@ -406,6 +407,8 @@ https://hbr.org/podcast/2021/12/psychological-safety-in-theory-and-in-practice
 [University of California at Berkley EQ Assessment](https://greatergood.berkeley.edu/quizzes/ei_quiz/take_quiz)
 [Psychology Today EQ Test](https://www.psychologytoday.com/us/tests/personality/emotional-intelligence-test)
 [Growth versus Fixed Mindset Assessment]( https://blog.mindsetworks.com/what-s-my-mindset)
+
+**[`^        back to top        ^`](#awesome-psychological-safety)**
 
 ## Consulting Firm Contributions: 
 https://www.ccl.org/articles/leading-effectively-articles/what-is-psychological-safety-at-work/ 
@@ -456,6 +459,8 @@ https://www.forum.org.nz/resources/mental-wellbeing-at-work/psychologicalsafety/
 
 https://www.forum.org.nz/assets/Factsheet-Psychological-safety-at-work-final.pdf 
 
+**[`^        back to top        ^`](#awesome-psychological-safety)**
+
 ## Goodreads Lists
 https://www.goodreads.com/list/show/146945.Best_Leadership_Books_Nonprofits_Religious_
 
@@ -470,6 +475,8 @@ https://www.goodreads.com/list/show/3886.Books_Every_Businessperson_Should_Read
 https://www.goodreads.com/list/show/128460.psychology_the_power_of_the_mind
 
 https://www.goodreads.com/list/show/143532.Healthcare_Reading_List 
+
+**[`^        back to top        ^`](#awesome-psychological-safety)**
 
 ## Psych Safety Origins and Science from Flight Safety
 https://www.skybrary.aero/articles/organisational-culture 
@@ -554,6 +561,7 @@ https://skybrary.aero/articles/single-person-operations-atc
 
 https://skybrary.aero/articles/stress-air-traffic-control 
 
+**[`^        back to top        ^`](#awesome-psychological-safety)**
 
 ## Skybrary Bookshelf (PDFs)
 
@@ -570,6 +578,8 @@ https://skybrary.aero/articles/stress-air-traffic-control
 | CAN WE SERVE THE INTERESTS OF AVIATION SAFETY and JUST CULTURE? | https://www.skybrary.aero/sites/default/files/bookshelf/4811.pdf |
 | Do You Have a Safety Culture? | https://www.skybrary.aero/sites/default/files/bookshelf/234.pdf |
 | A Roadmap to a Just Culture: Enhancing the Safety Environment | https://www.skybrary.aero/sites/default/files/bookshelf/233.pdf |
+
+**[`^        back to top        ^`](#awesome-psychological-safety)**
 
 ## Excerpts from CCOH: 
 ### Mental Health Fact Sheets

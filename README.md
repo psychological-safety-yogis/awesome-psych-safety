@@ -3768,11 +3768,11 @@ Leadership
 
  [1-1](https://handbook.gitlab.com/handbook/leadership/1-1/)
 
- [Biggest Tailwinds]( https://handbook.gitlab.com/handbook/leadership/biggest-tailwinds/)
+ [Biggest Tailwinds](https://handbook.gitlab.com/handbook/leadership/biggest-tailwinds/)
 
  [Book clubs](https://handbook.gitlab.com/handbook/leadership/book-clubs/)
 
- [Building Trust at GitLab](https://handbook.gitlab.com/handbook/leadership/building-trust/
+ [Building Trust at GitLab](https://handbook.gitlab.com/handbook/leadership/building-trust/)
 
  [Coaching](https://handbook.gitlab.com/handbook/leadership/coaching/)
 

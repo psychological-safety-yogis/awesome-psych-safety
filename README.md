@@ -7,12 +7,21 @@
 
 # An awesome open-source list of ways to make your environment more psychologically safe . . . and coincidentally more successful"
 
+| More how-to's | Link |
+| ----------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Github Repository Search Tips | [Github Repository Search Tips](https://www.freecodecamp.org/news/github-search-tips/) |
+| Github Search (Official) | [github.com/features/code-search](https://github.com/features/code-search) |
+| Stack Exchange answers on searching | [stackoverflow.com/questions/3616221/search-code-inside-a-github-project](https://stackoverflow.com/questions/3616221/search-code-inside-a-github-project) |
+| Github Search updated | [github.blog/changelog/2023-05-08-the-new-code-search-and-code-view-is-now-generally-available/](https://github.blog/changelog/2023-05-08-the-new-code-search-and-code-view-is-now-generally-available/) |
+
+
 ## Submitting changes / edits via "pull requests" or opening "issues"
+
+
 
 | Issues | Forks | Pull Requests | Wiki |
 | --- | --- | --- | --- |
 | [Create issue](https://github.com/psychological-safety-yogis/awesome-psych-safety/issues) | [Fork](https://github.com/psychological-safety-yogis/awesome-psych-safety/fork) this repo, make your changes, then create a [pull (change) request](https://github.com/psychological-safety-yogis/awesome-psych-safety/pulls) | [How to pull request](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/pull_request_guide.md) | [Wiki](https://github.com/psychological-safety-yogis/awesome-psych-safety/wiki) |
-
 
 <br>
 
@@ -38,7 +47,7 @@
 - [Goodreads Lists](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#goodreads-lists)
 - [Psych Safety Origins and Science from Flight Safety](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#psych-safety-origins-and-science-from-flight-safety)
   - [PDFs from Skybrary](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#skybrary-bookshelf-pdfs)
-- Bonus (before diving into the excerpts):
+- [Awesome Mental Health List (like this one! Bonus!)](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#bonus-awesome-mental-health-list):
   - [Awesome Mental Health](https://dreamingechoes.github.io/awesome-mental-health/#/)
   - [Source for their Github Pages / github.io page](https://github.com/dreamingechoes/awesome-mental-health)
 - [Excerpts from Canada's Occupational Health](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#excerpts-from-ccoh)

@@ -194,8 +194,8 @@ Sundar Pichai (Alphabet/Google): “Psychological safety is a cornerstone for co
 **[`^        back to top        ^`](#awesome-psychological-safety)**
 
 ## Videos: 
-
-| Title | Link | 
+| Title | Link |
+| --- | --- |
 | Building a psychologically safe workplace Amy Edmondson TEDxHGSE | https://www.youtube.com/watch?v=LhoLuui9gX8 |
 | What is Psychological Safety, and How do you create Psychological Safety at Work? | https://www.youtube.com/watch?v=73FfNvGePMg |
 | How Google builds the perfect team, with Charles Duhigg | https://www.youtube.com/watch?v=v2PaZ8Nl2T4 |
@@ -326,20 +326,21 @@ https://hbswk.hbs.edu/item/four-steps-to-build-the-psychological-safety-that-hig
 https://hbr.org/2022/03/research-to-excel-diverse-teams-need-psychological-safety 
 
 | link | description |
-| https://www.hbs.edu/faculty/Pages/item.aspx?num=61676 | Feeling Seen: Leader Eye Gaze Promotes Psychological Safety, Participation, and Voice|
-|https://www.hbs.edu/faculty/Pages/item.aspx?num=20682  | Explaining Psychological Safety in Innovation Teams |
-|https://www.hbs.edu/faculty/Pages/item.aspx?num=50683  | Understanding Psychological Safety in Healthcare and Education Organizations: A Comparative Perspective |
-|https://www.hbs.edu/faculty/Pages/item.aspx?num=23399  | Overcoming Barriers to Collaboration: Psychological Safety and Learning in Diverse Teams |
-|https://www.hbs.edu/faculty/Pages/item.aspx?num=62294  | Psychological Safety and Fearless Organisations |
-|https://www.hbs.edu/faculty/Pages/item.aspx?num=62296 | Creating Psychological Safety in the Workplace |
-|https://www.hbs.edu/faculty/Pages/item.aspx?num=58211  | The Psychological Safety Imperative |
-|https://www.hbs.edu/faculty/Pages/item.aspx?num=61993 | Exploring the Relationship between Team Diversity, Psychological Safety and Team Performance: Evidence from Pharmaceutical Drug Development |
-|https://www.hbs.edu/faculty/Pages/item.aspx?num=62287  | How to Build Psychological Safety in Your Workplace with The Fearless Organization Author, Amy C. Edmondson |
-|https://www.hbs.edu/faculty/Pages/item.aspx?num=60426  | The Impact of Covid-19 on Psychological Safety in the Workplace (Interview) |
-|https://www.hbs.edu/faculty/Pages/item.aspx?num=54851  | The Fearless Organization: Creating Psychological Safety in the Workplace for Learning, Innovation, and Growth |
-|https://www.hbs.edu/faculty/Pages/item.aspx?num=62225  | How Psychological Safety and Feeling Heard Relate to Burnout and Adaptation Amid Uncertainty |
-|https://www.hbs.edu/faculty/Pages/item.aspx?num=23401  | Psychological Safety |
-|https://www.hbs.edu/faculty/Pages/item.aspx?num=62297 | How to Build Psychological Safety, with Amy Edmondson |
+| --- | --- | 
+| https://www.hbs.edu/faculty/Pages/item.aspx?num=61676 | Feeling Seen: Leader Eye Gaze Promotes Psychological Safety, Participation, and Voice |
+| https://www.hbs.edu/faculty/Pages/item.aspx?num=20682 | Explaining Psychological Safety in Innovation Teams |
+| https://www.hbs.edu/faculty/Pages/item.aspx?num=50683 | Understanding Psychological Safety in Healthcare and Education Organizations: A Comparative Perspective |
+| https://www.hbs.edu/faculty/Pages/item.aspx?num=23399 | Overcoming Barriers to Collaboration: Psychological Safety and Learning in Diverse Teams |
+| https://www.hbs.edu/faculty/Pages/item.aspx?num=62294 | Psychological Safety and Fearless Organisations |
+| https://www.hbs.edu/faculty/Pages/item.aspx?num=62296 | Creating Psychological Safety in the Workplace |
+| https://www.hbs.edu/faculty/Pages/item.aspx?num=58211 | The Psychological Safety Imperative |
+| https://www.hbs.edu/faculty/Pages/item.aspx?num=61993 | Exploring the Relationship between Team Diversity, Psychological Safety and Team Performance: Evidence from Pharmaceutical Drug Development |
+| https://www.hbs.edu/faculty/Pages/item.aspx?num=62287 | How to Build Psychological Safety in Your Workplace with The Fearless Organization Author, Amy C. Edmondson |
+| https://www.hbs.edu/faculty/Pages/item.aspx?num=60426 | The Impact of Covid-19 on Psychological Safety in the Workplace (Interview) |
+| https://www.hbs.edu/faculty/Pages/item.aspx?num=54851 | The Fearless Organization: Creating Psychological Safety in the Workplace for Learning, Innovation, and Growth |
+| https://www.hbs.edu/faculty/Pages/item.aspx?num=62225 | How Psychological Safety and Feeling Heard Relate to Burnout and Adaptation Amid Uncertainty |
+| https://www.hbs.edu/faculty/Pages/item.aspx?num=23401 | Psychological Safety |
+| https://www.hbs.edu/faculty/Pages/item.aspx?num=62297 | How to Build Psychological Safety, with Amy Edmondson |
 |https://www.hbs.edu/faculty/Pages/item.aspx?num=50688  | Psychological Safety |
 |https://www.hbs.edu/faculty/Pages/item.aspx?num=57981  | Psychological Safety and Near Miss Events in Radiation Oncology |
 |https://www.hbs.edu/faculty/Pages/item.aspx?num=63309  | Psychological Safety Comes of Age: Observed Themes in an Established Literature |

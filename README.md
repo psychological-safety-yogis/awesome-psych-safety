@@ -26,29 +26,29 @@
   - [Government Sources](https://github.com/psychological-safety-yogis/awesome-psych-safety/tree/live#psych-safety-community)
   - [Other good ones](https://github.com/psychological-safety-yogis/awesome-psych-safety/tree/live#other-good-ones)
 - [Quotes from key leaders](https://github.com/psychological-safety-yogis/awesome-psych-safety/tree/live#quotes-from-key-business-leaders)
-- [Videos](#videos)
-- [Articles, webpages, etc.](#articles)
-- [Academic sources](#academia)
-- [O'Reilly Learning videos, playlists, books. Free through Mil OneSource, MWR Digital Libraries](#oreilly)
-- [HBR / HBS (Harvard)](#harvard)
-- [Podcasts](#podcasts)
-- [Emotional Intelligence (EQ) assessments](#eq-assessments)
-- [Consulting Firm contributions](#mbb)
-- [Goodreads Lists](#listopia)
-- [Psych Safety Origins and Science from Flight Safety]()
-  - [PDFs from Skybrary](#flight-safety)
-- [Excerpts from Canada's Occupational Health](#ccoh-excerpts)
-  - [Fact sheets](#fact-sheets)
-    - [Active Listening](#active-listening)
-    - [Addressing Conflicts](#addressing-conflicts)
-    - [Dealing with Stress in the Workplace](#workplace-stress)
-    - [Having Courageous Conversations](#courageous-convos)
-    - [Mental Health Introduction](#mental-health-intro)
-    - [Job Burnout](#job-burnout)
-    - [Psychosocial(#psych-safety) Risk Factors in the Workplace](#psychosocial)
-    - [Return to Work](#return-work)
-    - [Recognizing and Addressing Stigma at Work](#stigma)
-- [The Gitlab Handbook](#gitlab-handbook)
+- [Videos](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#videos)
+- [Articles, webpages, etc.](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#articles)
+- [Academic sources](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#academic-sources)
+- [O'Reilly Learning videos, playlists, books. Free through Mil OneSource, MWR Digital Libraries](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#oreilly-learning-videos-playlists-books-free-through-mil-onesource-mwr-digital-libraries)
+- [HBR / HBS (Harvard)](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#hbr--hbs-harvard)
+- [Podcasts](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#podcasts)
+- [Emotional Intelligence (EQ) assessments](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#emotional-intelligence-eq-assessments)
+- [Consulting Firm contributions](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#consulting-firm-contributions)
+- [Goodreads Lists](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#goodreads-lists)
+- [Psych Safety Origins and Science from Flight Safety](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#psych-safety-origins-and-science-from-flight-safety)
+  - [PDFs from Skybrary](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#skybrary-bookshelf-pdfs)
+- [Excerpts from Canada's Occupational Health](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#excerpts-from-ccoh)
+  - [Fact sheets](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#mental-health-fact-sheets)
+    - [Active Listening](https://www.ccohs.ca/oshanswers/psychosocial/mh/mentalhealth_activelistening.html)
+    - [Addressing Conflicts](https://www.ccohs.ca/oshanswers/psychosocial/mh/mentalhealth_conflicts.html)
+    - [Dealing with Stress in the Workplace](https://www.ccohs.ca/oshanswers/psychosocial/mh/stress_workplace.html)
+    - [Having Courageous Conversations](https://www.ccohs.ca/oshanswers/psychosocial/mh/mentalhealth_conversations.html)
+    - [Mental Health Introduction](https://www.ccohs.ca/oshanswers/psychosocial/mh/mentalhealth_address.html)
+    - [Job Burnout](https://www.ccohs.ca/oshanswers/psychosocial/mh/mentalhealth_jobburnout.html)
+    - [Psychosocial Risk Factors in the Workplace](https://www.ccohs.ca/oshanswers/psychosocial/mh/mentalhealth_risk.html) 
+    - [Return to Work](https://www.ccohs.ca/oshanswers/psychosocial/mh/return_to_work.html)
+    - [Recognizing and Addressing Stigma at Work](https://www.ccohs.ca/oshanswers/psychosocial/mh/mentalhealth_stigma.html)
+- [The Gitlab Handbook](https://handbook.gitlab.com/)
   - [Emotional Intelligence](#emote-intel)
     - [Psychological Safety](#safety-psych)
     - [Psychological Safety Short Course](#short-course)
@@ -180,8 +180,6 @@ https://amycedmondson.com/psychological-safety/
 
 ## Quotes from [Key business Leaders](https://newyorkimprovtheater.com/2023/11/21/10-business-leaders-endorse-psychological-safety-corporate-culture-leadership-team-building/)
 
-**[`^        back to top        ^`](#awesome-psychological-safety)**
-
 Satya Nadella (Microsoft): “Psychological safety is crucial for fostering a culture of innovation, where every team member feels empowered to contribute.”
 Sheryl Sandberg (Facebook): “Creating a workplace with psychological safety encourages employees to share their ideas and perspectives without fear of judgment.”
 Tim Cook (Apple): “Open communication and trust are foundational to psychological safety, enabling teams to collaborate effectively and drive success.”
@@ -192,6 +190,8 @@ Brian Chesky (Airbnb): “Fostering a workplace culture that values diverse pers
 Arvind Krishna (IBM): “Continuous innovation is closely tied to psychological safety, where employees feel secure to challenge the status quo and propose new ideas.”
 Marc Benioff (Salesforce): “Trust and psychological safety go hand in hand, creating an environment where employees feel supported in taking risks and pushing boundaries.”
 Sundar Pichai (Alphabet/Google): “Psychological safety is a cornerstone for collaboration and risk-taking, essential elements for driving innovation and success in our rapidly evolving industry.”
+
+**[`^        back to top        ^`](#awesome-psychological-safety)**
 
 ## Videos: 
 
@@ -234,6 +234,7 @@ Sundar Pichai (Alphabet/Google): “Psychological safety is a cornerstone for co
 
 | The Neuroscience of Psychological Safety | https://www.youtube.com/watch?v=ugQuuHoI-zw |
 
+**[`^        back to top        ^`](#awesome-psychological-safety)**
 
 ## Articles: 
 https://psychsafety.co.uk/psychological-safety-books/ 
@@ -1510,11 +1511,9 @@ ________________________________________
 •	Fact sheet last revised: 2022-05-20
 
 
-
-
  
-Gitlab guide, The GitLab Handbook
-Emotional Intelligence
+## Gitlab guide, The GitLab Handbook
+### Emotional Intelligence
 1.	Psychological Safety
 2.	Psychological Safety Short Course
 3.	Understanding SOCIAL STYLES

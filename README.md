@@ -68,7 +68,6 @@
 
 # SECTION A - How to psych the safety
 
-------------------------------------------
 <br>
 
 ## What is Psychological Safety?

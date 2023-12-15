@@ -569,8 +569,6 @@ View all facts sheets A-Z
 
 10.	[Mental health - Recognizing and Addressing Stigma at Work](https://www.ccohs.ca/oshanswers/psychosocial/mh/mentalhealth_stigma.html)
 
-1.	Mental Health - Active Listening
-
 •	Why is good communication an important skill?
 
 •	What are some tips for follow for active listening?

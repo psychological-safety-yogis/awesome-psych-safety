@@ -2,15 +2,12 @@
 
 # AWESOME PSYCHOLOGICAL SAFETY
 
-
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) 
 
 # An awesome open-source list of ways to make your environment more psychologically safe . . . and coincidentally more successful"
 
-<br>
-
 ## Table of Contents
-- [Table of Contents] 
+- [Table of Contents (You Are Here](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#table-of-contents)
 - [How to edit Github READMEs and request changes](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#preamble-guide-to-github-and-editing-readmes)
 - [What is Psychological Safety?](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#what-is-psychological-safety)
 - [Where do I start?  Article by Denise Cooper and Katrina Hardie in Psychology Today](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#where-do-i-start)
@@ -64,14 +61,7 @@
 | How to request changes  |Then create a [pull (change) request](https://github.com/psychological-safety-yogis/awesome-psych-safety/pulls) |
 | Something broken? |[Create issue](https://github.com/psychological-safety-yogis/awesome-psych-safety/issues) |
 | Grow the Psych Safety Wiki here |[Wiki](https://github.com/psychological-safety-yogis/awesome-psych-safety/wiki) |
-| Want to sponsor this page? | 
-
-#### Sponsors
-
-| Supporters | Pitch | 
-| --- | --- | 
-| 1. *Your name, company* | Be the first to endorse! | 
-
+| Love Psychological Safety as much as we do? | [Sponsor us!](https://github.com/sponsors/psychological-safety-yogis)
 
 ## What is Psychological Safety?
 “Psychological safety is a cornerstone for collaboration and risk-taking, essential elements for driving innovation and success in our rapidly evolving industry.” -Sundar Pichai (Alphabet/Google)

@@ -24,7 +24,7 @@
 - [Where do I start?  Article by Denise Cooper and Katrina Hardie in Psychology Today](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#where-do-i-start)
 - [The Best up front](https://github.com/psychological-safety-yogis/awesome-psych-safety/tree/live#the-best-sources)
   - [Gitlab guide](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#gitlab-example)
-  - [Canada's guide](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#canada-example)
+  - [Canada's guide](https://github.com/psychological-safety-yogis/awesome-psych-safety/tree/live#canadian-centre-on-occupational-health-and-safety-guide)
   - [Psych Safety online community](https://github.com/psychological-safety-yogis/awesome-psych-safety/tree/live#psych-safety-community)
   - [Government Sources](https://github.com/psychological-safety-yogis/awesome-psych-safety/tree/live#psych-safety-community)
   - [Other good ones](https://github.com/psychological-safety-yogis/awesome-psych-safety/tree/live#other-good-ones)

@@ -7,28 +7,11 @@
 
 # An awesome open-source list of ways to make your environment more psychologically safe . . . and coincidentally more successful"
 
-## Preamble guide to Github and editing READMEs
-
-| Github how-to's | Link |
-| ----------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-| Github Repository Search Tips | [Github Repository Search Tips](https://www.freecodecamp.org/news/github-search-tips/) |
-| Github Search (Official) | [github.com/features/code-search](https://github.com/features/code-search) |
-| Stack Exchange answers on searching | [stackoverflow.com/questions/3616221/search-code-inside-a-github-project](https://stackoverflow.com/questions/3616221/search-code-inside-a-github-project) |
-| Github Search updated | [github.blog/changelog/2023-05-08-the-new-code-search-and-code-view-is-now-generally-available/](https://github.blog/changelog/2023-05-08-the-new-code-search-and-code-view-is-now-generally-available/) |
-| Make it your own |[Fork](https://github.com/psychological-safety-yogis/awesome-psych-safety/fork) this repo, make your changes | 
-| Tutorial |[How to pull request](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/pull_request_guide.md) | 
-| How to request changes  |Then create a [pull (change) request](https://github.com/psychological-safety-yogis/awesome-psych-safety/pulls) |
-| Something broken? |[Create issue](https://github.com/psychological-safety-yogis/awesome-psych-safety/issues) |
-| Grow the Psych Safety Wiki here |[Wiki](https://github.com/psychological-safety-yogis/awesome-psych-safety/wiki) |
-
-| Issues | Forks | Pull Requests | Wiki |
-| --- | --- | --- | --- |
-| [Create issue](https://github.com/psychological-safety-yogis/awesome-psych-safety/issues) | [Fork](https://github.com/psychological-safety-yogis/awesome-psych-safety/fork) this repo, make your changes, then create a [pull (change) request](https://github.com/psychological-safety-yogis/awesome-psych-safety/pulls) | [How to pull request](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/pull_request_guide.md) | [Wiki](https://github.com/psychological-safety-yogis/awesome-psych-safety/wiki) |
-
 <br>
 
 ## Table of Contents
-
+- [Table of Contents] 
+- [How to edit Github READMEs and request changes](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#preamble-guide-to-github-and-editing-readmes)
 - [What is Psychological Safety?](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#what-is-psychological-safety)
 - [Where do I start?  Article by Denise Cooper and Katrina Hardie in Psychology Today](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#where-do-i-start)
 - [The Best up front](https://github.com/psychological-safety-yogis/awesome-psych-safety/tree/live#the-best-sources)
@@ -67,6 +50,21 @@
   - [Leadership Table of Contents](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#gitlab-leadership-toc)
 
 <div align="center"><img src="./images/safety and danger.jpg"></div>
+
+### Preamble guide to Github and editing READMEs
+
+| Github how-to's | Link |
+| ----------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Github Repository Search Tips | [Github Repository Search Tips](https://www.freecodecamp.org/news/github-search-tips/) |
+| Github Search (Official) | [github.com/features/code-search](https://github.com/features/code-search) |
+| Stack Exchange answers on searching | [stackoverflow.com/questions/3616221/search-code-inside-a-github-project](https://stackoverflow.com/questions/3616221/search-code-inside-a-github-project) |
+| Github Search updated | [github.blog/changelog/2023-05-08-the-new-code-search-and-code-view-is-now-generally-available/](https://github.blog/changelog/2023-05-08-the-new-code-search-and-code-view-is-now-generally-available/) |
+| Make it your own |[Fork](https://github.com/psychological-safety-yogis/awesome-psych-safety/fork) this repo, make your changes | 
+| Tutorial |[How to pull request](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/pull_request_guide.md) | 
+| How to request changes  |Then create a [pull (change) request](https://github.com/psychological-safety-yogis/awesome-psych-safety/pulls) |
+| Something broken? |[Create issue](https://github.com/psychological-safety-yogis/awesome-psych-safety/issues) |
+| Grow the Psych Safety Wiki here |[Wiki](https://github.com/psychological-safety-yogis/awesome-psych-safety/wiki) |
+| Want to sponsor this page? | 
 
 #### Sponsors
 

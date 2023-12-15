@@ -314,7 +314,7 @@ UK-based Psychological Safety community, ready to field your questions and famil
 **[`^        back to top        ^`](#awesome-psychological-safety)**
 
 ## HBR / HBS (Harvard)
-https://hbr.org/2023/02/what-is-psychological-safety 
+[hbr.org/2023/02/what-is-psychological-safety](https://hbr.org/2023/02/what-is-psychological-safety )
 
 [4 Steps to Boost Psychological Safety at Your Workplace (hbr.org)](https://hbr.org/2021/06/4-steps-to-boost-psychological-safety-at-your-workplace)
 
@@ -358,11 +358,11 @@ https://hbr.org/2023/02/what-is-psychological-safety
 **[`^        back to top        ^`](#awesome-psychological-safety)**
 
 ## Podcasts: 
-https://podcasts.apple.com/us/podcast/live-brave-with-dr-margie-warrell/id1435730743?i=1000623994998 
+[podcasts.apple.com/us/podcast/live-brave-with-dr-margie-warrell/id1435730743?i=1000623994998](https://podcasts.apple.com/us/podcast/live-brave-with-dr-margie-warrell/id1435730743?i=1000623994998) 
 
-https://hbr.org/podcast/2019/01/creating-psychological-safety-in-the-workplace 
+[hbr.org/podcast/2019/01/creating-psychological-safety-in-the-workplace](https://hbr.org/podcast/2019/01/creating-psychological-safety-in-the-workplace)
 
-https://hbr.org/podcast/2021/12/psychological-safety-in-theory-and-in-practice 
+[hbr.org/podcast/2021/12/psychological-safety-in-theory-and-in-practice](https://hbr.org/podcast/2021/12/psychological-safety-in-theory-and-in-practice)
 
 **[`^        back to top        ^`](#awesome-psychological-safety)**
 
@@ -387,35 +387,10 @@ https://hbr.org/podcast/2021/12/psychological-safety-in-theory-and-in-practice
 <div align="center"><img src="./images/Loyalty-and-corruption.png"></div>
 
 ## Consulting Firm articles: 
-https://www.ccl.org/articles/leading-effectively-articles/what-is-psychological-safety-at-work/ 
-
-https://www.bain.com/insights/getting-teamwork-right-at-the-top/
-
-https://www.bain.com/insights/at-the-top-its-all-about-teamwork/
-
-https://www.bcg.com/publications/2023/how-to-improve-inclusion-in-the-workplace
-
-https://www.bcg.com/publications/2021/building-an-inclusive-culture-leads-to-happier-healthier-workers
-
-https://www.bcg.com/press/22february2023-leadership-that-prioritizes-inclusion-can-slash-attrition-risk 
-
-https://www.bcg.com/publications/2020/tap-your-company-collective-intelligence-with-mindfulness 
-
-https://www.bcg.com/publications/2022/fostering-a-culture-of-productive-conflict
-
-https://www.bcg.com/capabilities/collections/diversity-inclusion/belonging-in-the-workplace
-
-https://www2.deloitte.com/us/en/blog/business-chemistry/2023/barriers-to-breakthrough-why-psychological-safety-may-not-be-enough.html
-
-https://www.accenture.com/us-en/services/consulting/leadership-and-culture 
-
-https://www.accenture.com/us-en/blogs/business-functions-blog/work-psychological-safety 
-
-https://bankingblog.accenture.com/building-psychological-safety-among-the-fs-workforce 
 
 [Psychological safety and leadership development | McKinsey](https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/psychological-safety-and-the-critical-role-of-leadership-development)
 
-https://www.mckinsey.com/featured-insights/mckinsey-explainers/what-is-psychological-safety 
+[mckinsey.com/featured-insights/mckinsey-explainers/what-is-psychological-safety](https://www.mckinsey.com/featured-insights/mckinsey-explainers/what-is-psychological-safety)
 
 [Psychological Safety: A Cornerstone Key to Leading an Innovative Team (getlighthouse.com)](https://getlighthouse.com/blog/psychological-safety-innovative-teams/)
 
@@ -427,13 +402,13 @@ https://www.mckinsey.com/featured-insights/mckinsey-explainers/what-is-psycholog
 
 [Psychological safety and leadership development | McKinsey](https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/psychological-safety-and-the-critical-role-of-leadership-development)
 
-https://www.mckinsey.com/featured-insights/mckinsey-explainers/what-is-psychological-safety 
+[mckinsey.com/featured-insights/mckinsey-explainers/what-is-psychological-safety](https://www.mckinsey.com/featured-insights/mckinsey-explainers/what-is-psychological-safety)
 
-https://trainingindustry.com/articles/diversity-equity-and-inclusion/the-business-of-learning-episode-42-building-psychological-safety-in-learning-programs/ 
+[trainingindustry.com/articles/diversity-equity-and-inclusion/the-business-of-learning-episode-42-building-psychological-safety-in-learning-programs/](https://trainingindustry.com/articles/diversity-equity-and-inclusion/the-business-of-learning-episode-42-building-psychological-safety-in-learning-programs/)
 
-https://www.forum.org.nz/resources/mental-wellbeing-at-work/psychologicalsafety/ 
+[forum.org.nz/resources/mental-wellbeing-at-work/psychologicalsafety/](https://www.forum.org.nz/resources/mental-wellbeing-at-work/psychologicalsafety/)
 
-https://www.forum.org.nz/assets/Factsheet-Psychological-safety-at-work-final.pdf 
+[forum.org.nz/assets/Factsheet-Psychological-safety-at-work-final.pdf](https://www.forum.org.nz/assets/Factsheet-Psychological-safety-at-work-final.pdf)l.pdf 
 
 **[`^        back to top        ^`](#awesome-psychological-safety)**
 

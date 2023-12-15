@@ -9,7 +9,7 @@
 
 <div align="center"><img src="./images/safety and danger.jpg"></div>
 
-## Submitting edits via pull requests or creating issues
+## Submitting changes / edits via "pull requests" or opening "issues"
 
 | Issues | Forks | Pull Requests | Wiki |
 | --- | --- | --- | --- |

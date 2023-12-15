@@ -324,7 +324,7 @@ https://hbswk.hbs.edu/item/four-steps-to-build-the-psychological-safety-that-hig
 
 https://hbr.org/2022/03/research-to-excel-diverse-teams-need-psychological-safety 
 
-| link | description |
+| Link | Description |
 | --- | --- | 
 | https://www.hbs.edu/faculty/Pages/item.aspx?num=61676 | Feeling Seen: Leader Eye Gaze Promotes Psychological Safety, Participation, and Voice |
 | https://www.hbs.edu/faculty/Pages/item.aspx?num=20682 | Explaining Psychological Safety in Innovation Teams |
@@ -362,10 +362,15 @@ https://hbr.org/podcast/2021/12/psychological-safety-in-theory-and-in-practice
 
 ## Emotional intelligence (EQ) assessments
 [Color Code Personality Test](https://www.colorcode.com/free_personality_test/?timestamp=1588009250.89&hash=667424d7d32a031b41b6896af6ab1ad7)
+
 [Global Leadership Foundation EQ Test]( https://globalleadershipfoundation.com/geit/eitest.html)
+
 [Mind Tools EQ Quiz](https://www.mindtools.com/pages/article/ei-quiz.htm)
+
 [University of California at Berkley EQ Assessment](https://greatergood.berkeley.edu/quizzes/ei_quiz/take_quiz)
+
 [Psychology Today EQ Test](https://www.psychologytoday.com/us/tests/personality/emotional-intelligence-test)
+
 [Growth versus Fixed Mindset Assessment]( https://blog.mindsetworks.com/what-s-my-mindset)
 
 **[`^        back to top        ^`](#awesome-psychological-safety)**

@@ -150,8 +150,6 @@ UK-based Psychological Safety community, ready to field your questions and famil
 
 [Leadership_Guide-How_listening_and_learning_are_our_best_defence-_May_2022.pdf](https://assets.publishing.service.gov.uk/media/628e2e998fa8f55618cd3700/Leadership_Guide-How_listening_and_learning_are_our_best_defence-_May_2022.pdf)
 
-[How_listening_and_learning_are_our_best_defence_-_May_2022.pdf](https://assets.publishing.service.gov.uk/media/628e2e998fa8f55618cd3700/Leadership_Guide_-_How_listening_and_learning_are_our_best_defence_-_May_2022.pdf/)
-
 [assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1099704/Psychological_Safety_in_MOD_Major_Programmes_Report.pdf](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1099704/Psychological_Safety_in_MOD_Major_Programmes_Report.pdf)
 
 [ideas-in-action.lbl.gov/inclusion/psychological-safety](https://ideas-in-action.lbl.gov/inclusion/psychological-safety)
@@ -204,24 +202,24 @@ UK-based Psychological Safety community, ready to field your questions and famil
 | Title | Link |
 | ------ | ----- |
 | Building a psychologically safe workplace Amy Edmondson TEDxHGSE | [youtube.com/watch?v=LhoLuui9gX8](https://www.youtube.com/watch?v=LhoLuui9gX8) |
-| What is Psychological Safety, and How do you create Psychological Safety at Work? | https://www.youtube.com/watch?v=73FfNvGePMg |
-| How Google builds the perfect team, with Charles Duhigg | https://www.youtube.com/watch?v=v2PaZ8Nl2T4 |
-| Leading Psychological Safety: Obligations and Opportunities with Dr Hillary Bennett | https://www.youtube.com/watch?v=waD9K4MQG_U |
-| Just Culture in an Organization | https://www.skybrary.aero/video/just-culture-organization |
-| Safety Culture Evolution General Introduction | https://www.skybrary.aero/video/safety-culture-evolution-general-introduction |
-| Safety Culture Evolution Episode 1 | https://www.skybrary.aero/video/safety-culture-evolution-episode-1 |
-| Safety Culture Evolution Episode 2 | https://www.skybrary.aero/video/safety-culture-evolution-episode-2 |
-| Safety Culture Evolution Episode 3 | https://www.skybrary.aero/video/safety-culture-evolution-episode-3 |
-| The Case for Psychological Safety and Better Teams Rafael Chiuzi TEDxMcMasterU | https://www.youtube.com/watch?v=MO3k6eGEJ5w |
-| Psychological health - Is the work safe? Do I feel safe? | https://www.youtube.com/watch?v=UkccLEzaPTI |
-| What a Trusting Team Feels Like Simon Sinek | https://www.youtube.com/watch?v=0ui9rxIUKxg |
-| Emotional Safety: How to Improve Relationships and Communication #2 | https://www.youtube.com/watch?v=hEfCxEdDtGU |
-| What is psychological safety? | https://www.youtube.com/watch?v=GZgmoxOgfig |
-| How Psychological Safety has been the bedrock of key innovation programs at Google | https://www.youtube.com/watch?v=-zrLI-Osg88 |
-| What is Psychological Safety, and why is it important? | https://www.youtube.com/watch?v=eHJN6rAMVQI | 
-| Why we (like Google) should strive for team psychological safety | https://www.youtube.com/watch?v=IH67P7EMnt0 |
-| How does psychological safety impact performance? | https://www.youtube.com/watch?v=2630mnn3U5Y |
-| The Neuroscience of Psychological Safety | https://www.youtube.com/watch?v=ugQuuHoI-zw |
+| What is Psychological Safety, and How do you create Psychological Safety at Work? | [youtube.com/watch?v=73FfNvGePMg](https://www.youtube.com/watch?v=73FfNvGePMg) |
+| How Google builds the perfect team, with Charles Duhigg | [youtube.com/watch?v=v2PaZ8Nl2T4](https://www.youtube.com/watch?v=v2PaZ8Nl2T4) |
+| Leading Psychological Safety: Obligations and Opportunities with Dr Hillary Bennett | [youtube.com/watch?v=waD9K4MQG_U](https://www.youtube.com/watch?v=waD9K4MQG_U) |
+| Just Culture in an Organization | [skybrary.aero/video/just-culture-organization](https://www.skybrary.aero/video/just-culture-organization) |
+| Safety Culture Evolution General Introduction | [skybrary.aero/video/safety-culture-evolution-general-introduction](https://www.skybrary.aero/video/safety-culture-evolution-general-introduction) |
+| Safety Culture Evolution Episode 1 | [skybrary.aero/video/safety-culture-evolution-episode-1](https://www.skybrary.aero/video/safety-culture-evolution-episode-1) |
+| Safety Culture Evolution Episode 2 | [skybrary.aero/video/safety-culture-evolution-episode-2](https://www.skybrary.aero/video/safety-culture-evolution-episode-2) |
+| Safety Culture Evolution Episode 3 | [skybrary.aero/video/safety-culture-evolution-episode-3](https://www.skybrary.aero/video/safety-culture-evolution-episode-3) |
+| The Case for Psychological Safety and Better Teams Rafael Chiuzi TEDxMcMasterU | [youtube.com/watch?v=MO3k6eGEJ5w](https://www.youtube.com/watch?v=MO3k6eGEJ5w) |
+| Psychological health - Is the work safe? Do I feel safe? | [youtube.com/watch?v=UkccLEzaPTI](https://www.youtube.com/watch?v=UkccLEzaPTI) |
+| What a Trusting Team Feels Like Simon Sinek | [youtube.com/watch?v=0ui9rxIUKxg](https://www.youtube.com/watch?v=0ui9rxIUKxg) |
+| Emotional Safety: How to Improve Relationships and Communication #2 | [youtube.com/watch?v=hEfCxEdDtGU](https://www.youtube.com/watch?v=hEfCxEdDtGU) |
+| What is psychological safety? | [youtube.com/watch?v=GZgmoxOgfig](https://www.youtube.com/watch?v=GZgmoxOgfig) |
+| How Psychological Safety has been the bedrock of key innovation programs at Google | [youtube.com/watch?v=-zrLI-Osg88](https://www.youtube.com/watch?v=-zrLI-Osg88) |
+| What is Psychological Safety, and why is it important? | [youtube.com/watch?v=eHJN6rAMVQI](https://www.youtube.com/watch?v=eHJN6rAMVQI) | 
+| Why we (like Google) should strive for team psychological safety | [youtube.com/watch?v=IH67P7EMnt0](https://www.youtube.com/watch?v=IH67P7EMnt0) |
+| How does psychological safety impact performance? | [youtube.com/watch?v=2630mnn3U5Y](https://www.youtube.com/watch?v=2630mnn3U5Y) |
+| The Neuroscience of Psychological Safety | [youtube.com/watch?v=ugQuuHoI-zw](https://www.youtube.com/watch?v=ugQuuHoI-zw) |
 
 
 **[`^        back to top        ^`](#awesome-psychological-safety)**

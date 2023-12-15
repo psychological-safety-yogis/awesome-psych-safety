@@ -2,9 +2,10 @@
 
 # AWESOME PSYCHOLOGICAL SAFETY
 
+
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) 
 
-# **An awesome open-source list of ways to make your environment more psychologically safe . . . and coincidentally more successful"**
+# An awesome open-source list of ways to make your environment more psychologically safe . . . and coincidentally more successful"
 
 <div align="center"><img src="./images/safety and danger.jpg"></div>
 

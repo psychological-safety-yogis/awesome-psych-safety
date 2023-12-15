@@ -531,6 +531,7 @@ https://skybrary.aero/articles/stress-air-traffic-control
 ## Skybrary Bookshelf (PDFs)
 
 | Description | Link |
+| --- | --- |
 | WHY WON’T WORKERS SPEAK UP? THE DIFFERENCE BETWEEN PSYCHOLOGICAL SAFETY AND TRUST | https://skybrary.aero/sites/default/files/bookshelf/6104.pdf |
 | APPLYING JUST CULTURE IN RAIL: DRAWING PARALLELS FROM AVIATION | https://skybrary.aero/sites/default/files/bookshelf/34360.pdf |
 | WELLBEING, CULTURE AND THE NEED FOR A PSYCHOLOGICALLY SAFE ENVIRONMENT | https://skybrary.aero/sites/default/files/bookshelf/5670.pdf | 

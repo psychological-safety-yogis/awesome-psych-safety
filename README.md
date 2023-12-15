@@ -12,7 +12,7 @@ This is a shortcut path to start studying **Psychological Safety**. Just follow 
 
 | Supporters | Pitch | --- |
 | --- | --- | --- |
-| --- | *Your name here* Be the first to endorse! [`submit a pull request to modify`](https://github.com/psychological-safety-yogis/awesome-psych-safety/pulls) | [How and why to pull request](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/pull_request_guide.md) |
+| --- | *Your name here* - Be the first to endorse! [`submit a pull request to modify`](https://github.com/psychological-safety-yogis/awesome-psych-safety/pulls) | [How and why to pull request](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/pull_request_guide.md) |
 
 
 
@@ -42,6 +42,7 @@ This is a shortcut path to start studying **Psychological Safety**. Just follow 
 - [Consulting Firm contributions, some are pretty extensive](#mbb)
 - [Goodreads Listopia lists](#listopia)
 - [Navy and Marine Corps Guide to Relaxation](#relax)
+- [Safety culture in aviation, maritime, etc.](#flight-safety)
 - [Excerpts from Canada's Occupational Health](#ccoh-excerpts)
   - [Fact sheets](#fact-sheets)
     - [Active Listening](#active-listening)
@@ -198,8 +199,118 @@ Sundar Pichai (Alphabet/Google): “Psychological safety is a cornerstone for co
 ## Academic Sources
 **[`^        back to top        ^`](#awesome-psychological-safety)**
 
+https://cipp.ug.edu.pl/The-model-of-psychological-safety-of-a-soldier-s-personality,140500,0,2.html 
+
+https://www.researchgate.net/publication/276002402_Team_Training_Team_Learning_Leadership_and_Psychology_Safety_A_Study_of_Team_Training_and_Team_Learning_Behavior_during_a_Swedish_Military_Staff_Exercise 
+
+https://research.iscrr.com.au/__data/assets/pdf_file/0004/474439/Union-comparison-safety-climate-OHS-leadership-and-worker-engagement.pdf 
+
+[Psychological safety: A systematic review of the literature - ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S1053482217300013)
+
+https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Group_Performance/Edmondson%20Psychological%20safety.pdf 
+
+[How Psychological Safety Affects Team Performance: Mediating Role of Efficacy and Learning Behavior - PMC (nih.gov)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7393970/)
+
+[The interactive effects of conscientiousness, work effort, and psychological climate on job performance - ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S000187910400096X)
+
+https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/385339/Dissertation_SonjaFoerster_2019.pdf?sequence=6&isAllowed=y 
 
 
+## O’Reilly Learning:  
+https://learning.oreilly.com/playlists/bdd33cce-7d13-43ec-b22c-e1b03a935ef7/ 
+
+https://learning.oreilly.com/playlists/82c0f645-0c73-456a-b79e-07de1d8f74b1/ 
+
+https://learning.oreilly.com/library/view/fostering-ethical-conduct/53863MIT63402/ 
+
+https://learning.oreilly.com/library/view/vertical-growth/9780730395515/ 
+
+https://learning.oreilly.com/library/view/how-to-heal/9781394154470/ 
+
+https://learning.oreilly.com/library/view/teaming-how-organizations/9781118216767/ 
+
+https://learning.oreilly.com/library/view/why-innovation-depends/53863MIT64303/ 
+
+https://learning.oreilly.com/library/view/workplace-well-being-how/9781118469439/ 
+
+https://learning.oreilly.com/library/view/how-to-engage/53863MIT64329/ 
+
+https://learning.oreilly.com/search/?q=psychological%20safety&type=article&type=book&type=journal&type=shortcut&rows=10 
+
+https://learning.oreilly.com/videos/connectable/9781638411611/ 
+
+https://learning.oreilly.com/videos/how-microsoft-applied/0636920423782/ 
+
+https://learning.oreilly.com/videos/building-engineering-teams/0636920459668/ 
+
+https://learning.oreilly.com/videos/future-human-empathy/2411202305FH/ 
+
+https://learning.oreilly.com/library/view/the-people-equation/9781626566439/ 
+
+## HBR / HBS (Harvard)
+
+https://hbr.org/2023/02/what-is-psychological-safety 
+
+[4 Steps to Boost Psychological Safety at Your Workplace (hbr.org)](https://hbr.org/2021/06/4-steps-to-boost-psychological-safety-at-your-workplace)
+
+https://www.hbs.edu/recruiting/insights-and-advice/blog/post/how-to-create-a-psychologically-safe-workplace
+
+https://www.hbs.edu/recruiting/insights-and-advice/blog/post/leading-in-tough-times 
+
+https://www.hbs.edu/recruiting/insights-and-advice/blog/post/creating-inclusive-recruiting-events-in-a-time-of-innovation 
+
+https://hbr.org/2018/04/the-two-traits-of-the-best-problem-solving-teams 
+
+https://hbswk.hbs.edu/item/four-steps-to-build-the-psychological-safety-that-high-performing-teams-need-today 
+
+https://hbr.org/2022/03/research-to-excel-diverse-teams-need-psychological-safety 
+
+| link | description |
+| --- | --- |
+
+| https://www.hbs.edu/faculty/Pages/item.aspx?num=61676 | Feeling Seen: Leader Eye Gaze Promotes Psychological Safety, Participation, and Voice|
+
+|https://www.hbs.edu/faculty/Pages/item.aspx?num=20682  | Explaining Psychological Safety in Innovation Teams |
+
+|https://www.hbs.edu/faculty/Pages/item.aspx?num=50683  | Understanding Psychological Safety in Healthcare and Education Organizations: A Comparative Perspective |
+
+|https://www.hbs.edu/faculty/Pages/item.aspx?num=23399  | Overcoming Barriers to Collaboration: Psychological Safety and Learning in Diverse Teams |
+
+|https://www.hbs.edu/faculty/Pages/item.aspx?num=62294  | Psychological Safety and Fearless Organisations |
+
+|https://www.hbs.edu/faculty/Pages/item.aspx?num=62296 | Creating Psychological Safety in the Workplace |
+
+|https://www.hbs.edu/faculty/Pages/item.aspx?num=58211  | The Psychological Safety Imperative |
+
+|https://www.hbs.edu/faculty/Pages/item.aspx?num=61993 | Exploring the Relationship between Team Diversity, Psychological Safety and Team Performance: Evidence from Pharmaceutical Drug Development |
+
+|https://www.hbs.edu/faculty/Pages/item.aspx?num=62287  | How to Build Psychological Safety in Your Workplace with The Fearless Organization Author, Amy C. Edmondson |
+
+|https://www.hbs.edu/faculty/Pages/item.aspx?num=60426  | The Impact of Covid-19 on Psychological Safety in the Workplace (Interview) |
+
+|https://www.hbs.edu/faculty/Pages/item.aspx?num=54851  | The Fearless Organization: Creating Psychological Safety in the Workplace for Learning, Innovation, and Growth |
+
+|https://www.hbs.edu/faculty/Pages/item.aspx?num=62225  | How Psychological Safety and Feeling Heard Relate to Burnout and Adaptation Amid Uncertainty |
+
+|https://www.hbs.edu/faculty/Pages/item.aspx?num=23401  | Psychological Safety |
+
+|https://www.hbs.edu/faculty/Pages/item.aspx?num=62297 | How to Build Psychological Safety, with Amy Edmondson |
+
+|https://www.hbs.edu/faculty/Pages/item.aspx?num=50688  | Psychological Safety |
+
+|https://www.hbs.edu/faculty/Pages/item.aspx?num=57981  | Psychological Safety and Near Miss Events in Radiation Oncology |
+
+|https://www.hbs.edu/faculty/Pages/item.aspx?num=63309  | Psychological Safety Comes of Age: Observed Themes in an Established Literature |
+
+|https://www.hbs.edu/faculty/Pages/item.aspx?num=53934  | The Strategic Imperative of Psychological Safety and Organizational Error Management |
+
+|https://www.hbs.edu/faculty/Pages/item.aspx?num=60423  | From Orientation to Behavior: The Interplay Between Learning Orientation, Open-mindedness, and Psychological Safety in Team Learning |
+
+|https://www.hbs.edu/faculty/Pages/item.aspx?num=2959  | Psychological Safety and Learning Behavior in Work Teams |
+
+|https://www.hbs.edu/faculty/Pages/item.aspx?num=36470  | Varied Experience, Team Familiarity, and Learning: The Mediating Role of Psychological Safety |
+
+|https://www.hbs.edu/faculty/Pages/item.aspx?num=22109  | Workplace Safety at Alcoa (A) |
 
 
 ### Miscellaneous Tools
@@ -868,3 +979,4 @@ Some data mining competition platforms
 
   gtag('config', 'G-YL0RV0E5XZ');
 </script>
+

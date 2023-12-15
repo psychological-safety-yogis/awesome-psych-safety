@@ -9,7 +9,7 @@
 ## Table of Contents
 - [Table of Contents (You Are Here)](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#table-of-contents)
 - [How to edit Github READMEs and request changes](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#preamble-guide-to-github-and-editing-readmes)
-- ##### [SECTION A - How to psych the safety](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#section-a---how-to-psych-the-safety)
+* ##### [SECTION A - How to psych the safety](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#section-a---how-to-psych-the-safety)
 - [What is Psychological Safety?](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#what-is-psychological-safety)
 - [Where do I start?  Article by Denise Cooper and Katrina Hardie in Psychology Today](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#where-do-i-start)
 - [The Best up front](https://github.com/psychological-safety-yogis/awesome-psych-safety/tree/live#the-best-sources)

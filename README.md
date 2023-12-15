@@ -53,7 +53,7 @@
 ### Preamble guide to Github and editing READMEs
 
 | Github how-to's | Link |
-| ----------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| ------------------------------------------------- | ------------------------------------------------------------------------------------------ | 
 | Github Repository Search Tips | [Github Repository Search Tips](https://www.freecodecamp.org/news/github-search-tips/) |
 | Github Search (Official) | [github.com/features/code-search](https://github.com/features/code-search) |
 | Stack Exchange answers on searching | [stackoverflow.com/questions/3616221/search-code-inside-a-github-project](https://stackoverflow.com/questions/3616221/search-code-inside-a-github-project) |

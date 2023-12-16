@@ -402,7 +402,7 @@ UK-based Psychological Safety community, ready to field your questions and famil
 
 ## Consulting Firm articles: 
 
-[Psychological safety and leadership development | McKinsey](https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/psychological-safety-and-the-critical-role-of-leadership-development)
+[Psychological safety and leadership development McKinsey](https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/psychological-safety-and-the-critical-role-of-leadership-development)
 
 [mckinsey.com/featured-insights/mckinsey-explainers/what-is-psychological-safety](https://www.mckinsey.com/featured-insights/mckinsey-explainers/what-is-psychological-safety)
 

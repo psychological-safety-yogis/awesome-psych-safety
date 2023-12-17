@@ -5930,4 +5930,14 @@ The last step in the SWOT, Supply and Demand, Workforce Gaps and Risk Analysis i
 
 The above steps are just a recommendation and a starting point for leaders. There are many great resources and templates on the web regarding how to conduct a SWOT, workforce gap analysis and create an action plan. This is meant as a guide and to start the conversations. Workforce planning has many benefits to a division/department, including team member retention, career development, top talent identification and can make budgeting and forecasting for the division/department a more data driven exercise. It also allows division/departments to respond quickly and more strategically to changes or emerging challenges in the market, workforce and overall business. Please reach out to your assigned PBP if you would like to partner on this exercise or have additional questions.
 
-Last modified September 18, 2023 
+Last modified September 18, 2023"
+
+# End of Copy Pasta section from Canada and Gitlab.
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MJDXTXQD"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+
+

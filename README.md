@@ -82,7 +82,7 @@ O|===|* >_____________/
 ## What is Psychological Safety?
 “Psychological safety is a cornerstone for collaboration and risk-taking, essential elements for driving innovation and success in our rapidly evolving industry.” -Sundar Pichai (Alphabet/Google).
 
-<div align="center"><img src="./images/sliding-scale.jpg/"></div>
+<div align="center"><img src="./images/sliding-scale.jpg"></div>
 
 **[`^        back to top        ^`](#awesome-psychological-safety)**
 
@@ -138,11 +138,11 @@ Overview:
 
 ### Second-best, reporting culture: 
 
-<div align="center"><img src="./images/reporting.jpg/"></div>
+<div align="center"><img src="./images/reporting.jpg"></div>
 
 ### Best, just culture: 
 
-<div align="center"><img src="./images/just-culture.jpg/"></div>
+<div align="center"><img src="./images/just-culture.jpg"></div>
 
 ## The Best Sources
 

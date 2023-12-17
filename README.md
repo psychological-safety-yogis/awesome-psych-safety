@@ -130,19 +130,27 @@ Remember, creating psychological safety is an ongoing process that requires comm
 <br/>
 <div align="center"><img src="./images/4-sub-cultures.jpg"></div>
 <br/>
+
 ## Worst, secretive culture: 
+
 <br/>
 <div align="center"><img src="./images/secretive.jpg"></div>
 <br/>
+
 ## Second-worst, blame culture:
+
 <br/>
 <div align="center"><img src="./images/blame.jpg"></div>
 <br/>
+
 ## Second-best, reporting culture: 
+
 <br/>
 <div align="center"><img src="./images/reporting.jpg"></div>
 <br/>
+
 ## Best, just culture: 
+
 <br/>
 <div align="center"><img src="./images/just-culture.jpg"></div>
 <br/>

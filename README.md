@@ -126,15 +126,15 @@ Remember, creating psychological safety is an ongoing process that requires comm
 
 Overview: 
 
-<div align="center"><img src="./images/4-sub-cultures.png/"></div>
+<div align="center"><img src="./images/4-sub-cultures.png"></div>
 
 ### Worst, secretive culture: 
 
-<div align="center"><img src="./images/secretive.png/"></div>
+<div align="center"><img src="./images/secretive.png"></div>
 
 ### Second-worst, blame culture:
 
-<div align="center"><img src="./images/blame.png/"></div>
+<div align="center"><img src="./images/blame.png"></div>
 
 ### Second-best, reporting culture: 
 
@@ -264,16 +264,17 @@ UK-based Psychological Safety community, ready to field your questions and famil
 
 **[`^        back to top        ^`](#awesome-psychological-safety)**
 
-## Articles: 
-[psychsafety.co.uk/psychological-safety-books/](https://psychsafety.co.uk/psychological-safety-books/)
 
 <div align="center"><img src="./images/company-wide-oneill.png"></div>
+
+<div align="center"><img src="./images/other-great-ideas.png"></div>
+
+## Articles: 
+[psychsafety.co.uk/psychological-safety-books/](https://psychsafety.co.uk/psychological-safety-books/)
 
 [How Paul O’Neill Fought For Safety At Alcoa](https://davidburkus.com/2020/04/how-paul-oneill-fought-for-safety-at-alcoa/)
 
 [The Power of Safety Leadership: Paul O’Neill, Safety and Alcoa](https://aerossurance.com/helicopters/paul-oneill-safety-alcoa-power-safety-leadership/)
-
-<div align="center"><img src="./images/other-great-ideas.png"></div>
 
 [workclout.com/blog/how-alcoa-quintupled-their-revenue-by-focusing-on-worker-safety](https://www.workclout.com/blog/how-alcoa-quintupled-their-revenue-by-focusing-on-worker-safety)
 

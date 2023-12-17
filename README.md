@@ -157,6 +157,8 @@ Remember, creating psychological safety is an ongoing process that requires comm
  . . . You get it . . . 
 *Read more on just as in justice culture in the [Skybrary files](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#skybrary-bookshelf-pdfs)*
 
+# "What do you love most about the law?"
+
 <br/>
 <div align="center"><img src="./images/just-culture.jpg"></div>
 <br/>
@@ -166,14 +168,14 @@ Remember, creating psychological safety is an ongoing process that requires comm
 
 <br/>
 
-# " . . . and it really is quite a thrill, when that happens." 
-
 *sobs*
 
 <br/>
 
 <div align="center"><img src="./images/philly2.png"></div>
 <br/>
+
+# " . . . and it really is quite a thrill, when that happens." 
 
 ## Overview: 
 <br/>

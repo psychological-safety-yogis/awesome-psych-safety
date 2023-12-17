@@ -570,7 +570,8 @@ UK-based Psychological Safety community, ready to field your questions and famil
 
 ### Mental Health Fact Sheets
 
-View all facts sheets A-Z
+[View all fact sheets A-Z](https://www.ccohs.ca/oshanswers/az.html)
+[Search fact sheets](https://www.ccohs.ca/search/?section=oshanswers)
 
 1.	[Mental Health - Active Listening]( https://www.ccohs.ca/oshanswers/psychosocial/mh/mentalhealth_activelistening.html)
 

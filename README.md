@@ -56,7 +56,8 @@ O|===|* >_____________/
 - [Articles, webpages, etc.](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#articles)
 - [Academic sources](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#academic-sources)
 - [O'Reilly Learning videos, playlists, books. Free through Mil OneSource, MWR Digital Libraries](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#oreilly-learning-videos-playlists-books-free-through-mil-onesource-mwr-digital-libraries)
-- [HBR / HBS (Harvard)](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#hbr--hbs-harvard)
+- [Harvard Business Review articles](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#hbr--hbs-harvard)
+- [Harvard Business Review articles](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#harvard-business-school-articles)
 - [We're a family! (not)](https://github.com/psychological-safety-yogis/awesome-psych-safety#were-a-family)
 - [Podcasts](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#podcasts)
 - [Emotional Intelligence (EQ) assessments](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#emotional-intelligence-eq-assessments)
@@ -64,7 +65,7 @@ O|===|* >_____________/
 - [Goodreads Lists](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#goodreads-lists)
 - [Psych Safety Origins and Science from Flight Safety](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#psych-safety-origins-and-science-from-flight-safety)
   - [PDFs from Skybrary, "Bookshelf"](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#skybrary-bookshelf-pdfs)
-- [Awesome Mental Health List (like this one! Bonus!)](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#bonus-awesome-mental-health-list):
+- [Mental Health Awesome List (like this one! Bonus!)](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#bonus-awesome-mental-health-list):
   - [Awesome Mental Health](https://dreamingechoes.github.io/awesome-mental-health/#/)
   - [Source for their Github Pages / github.io page](https://github.com/dreamingechoes/awesome-mental-health)
 * #### [SECTION B - Copy Pasta](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#section-b---copy-pasta)

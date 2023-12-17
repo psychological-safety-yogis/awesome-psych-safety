@@ -11,8 +11,7 @@
 O|===|* >_____________/
       \|
 ````
-
-![garr-steve](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/images/garrsteve.gif)
+<div align="center"><img src="./images/garrsteve.gif"></div>
 
 ## Table of Contents
 - [Table of Contents (You Are Here)](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#table-of-contents)

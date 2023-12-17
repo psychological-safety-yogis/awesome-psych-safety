@@ -56,8 +56,8 @@ O|===|* >_____________/
 - [Articles, webpages, etc.](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#articles)
 - [Academic sources](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#academic-sources)
 - [O'Reilly Learning videos, playlists, books. Free through Mil OneSource, MWR Digital Libraries](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#oreilly-learning-videos-playlists-books-free-through-mil-onesource-mwr-digital-libraries)
-- [Harvard Business Review articles](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#hbr--hbs-harvard)
-- [Harvard Business Review articles](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#harvard-business-school-articles)
+- [Harvard Business Review and Harvard Business School articles](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#hbr--hbs-harvard)
+- [Harvard Business School articles](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#harvard-business-school-articles)
 - [We're a family! (not)](https://github.com/psychological-safety-yogis/awesome-psych-safety#were-a-family)
 - [Podcasts](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#podcasts)
 - [Emotional Intelligence (EQ) assessments](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#emotional-intelligence-eq-assessments)
@@ -499,7 +499,7 @@ And what happened?  **That focus on *seeking suggestions* and acting on them hel
 
 <br/>
 
-## Harvard Business Review
+## Harvard Business Review and Harvard Business School articles
 [hbr.org/2023/02/what-is-psychological-safety](https://hbr.org/2023/02/what-is-psychological-safety )
 
 [4 Steps to Boost Psychological Safety at Your Workplace (hbr.org)](https://hbr.org/2021/06/4-steps-to-boost-psychological-safety-at-your-workplace)

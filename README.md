@@ -168,7 +168,11 @@ Remember, creating psychological safety is an ongoing process that requires comm
 
 <br/>
 
+<p style="text-align: center;"> 
+	
 *sobs*
+ 
+</p>
 
 <br/>
 

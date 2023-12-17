@@ -187,17 +187,18 @@ Remember, creating psychological safety is an ongoing process that requires comm
 
 <br/>
 <div align="center"><img src="./images/philly1.png"></div>
-
-<br/>
-
-<div align="center"><img src="./images/patrick.gif"></div>
-
 <br/>
 
 <div align="center"><img src="./images/philly2.png"></div>
 <br/>
 
 # " . . . and it really is quite a thrill, when that happens." 
+
+<br/>
+
+<div align="center"><img src="./images/patrick.gif"></div>
+
+<br/>
 
 ## Overview: 
 <br/>

@@ -85,6 +85,9 @@ O|===|* >_____________/
 
 <div align="center"><img src="./images/safety and danger.jpg"></div>
 
+
+**[`^        back to top        ^`](#awesome-psychological-safety)**
+
 ### Preamble guide to Github and editing READMEs
 
 | Github how-to's | Link |
@@ -100,7 +103,7 @@ O|===|* >_____________/
 | Grow the Psych Safety Wiki here | [Wiki](https://github.com/psychological-safety-yogis/awesome-psych-safety/wiki) |
 | Love Psychological Safety as much as we do? | [Sponsor us!](https://github.com/sponsors/psychological-safety-yogis) | 
 
-<br>
+**[`^        back to top        ^`](#awesome-psychological-safety)**
 
 # SECTION A - How to psych the safety
 

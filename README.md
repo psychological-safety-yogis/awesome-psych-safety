@@ -242,6 +242,10 @@ UK-based Psychological Safety community, ready to field your questions and famil
 ## Articles: 
 [psychsafety.co.uk/psychological-safety-books/](https://psychsafety.co.uk/psychological-safety-books/)
 
+[How Paul O’Neill Fought For Safety At Alcoa](https://davidburkus.com/2020/04/how-paul-oneill-fought-for-safety-at-alcoa/)
+
+[The Power of Safety Leadership: Paul O’Neill, Safety and Alcoa](https://aerossurance.com/helicopters/paul-oneill-safety-alcoa-power-safety-leadership/)
+
 [workclout.com/blog/how-alcoa-quintupled-their-revenue-by-focusing-on-worker-safety](https://www.workclout.com/blog/how-alcoa-quintupled-their-revenue-by-focusing-on-worker-safety)
 
 [gallup.com/workplace/236198/create-culture-psychological-safety.aspx](https://www.gallup.com/workplace/236198/create-culture-psychological-safety.aspx)

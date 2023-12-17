@@ -24,7 +24,7 @@ O|===|* >_____________/
 - [WORD CLOUD BABY](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#word-cloud-of-this-readme-page-less-a-few)
 - [Cheat sheet, best to worst](https://psychological-safety-yogis.github.io/awesome-psych-safety/#cheat-sheet-worst-to-best)
 - [Every now and again, not often, but occasionally, you get to be a part of justice being done](https://github.com/psychological-safety-yogis/awesome-psych-safety/tree/live#the-best-sources)
-- [The Best up front](https://github.com/psychological-safety-yogis/awesome-psych-safety/tree/live#the-best-sources)
+- [The Best Psych Safety Resources](https://github.com/psychological-safety-yogis/awesome-psych-safety/tree/live#the-best-sources)
   - [Gitlab guide](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#gitlab-example)
   - [Canada's guide](https://github.com/psychological-safety-yogis/awesome-psych-safety/tree/live#canadian-centre-on-occupational-health-and-safety-guide)
   - [Psych Safety online community](https://github.com/psychological-safety-yogis/awesome-psych-safety/tree/live#psych-safety-community)
@@ -153,7 +153,7 @@ Remember, creating psychological safety is an ongoing process that requires comm
 <div align="center"><img src="./images/reporting.jpg"></div>
 <br/>
 
-## The winner: JUST culture, as in justice.  Dharma.  You get it . . .t 
+## The winner: JUST culture, as in justice.  Dharma.  You get it . . . 
 *Read more on just as in justice culture in the [Skybrary files](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#skybrary-bookshelf-pdfs)*
 
 <br/>
@@ -164,6 +164,14 @@ Remember, creating psychological safety is an ongoing process that requires comm
 <br/>
 <div align="center"><img src="./images/4-sub-cultures.jpg"></div>
 <br/>
+
+## Every now and again, not often, but occasionally, you get to be a part of justice being done
+<br/>
+<div align="center"><img src="./images/philly1.png"></div>
+
+<div align="center"><img src="./images/philly2.png"></div>
+<br/>
+
 
 ## The Best Sources
 

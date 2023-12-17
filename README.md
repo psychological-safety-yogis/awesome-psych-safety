@@ -49,7 +49,7 @@ O|===|* >_____________/
   - [Government Sources](https://github.com/psychological-safety-yogis/awesome-psych-safety/tree/live#psych-safety-community)
   - [Other good ones](https://github.com/psychological-safety-yogis/awesome-psych-safety/tree/live#other-good-ones)
 - [Quotes from key leaders](https://github.com/psychological-safety-yogis/awesome-psych-safety/tree/live#quotes-from-key-business-leaders)
-- [Cheat sheet, best to worst](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#cheat-sheet-worst-to-best-cultures)
+- [Cheat sheet: Worst to best culture types](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#cheat-sheet-worst-to-best-cultures)
 - [Every now and again, not often, but occasionally, you get to be a part of justice being done](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#what-do-you-love-most-about-the-law)
 - [WORD CLOUD BABY](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#word-cloud-of-this-readme-page-less-a-few)
 - [Videos](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#videos)

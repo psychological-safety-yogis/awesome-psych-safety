@@ -278,6 +278,12 @@ UK-based Psychological Safety community, ready to field your questions and famil
 
 **[`^        back to top        ^`](#awesome-psychological-safety)**
 
+## "We're a family!"
+
+<br/>
+<div align="center"><img src="./images/images/family.png"></div>
+<br/>
+
 ## Videos: 
 
 

@@ -82,7 +82,7 @@ O|===|* >_____________/
 ## What is Psychological Safety?
 “Psychological safety is a cornerstone for collaboration and risk-taking, essential elements for driving innovation and success in our rapidly evolving industry.” -Sundar Pichai (Alphabet/Google).
 
-<div align="center"><img src="./images/sliding-scale.png/"></div>
+<div align="center"><img src="./images/sliding-scalejpg/"></div>
 
 **[`^        back to top        ^`](#awesome-psychological-safety)**
 
@@ -126,23 +126,23 @@ Remember, creating psychological safety is an ongoing process that requires comm
 
 Overview: 
 
-<div align="center"><img src="./images/4-sub-cultures.png"></div>
+<div align="center"><img src="./images/4-sub-cultures.jpg"></div>
 
 ### Worst, secretive culture: 
 
-<div align="center"><img src="./images/secretive.png"></div>
+<div align="center"><img src="./images/secretive.jpg"></div>
 
 ### Second-worst, blame culture:
 
-<div align="center"><img src="./images/blame.png"></div>
+<div align="center"><img src="./images/blame.jpg"></div>
 
 ### Second-best, reporting culture: 
 
-<div align="center"><img src="./images/reporting.png/"></div>
+<div align="center"><img src="./images/reporting.jpg/"></div>
 
 ### Best, just culture: 
 
-<div align="center"><img src="./images/just-culture.png/"></div>
+<div align="center"><img src="./images/just-culture.jpg/"></div>
 
 ## The Best Sources
 
@@ -265,9 +265,9 @@ UK-based Psychological Safety community, ready to field your questions and famil
 **[`^        back to top        ^`](#awesome-psychological-safety)**
 
 
-<div align="center"><img src="./images/company-wide-oneill.png"></div>
+<div align="center"><img src="./images/company-wide-oneill.jpg"></div>
 
-<div align="center"><img src="./images/other-great-ideas.png"></div>
+<div align="center"><img src="./images/other-great-ideas.jpg"></div>
 
 ## Articles: 
 [psychsafety.co.uk/psychological-safety-books/](https://psychsafety.co.uk/psychological-safety-books/)

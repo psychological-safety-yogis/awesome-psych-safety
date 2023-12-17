@@ -6,11 +6,13 @@
 # An awesome open-source list of ways to make your environment more psychologically safe . . . and coincidentally more successful"
 
 ```
-"Garr, Steve can vibe at Regular Joe's because they accept him, the pirate."
+"Garr, Joe's be the only place safe for Steve."
       /| _________~~~~~
 O|===|* >_____________/
-      \| 
+      \|
 ````
+
+![garr-steve](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/images/garrsteve.gif)
 
 ## Table of Contents
 - [Table of Contents (You Are Here)](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#table-of-contents)

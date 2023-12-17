@@ -23,7 +23,7 @@ O|===|* >_____________/
 - [Where do I start?  Article by Denise Cooper and Katrina Hardie in Psychology Today](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#where-do-i-start)
 - [WORD CLOUD BABY](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#word-cloud-of-this-readme-page-less-a-few)
 - [Cheat sheet, best to worst](https://psychological-safety-yogis.github.io/awesome-psych-safety/#cheat-sheet-worst-to-best)
-- [Every now and again, not often, but occasionally, you get to be a part of justice being done](https://github.com/psychological-safety-yogis/awesome-psych-safety/tree/live#the-best-sources)
+- [Every now and again, not often, but occasionally, you get to be a part of justice being done](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#what-do-you-love-most-about-the-law)
 - [The Best Psych Safety Resources](https://github.com/psychological-safety-yogis/awesome-psych-safety/tree/live#the-best-sources)
   - [Gitlab guide](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#gitlab-example)
   - [Canada's guide](https://github.com/psychological-safety-yogis/awesome-psych-safety/tree/live#canadian-centre-on-occupational-health-and-safety-guide)

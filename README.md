@@ -51,7 +51,6 @@ O|===|* >_____________/
 - [Quotes from key leaders](https://github.com/psychological-safety-yogis/awesome-psych-safety/tree/live#quotes-from-key-business-leaders)
 - [Cheat sheet: Worst to best culture types](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#cheat-sheet-worst-to-best-cultures)
 - [Every now and again, not often, but occasionally, you get to be a part of justice being done](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#what-do-you-love-most-about-the-law)
-- [WORD CLOUD BABY](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#word-cloud-of-this-readme-page-less-a-few)
 - [Videos](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#videos)
 - [Articles, webpages, etc.](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#articles)
 - [Academic sources](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#academic-sources)
@@ -68,6 +67,7 @@ O|===|* >_____________/
 - [Mental Health Awesome List (like this one! Bonus!)](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#bonus-awesome-mental-health-list):
   - [Awesome Mental Health](https://dreamingechoes.github.io/awesome-mental-health/#/)
   - [Source for their Github Pages / github.io page](https://github.com/dreamingechoes/awesome-mental-health)
+- [WORD CLOUD BABY](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#word-cloud-of-this-readme-page-less-a-few)
 * #### [SECTION B - Copy Pasta](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#section-b---copy-pasta)
 - [Excerpts from Canada's Occupational Health](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#excerpts-from-ccoh)
   - [Fact sheets](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#mental-health-fact-sheets)
@@ -318,13 +318,6 @@ UK-based Psychological Safety community, ready to field your questions and famil
 
 **[`^        back to top        ^`](#awesome-psychological-safety)**
 
-## Word Cloud of this README page, less a few
-
-<br/>
-<div align="center"><img src="./images/word-cloud.jpg"></div>
-<br/>
-
-**[`^        back to top        ^`](#awesome-psychological-safety)**
 
 ## Videos: 
 
@@ -742,6 +735,14 @@ And what happened?  **That focus on *seeking suggestions* and acting on them hel
 <br>
 
 <br/>
+
+## Word Cloud of this README page, including Section B, less a few
+
+<br/>
+<div align="center"><img src="./images/word-cloud.jpg"></div>
+<br/>
+
+**[`^        back to top        ^`](#awesome-psychological-safety)**
 
 # SECTION B - Copy Pasta
 ------------------------------------------

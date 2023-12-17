@@ -31,6 +31,7 @@ O|===|* >_____________/
   - [Government Sources](https://github.com/psychological-safety-yogis/awesome-psych-safety/tree/live#psych-safety-community)
   - [Other good ones](https://github.com/psychological-safety-yogis/awesome-psych-safety/tree/live#other-good-ones)
 - [Quotes from key leaders](https://github.com/psychological-safety-yogis/awesome-psych-safety/tree/live#quotes-from-key-business-leaders)
+- [We're a family! (not)](https://github.com/psychological-safety-yogis/awesome-psych-safety#were-a-family)
 - [Videos](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#videos)
 - [Articles, webpages, etc.](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#articles)
 - [Academic sources](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#academic-sources)
@@ -278,11 +279,6 @@ UK-based Psychological Safety community, ready to field your questions and famil
 
 **[`^        back to top        ^`](#awesome-psychological-safety)**
 
-## "We're a family!"
-
-<br/>
-<div align="center"><img src="./images/images/family.png"></div>
-<br/>
 
 ## Videos: 
 
@@ -436,6 +432,13 @@ And what happened?  **That focus on *seeking suggestions* and acting on them hel
 [hbswk.hbs.edu/item/four-steps-to-build-the-psychological-safety-that-high-performing-teams-need-today](https://hbswk.hbs.edu/item/four-steps-to-build-the-psychological-safety-that-high-performing-teams-need-today)
 
 [hbr.org/2022/03/research-to-excel-diverse-teams-need-psychological-safety](https://hbr.org/2022/03/research-to-excel-diverse-teams-need-psychological-safety)
+
+
+## "We're a family!"
+
+<br/>
+<div align="center"><img src="./images/family.png"></div>
+<br/>
 
 | Link | Description |
 | --- | --- | 

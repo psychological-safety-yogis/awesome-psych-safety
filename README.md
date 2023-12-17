@@ -157,6 +157,13 @@ Remember, creating psychological safety is an ongoing process that requires comm
 
 <br/>
 
+## Overview diagram: 
+<br/>
+<div align="center"><img src="./images/4-sub-cultures.jpg"></div>
+<br/>
+
+
+
 **[`^        back to top        ^`](#awesome-psychological-safety)**
 
 
@@ -343,12 +350,6 @@ UK-based Psychological Safety community, ready to field your questions and famil
 <div align="center"><img src="./images/patrick.gif"></div>
 
 <br/>
-
-## Overview: 
-<br/>
-<div align="center"><img src="./images/4-sub-cultures.jpg"></div>
-<br/>
-
 
 **[`^        back to top        ^`](#awesome-psychological-safety)**
 

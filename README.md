@@ -43,7 +43,7 @@ O|===|* >_____________/
 - [What is Psychological Safety?](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#what-is-psychological-safety)
 - [Where do I start?  Article by Denise Cooper and Katrina Hardie in Psychology Today](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#where-do-i-start)
 - [The Best Psych Safety Resources](https://github.com/psychological-safety-yogis/awesome-psych-safety/tree/live#the-best-sources)
-  - [Gitlab guide]https://github.com/psychological-safety-yogis/awesome-psych-safety/tree/live#gitlab-guide)
+  - [Gitlab guide](https://github.com/psychological-safety-yogis/awesome-psych-safety/tree/live#gitlab-guide)
   - [Canada's guide](https://github.com/psychological-safety-yogis/awesome-psych-safety/tree/live#canadian-centre-on-occupational-health-and-safety-guide)
   - [Psych Safety online community](https://github.com/psychological-safety-yogis/awesome-psych-safety/tree/live#psych-safety-community)
   - [Government Sources](https://github.com/psychological-safety-yogis/awesome-psych-safety/tree/live#psych-safety-community)
@@ -172,6 +172,10 @@ Remember, creating psychological safety is an ongoing process that requires comm
 
 [https://handbook.gitlab.com/handbook/leadership/emotional-intelligence/social-styles/](handbook.gitlab.com/handbook/leadership/emotional-intelligence/social-styles/) 
 
+<br/>
+
+**[`^        back to top        ^`](#awesome-psychological-safety)**
+
 ### Canadian Centre on Occupational Health and Safety guide 
 
 Similarly, Canada’s occupational safety agency has a great guide, not just for psychological safety (or psychosocial safety), but all safety factors.
@@ -188,6 +192,12 @@ Similarly, Canada’s occupational safety agency has a great guide, not just for
 
 [ccohs.ca/oshanswers/psychosocial/mh/mentalhealth_risk.html](https://www.ccohs.ca/oshanswers/psychosocial/mh/mentalhealth_risk.html) 
 
+<br/>
+
+**[`^        back to top        ^`](#awesome-psychological-safety)**
+
+<br/>
+
 ### Psych Safety community
 UK-based Psychological Safety community, ready to field your questions and familiar with psych safety as it relates to military.
 
@@ -200,6 +210,12 @@ UK-based Psychological Safety community, ready to field your questions and famil
 [Psychological Safety Tool Kit – Psychological Safety, powered by Iterum Ltd (psychsafety.co.uk)](https://psychsafety.co.uk/tool-kit/)
 
 [psychsafety.co.uk/five-key-elements-of-high-performing-teams-and-psychological-safety/](https://psychsafety.co.uk/five-key-elements-of-high-performing-teams-and-psychological-safety/) 
+
+<br/>
+
+**[`^        back to top        ^`](#awesome-psychological-safety)**
+
+<br/>
 
 ### Government Sources
 
@@ -215,8 +231,13 @@ UK-based Psychological Safety community, ready to field your questions and famil
 
 [Navy and Marine Corps Psychological and Emotional Well-being Psychological and Emotional Well Being (navy.mil)](https://www.med.navy.mil/Navy-and-Marine-Corps-Force-Health-Protection-Command/Population-Health/Health-Promotion-and-Wellness/Psychological-and-Emotional-Well-Being/)
 
-
 [Relaxation (navy.mil)](https://www.med.navy.mil/Navy-and-Marine-Corps-Force-Health-Protection-Command/Population-Health/Health-Promotion-and-Wellness/-RELAXATION/)
+
+<br/>
+
+**[`^        back to top        ^`](#awesome-psychological-safety)**
+
+<br/>
 
 ### Other good ones
 
@@ -249,6 +270,8 @@ UK-based Psychological Safety community, ready to field your questions and famil
 - Marc Benioff (Salesforce): “Trust and psychological safety go hand in hand, creating an environment where employees feel supported in taking risks and pushing boundaries.”
 
 - Sundar Pichai (Alphabet/Google): “Psychological safety is a cornerstone for collaboration and risk-taking, essential elements for driving innovation and success in our rapidly evolving industry.”
+
+<br/>
 
 **[`^        back to top        ^`](#awesome-psychological-safety)**
 

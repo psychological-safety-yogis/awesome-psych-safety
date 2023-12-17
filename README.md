@@ -283,6 +283,11 @@ UK-based Psychological Safety community, ready to field your questions and famil
 
 <br/>
 <div align="center"><img src="./images/secretive.jpg"></div>
+
+<br/>
+
+**[`^        back to top        ^`](#awesome-psychological-safety)**
+
 <br/>
 
 ## Second-worst, blame culture:
@@ -301,6 +306,12 @@ UK-based Psychological Safety community, ready to field your questions and famil
 
 <br/>
 <div align="center"><img src="./images/reporting.jpg"></div>
+<br/>
+
+<br/>
+
+**[`^        back to top        ^`](#awesome-psychological-safety)**
+
 <br/>
 
 # The winner: JUST culture, as in justice.  Dharma.  

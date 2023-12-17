@@ -405,17 +405,17 @@ UK-based Psychological Safety community, ready to field your questions and famil
 
 [mckinsey.com/featured-insights/mckinsey-explainers/what-is-psychological-safety](https://www.mckinsey.com/featured-insights/mckinsey-explainers/what-is-psychological-safety)
 
+[Psychological safety and leadership development McKinsey](https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/psychological-safety-and-the-critical-role-of-leadership-development)
+
 [Psychological Safety: A Cornerstone Key to Leading an Innovative Team (getlighthouse.com)](https://getlighthouse.com/blog/psychological-safety-innovative-teams/)
+
+[mckinsey.com/featured-insights/mckinsey-explainers/what-is-psychological-safety](https://www.mckinsey.com/featured-insights/mckinsey-explainers/what-is-psychological-safety)
 
 [Manager's Toolkit: Actionable 'How To' Blog Posts (getlighthouse.com)](https://getlighthouse.com/blog/category/how-tos-for-managers/)
 
 [Toxic Positivity in the Workplace: Why & How to Deal with it (getlighthouse.com)](https://getlighthouse.com/blog/toxic-positivity-in-the-workplace/)
 
 [Protection from Harm – Surgeon General Essential #1 kgopm.com)](https://www.kgopm.com/essential-1-protection-from-harm/)
-
-[Psychological safety and leadership development | McKinsey](https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/psychological-safety-and-the-critical-role-of-leadership-development)
-
-[mckinsey.com/featured-insights/mckinsey-explainers/what-is-psychological-safety](https://www.mckinsey.com/featured-insights/mckinsey-explainers/what-is-psychological-safety)
 
 [trainingindustry.com/articles/diversity-equity-and-inclusion/the-business-of-learning-episode-42-building-psychological-safety-in-learning-programs/](https://trainingindustry.com/articles/diversity-equity-and-inclusion/the-business-of-learning-episode-42-building-psychological-safety-in-learning-programs/)
 

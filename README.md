@@ -81,6 +81,8 @@ O|===|* >_____________/
 ## What is Psychological Safety?
 “Psychological safety is a cornerstone for collaboration and risk-taking, essential elements for driving innovation and success in our rapidly evolving industry.” -Sundar Pichai (Alphabet/Google).
 
+<div align="center"><img src="./images/sliding-scale.png/"></div>
+
 **[`^        back to top        ^`](#awesome-psychological-safety)**
 
 ## Where do I Start?
@@ -118,6 +120,28 @@ Continuously Improve. Create an environment where it's acceptable to make mistak
 Remember, creating psychological safety is an ongoing process that requires commitment from employers and employees alike. To foster a workplace culture that values psychological safety, promotes well-being, and drives business success is an intentional act of leadership."
 
 **[`^        back to top        ^`](#awesome-psychological-safety)**
+
+## Cheat sheet, worst to best
+
+Overview: 
+
+<div align="center"><img src="./images/4-sub-cultures.png/"></div>
+
+### Worst, secretive culture: 
+
+<div align="center"><img src="./images/secretive.png/"></div>
+
+### Second-worst, blame culture:
+
+<div align="center"><img src="./images/blame.png/"></div>
+
+### Second-best, reporting culture: 
+
+<div align="center"><img src="./images/reporting.png/"></div>
+
+### Best, just culture: 
+
+<div align="center"><img src="./images/just-culture.png/"></div>
 
 ## The Best Sources
 
@@ -242,9 +266,13 @@ UK-based Psychological Safety community, ready to field your questions and famil
 ## Articles: 
 [psychsafety.co.uk/psychological-safety-books/](https://psychsafety.co.uk/psychological-safety-books/)
 
+<div align="center"><img src="./images/company-wide-oneill.png"></div>
+
 [How Paul O’Neill Fought For Safety At Alcoa](https://davidburkus.com/2020/04/how-paul-oneill-fought-for-safety-at-alcoa/)
 
 [The Power of Safety Leadership: Paul O’Neill, Safety and Alcoa](https://aerossurance.com/helicopters/paul-oneill-safety-alcoa-power-safety-leadership/)
+
+<div align="center"><img src="./images/other-great-ideas.png"></div>
 
 [workclout.com/blog/how-alcoa-quintupled-their-revenue-by-focusing-on-worker-safety](https://www.workclout.com/blog/how-alcoa-quintupled-their-revenue-by-focusing-on-worker-safety)
 

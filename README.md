@@ -124,6 +124,12 @@ Remember, creating psychological safety is an ongoing process that requires comm
 
 **[`^        back to top        ^`](#awesome-psychological-safety)**
 
+## Word Cloud of this README page, less a few
+
+<br/>
+<div align="center"><img src="./images/word-cloud.jpg"></div>
+<br/>
+
 # Cheat sheet, worst to best
 
 ## Worst, secretive culture: 

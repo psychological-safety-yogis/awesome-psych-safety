@@ -42,6 +42,7 @@ O|===|* >_____________/
 * #### [SECTION A - How to psych the safety](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#section-a---how-to-psych-the-safety-1)
 - [What is Psychological Safety?](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#what-is-psychological-safety)
 - [Where do I start?  Article by Denise Cooper and Katrina Hardie in Psychology Today](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#where-do-i-start)
+- [Psych safety at a glance](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#overview-diagram)
 - [The Best Psych Safety Resources](https://github.com/psychological-safety-yogis/awesome-psych-safety/tree/live#the-best-sources)
   - [Gitlab guide](https://github.com/psychological-safety-yogis/awesome-psych-safety/tree/live#gitlab-guide)
   - [Canada's guide](https://github.com/psychological-safety-yogis/awesome-psych-safety/tree/live#canadian-centre-on-occupational-health-and-safety-guide)

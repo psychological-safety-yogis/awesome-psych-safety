@@ -149,61 +149,6 @@ Remember, creating psychological safety is an ongoing process that requires comm
 
 **[`^        back to top        ^`](#awesome-psychological-safety)**
 
-## Word Cloud of this README page, less a few
-
-<br/>
-<div align="center"><img src="./images/word-cloud.jpg"></div>
-<br/>
-
-# Cheat sheet, worst to best
-
-## Worst, secretive culture: 
-
-<br/>
-<div align="center"><img src="./images/secretive.jpg"></div>
-<br/>
-
-## Second-worst, blame culture:
-
-<br/>
-<div align="center"><img src="./images/blame.jpg"></div>
-<br/>
-
-## Second-best, reporting culture: 
-
-<br/>
-<div align="center"><img src="./images/reporting.jpg"></div>
-<br/>
-
-# The winner: JUST culture, as in justice.  Dharma.  
- . . . You get it . . . 
-*Read more on just as in justice culture in the [Skybrary files](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#skybrary-bookshelf-pdfs)*
-
-<br/>
-<div align="center"><img src="./images/just-culture.jpg"></div>
-<br/>
-
-# "What do you love most about the law?"
-
-<br/>
-<div align="center"><img src="./images/philly1.png"></div>
-<br/>
-
-<div align="center"><img src="./images/philly2.png"></div>
-<br/>
-
-# " . . . and it really is quite a thrill, when that happens." 
-
-<br/>
-
-<div align="center"><img src="./images/patrick.gif"></div>
-
-<br/>
-
-## Overview: 
-<br/>
-<div align="center"><img src="./images/4-sub-cultures.jpg"></div>
-<br/>
 
 ## The Best Sources
 
@@ -297,6 +242,74 @@ UK-based Psychological Safety community, ready to field your questions and famil
 
 **[`^        back to top        ^`](#awesome-psychological-safety)**
 
+<br/>
+
+# Cheat sheet, worst to best
+
+## Worst, secretive culture: 
+
+<br/>
+<div align="center"><img src="./images/secretive.jpg"></div>
+<br/>
+
+## Second-worst, blame culture:
+
+<br/>
+<div align="center"><img src="./images/blame.jpg"></div>
+<br/>
+
+## Second-best, reporting culture: 
+
+<br/>
+<div align="center"><img src="./images/reporting.jpg"></div>
+<br/>
+
+# The winner: JUST culture, as in justice.  Dharma.  
+ . . . You get it . . . 
+ <br/>
+*Read more on just culture in the [Skybrary files](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#skybrary-bookshelf-pdfs)*
+
+<br/>
+
+**[`^        back to top        ^`](#awesome-psychological-safety)**
+
+<br/>
+<div align="center"><img src="./images/just-culture.jpg"></div>
+<br/>
+
+# "What do you love most about the law?"
+
+<br/>
+<div align="center"><img src="./images/philly1.png"></div>
+<br/>
+
+<div align="center"><img src="./images/philly2.png"></div>
+<br/>
+
+# " . . . and it really is quite a thrill, when that happens." 
+
+<br/>
+
+<div align="center"><img src="./images/patrick.gif"></div>
+
+<br/>
+
+## Overview: 
+<br/>
+<div align="center"><img src="./images/4-sub-cultures.jpg"></div>
+<br/>
+
+
+**[`^        back to top        ^`](#awesome-psychological-safety)**
+
+## Word Cloud of this README page, less a few
+
+<br/>
+<div align="center"><img src="./images/word-cloud.jpg"></div>
+<br/>
+
+
+**[`^        back to top        ^`](#awesome-psychological-safety)**
 
 ## Videos: 
 
@@ -671,6 +684,8 @@ And what happened?  **That focus on *seeking suggestions* and acting on them hel
   - [Awesome Mental Health](https://dreamingechoes.github.io/awesome-mental-health/#/)
   - [Source for their Github Pages / github.io page](https://github.com/dreamingechoes/awesome-mental-health/#/)
 
+
+**[`^        back to top        ^`](#awesome-psychological-safety)**
 ----------------------------------------------------------------------------------------------------------------------------------
 
 <br>
@@ -706,6 +721,12 @@ And what happened?  **That focus on *seeking suggestions* and acting on them hel
 9.	[Mental Health - Return to Work](https://www.ccohs.ca/oshanswers/psychosocial/mh/return_to_work.html)
 
 10.	[Mental health - Recognizing and Addressing Stigma at Work](https://www.ccohs.ca/oshanswers/psychosocial/mh/mentalhealth_stigma.html)
+
+<br/>
+
+**[`^        back to top        ^`](#awesome-psychological-safety)**
+
+<br/>
 
 •	Why is good communication an important skill?
 

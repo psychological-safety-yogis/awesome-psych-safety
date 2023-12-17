@@ -61,7 +61,7 @@ O|===|* >_____________/
 - [We're a family! (not)](https://github.com/psychological-safety-yogis/awesome-psych-safety#were-a-family)
 - [Podcasts](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#podcasts)
 - [Emotional Intelligence (EQ) assessments](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#emotional-intelligence-eq-assessments)
-- [Consulting Firm articles](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#consulting-firm-contributions)
+- [Consulting Firm articles](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#consulting-firm-articles)
 - [Goodreads Lists](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#goodreads-lists)
 - [Psych Safety Origins and Science from Flight Safety](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#psych-safety-origins-and-science-from-flight-safety)
   - [PDFs from Skybrary, "Bookshelf"](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#skybrary-bookshelf-pdfs)
@@ -766,6 +766,8 @@ And what happened?  **That focus on *seeking suggestions* and acting on them hel
 <br/>
 
 **[`^        back to top        ^`](#awesome-psychological-safety)**
+
+<br/>
 ----------------------------------------------------------------------------------------------------------------------------------
 
 <br>
@@ -779,6 +781,8 @@ And what happened?  **That focus on *seeking suggestions* and acting on them hel
 <br/>
 
 **[`^        back to top        ^`](#awesome-psychological-safety)**
+
+<br/>
 
 # SECTION B - Copy Pasta
 ------------------------------------------

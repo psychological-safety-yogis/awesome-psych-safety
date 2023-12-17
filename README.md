@@ -79,7 +79,7 @@ O|===|* >_____________/
 <br>
 
 ## What is Psychological Safety?
-“Psychological safety is a cornerstone for collaboration and risk-taking, essential elements for driving innovation and success in our rapidly evolving industry.” -Sundar Pichai (Alphabet/Google)
+“Psychological safety is a cornerstone for collaboration and risk-taking, essential elements for driving innovation and success in our rapidly evolving industry.” -Sundar Pichai (Alphabet/Google).
 
 **[`^        back to top        ^`](#awesome-psychological-safety)**
 
@@ -133,7 +133,7 @@ Remember, creating psychological safety is an ongoing process that requires comm
 
 ### Canadian Centre on Occupational Health and Safety guide 
 
-Similarly, Canada’s occupational safety agency has a great guide, not just for psychological safety (or psychosocial safety), but all safety factors
+Similarly, Canada’s occupational safety agency has a great guide, not just for psychological safety (or psychosocial safety), but all safety factors.
 
 [ccohs.ca/oshanswers/psychosocial/phs/mentalhealth_checklist_phs.html](https://www.ccohs.ca/oshanswers/psychosocial/phs/mentalhealth_checklist_phs.html)
 
@@ -174,7 +174,8 @@ UK-based Psychological Safety community, ready to field your questions and famil
 
 [Navy and Marine Corps Psychological and Emotional Well-being Psychological and Emotional Well Being (navy.mil)](https://www.med.navy.mil/Navy-and-Marine-Corps-Force-Health-Protection-Command/Population-Health/Health-Promotion-and-Wellness/Psychological-and-Emotional-Well-Being/)
 
-[Navy and Marine Corps Relaxation (navy.mil)](https://www.med.navy.mil/Navy-and-Marine-Corps-Force-Health-Protection-Command/Population-Health/Health-Promotion-and-Wellness/-RELAXATION/)
+
+[Relaxation (navy.mil)](https://www.med.navy.mil/Navy-and-Marine-Corps-Force-Health-Protection-Command/Population-Health/Health-Promotion-and-Wellness/-RELAXATION/)
 
 ### Other good ones
 
@@ -570,6 +571,7 @@ UK-based Psychological Safety community, ready to field your questions and famil
 ### Mental Health Fact Sheets
 
 [View all fact sheets A-Z](https://www.ccohs.ca/oshanswers/az.html)
+
 [Search fact sheets](https://www.ccohs.ca/search/?section=oshanswers)
 
 1.	[Mental Health - Active Listening]( https://www.ccohs.ca/oshanswers/psychosocial/mh/mentalhealth_activelistening.html)

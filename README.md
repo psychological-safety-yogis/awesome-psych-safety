@@ -67,7 +67,7 @@ O|===|* >_____________/
 - [Mental Health Awesome List (like this one! Bonus!)](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#bonus-awesome-mental-health-list):
   - [Awesome Mental Health](https://dreamingechoes.github.io/awesome-mental-health/#/)
   - [Source for their Github Pages / github.io page](https://github.com/dreamingechoes/awesome-mental-health)
-- [WORD CLOUD BABY](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#word-cloud-of-this-readme-page-less-a-few)
+- [WORD CLOUD BABY](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#word-cloud-of-this-readme-page-including-section-b-less-a-few)
 * #### [SECTION B - Copy Pasta](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#section-b---copy-pasta)
 - [Excerpts from Canada's Occupational Health](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#excerpts-from-ccoh)
   - [Fact sheets](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#mental-health-fact-sheets)

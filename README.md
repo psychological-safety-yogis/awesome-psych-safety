@@ -170,7 +170,7 @@ Remember, creating psychological safety is an ongoing process that requires comm
 
 <div align="center"> 
 
-### *sobs* 
+### **sobs* 
 </div>
 
 

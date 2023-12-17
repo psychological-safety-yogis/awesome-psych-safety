@@ -126,11 +126,6 @@ Remember, creating psychological safety is an ongoing process that requires comm
 
 # Cheat sheet, worst to best
 
-## Overview: 
-<br/>
-<div align="center"><img src="./images/4-sub-cultures.jpg"></div>
-<br/>
-
 ## Worst, secretive culture: 
 
 <br/>
@@ -153,6 +148,11 @@ Remember, creating psychological safety is an ongoing process that requires comm
 
 <br/>
 <div align="center"><img src="./images/just-culture.jpg"></div>
+<br/>
+
+## Overview: 
+<br/>
+<div align="center"><img src="./images/4-sub-cultures.jpg"></div>
 <br/>
 
 ## The Best Sources

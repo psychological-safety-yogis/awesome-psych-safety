@@ -122,7 +122,7 @@ Remember, creating psychological safety is an ongoing process that requires comm
 
 **[`^        back to top        ^`](#awesome-psychological-safety)**
 
-## Cheat sheet, worst to best
+# Cheat sheet, worst to best
 
 ## Overview: 
 <br/>

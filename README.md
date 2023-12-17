@@ -153,17 +153,21 @@ Remember, creating psychological safety is an ongoing process that requires comm
 <div align="center"><img src="./images/reporting.jpg"></div>
 <br/>
 
-# The winner: JUST culture, as in justice.  Dharma.  You get it . . . 
+# The winner: JUST culture, as in justice.  Dharma.  
+ . . . You get it . . . 
 *Read more on just as in justice culture in the [Skybrary files](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#skybrary-bookshelf-pdfs)*
 
 <br/>
 <div align="center"><img src="./images/just-culture.jpg"></div>
 <br/>
 
+<br/>
+<div align="center"><img src="./images/philly1.png"></div>
+
+<br/>
 # " . . . and it really is quite a thrill, when that happens." 
 * sobs *
 <br/>
-<div align="center"><img src="./images/philly1.png"></div>
 
 <div align="center"><img src="./images/philly2.png"></div>
 <br/>

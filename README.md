@@ -124,28 +124,26 @@ Remember, creating psychological safety is an ongoing process that requires comm
 
 ## Cheat sheet, worst to best
 
-Overview: 
-
+## Overview: 
+<br/>
 <div align="center"><img src="./images/4-sub-cultures.jpg"></div>
-
+<br/>
 ## Worst, secretive culture: 
-
-/br/
+<br/>
 <div align="center"><img src="./images/secretive.jpg"></div>
-/br/
+<br/>
 ## Second-worst, blame culture:
-/br/
+<br/>
 <div align="center"><img src="./images/blame.jpg"></div>
-/br/
+<br/>
 ## Second-best, reporting culture: 
-/br/
+<br/>
 <div align="center"><img src="./images/reporting.jpg"></div>
-/br/
+<br/>
 ## Best, just culture: 
-/br/
+<br/>
 <div align="center"><img src="./images/just-culture.jpg"></div>
-/br/
-
+<br/>
 
 ## The Best Sources
 

@@ -6,6 +6,18 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 })(window,document,'script','dataLayer','GTM-MJDXTXQD');</script>
 <!-- End Google Tag Manager -->
 
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-57P5473KYP"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-57P5473KYP');
+</script>
+
+
 <div align="center"><img src="./assets/head.jpg"></div>
 
 This page was built using [Github Pages](https://docs.github.com/en/pages/quickstart) and [Github Awesome](https://github.com/sindresorhus/awesome#readme), using [Awesome Data Science](https://awesome-datascience.academic.io/) as a [source](https://github.com/academic/awesome-datascience) template.  Our source repository is [here](https://github.com/psychological-safety-yogis/awesome-psych-safety).  

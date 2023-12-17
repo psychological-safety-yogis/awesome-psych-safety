@@ -160,18 +160,18 @@ Remember, creating psychological safety is an ongoing process that requires comm
 <div align="center"><img src="./images/just-culture.jpg"></div>
 <br/>
 
-## Overview: 
-<br/>
-<div align="center"><img src="./images/4-sub-cultures.jpg"></div>
-<br/>
-
-## Every now and again, not often, but occasionally, you get to be a part of justice being done
+# " . . . and it really is quite a thrill, when that happens." 
+* sobs *
 <br/>
 <div align="center"><img src="./images/philly1.png"></div>
 
 <div align="center"><img src="./images/philly2.png"></div>
 <br/>
 
+## Overview: 
+<br/>
+<div align="center"><img src="./images/4-sub-cultures.jpg"></div>
+<br/>
 
 ## The Best Sources
 

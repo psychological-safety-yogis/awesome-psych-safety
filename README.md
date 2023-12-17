@@ -264,19 +264,27 @@ UK-based Psychological Safety community, ready to field your questions and famil
 
 **[`^        back to top        ^`](#awesome-psychological-safety)**
 
-
-<div align="center"><img src="./images/company-wide-oneill.jpg"></div>
-
-<div align="center"><img src="./images/other-great-ideas.jpg"></div>
-
 ## Articles: 
 [psychsafety.co.uk/psychological-safety-books/](https://psychsafety.co.uk/psychological-safety-books/)
 
+[Lessons Learned from Alcoa: Establishing a Safety Culture to Improve Business Performance](https://orionrisk.com/lessons-learned-from-alcoa/)
+
+"Clear accountability. Anytime a worker was injured, the unit president had to report it to O’Neill within 24 hours and present a plan to ensure the injury never happened again. That meant that vice presidents had to be in constant communication with ﬂoor managers, and ﬂoor managers needed to get workers to raise warnings as soon as they saw a problem. Workers learned to keep a list of suggestions nearby so that when the vice presidents asked for a plan, there was an idea box already full of possible solutions. Any employee at any level had a channel for getting their ideas in front of the highest levels of leadership."
+
 [How Paul O’Neill Fought For Safety At Alcoa](https://davidburkus.com/2020/04/how-paul-oneill-fought-for-safety-at-alcoa/)
+
+"It wasn’t an overnight transformation, but Paul O’Neill’s internal fight against accidents—his fight for worker safety gradually changed the systems and the culture. Since prioritizing worker safety meant studying the production process, the improvements made also made the plants run more efficiently. Since monitoring and responding to accidents meant constantly communicating safety numbers and ideas for increasing safety, eventually executives began sharing other data and other ideas more rapidly as well."
 
 [The Power of Safety Leadership: Paul O’Neill, Safety and Alcoa](https://aerossurance.com/helicopters/paul-oneill-safety-alcoa-power-safety-leadership/)
 
+"Employees were told not to be afraid to suggest proactive maintenance. And O’Neill sent a note to every worker telling them call him at home if managers didn’t follow up on their safety suggestions.
+#### The Essence of Safety Leadership
+And what happened?  That focus on seeking suggestions and acting on them helped give permission not only for safety improvements but a whole range of continuous improvements (observation, identification, analysis and action) across all aspects of their operations: 
+'Workers started calling, but they didn’t want to talk about accidents,' O’Neill told me. 'They wanted to talk about all these other great ideas.'"
+
 [workclout.com/blog/how-alcoa-quintupled-their-revenue-by-focusing-on-worker-safety](https://www.workclout.com/blog/how-alcoa-quintupled-their-revenue-by-focusing-on-worker-safety)
+
+[Alcoa's Paul O'Neill Relied On Analysis And Safety To Boost His Company To The Forefront](https://www.investors.com/news/management/leaders-and-success/alcoas-paul-oneill-relied-on-analysis-and-safety-to-boost-his-company-to-the-forefront/)
 
 [gallup.com/workplace/236198/create-culture-psychological-safety.aspx](https://www.gallup.com/workplace/236198/create-culture-psychological-safety.aspx)
 

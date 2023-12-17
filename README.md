@@ -189,10 +189,7 @@ Remember, creating psychological safety is an ongoing process that requires comm
 
 <br/>
 
-### <div align="center"> 
-
-### **sobs* 
-### </div>
+### **sobs*
 
 
 <br/>

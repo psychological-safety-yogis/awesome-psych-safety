@@ -165,8 +165,11 @@ Remember, creating psychological safety is an ongoing process that requires comm
 <div align="center"><img src="./images/philly1.png"></div>
 
 <br/>
+
 # " . . . and it really is quite a thrill, when that happens." 
-* sobs *
+
+*sobs*
+
 <br/>
 
 <div align="center"><img src="./images/philly2.png"></div>

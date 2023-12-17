@@ -128,21 +128,24 @@ Overview:
 
 <div align="center"><img src="./images/4-sub-cultures.jpg"></div>
 
-### Worst, secretive culture: 
+## Worst, secretive culture: 
 
+/br/
 <div align="center"><img src="./images/secretive.jpg"></div>
-
-### Second-worst, blame culture:
-
+/br/
+## Second-worst, blame culture:
+/br/
 <div align="center"><img src="./images/blame.jpg"></div>
-
-### Second-best, reporting culture: 
-
+/br/
+## Second-best, reporting culture: 
+/br/
 <div align="center"><img src="./images/reporting.jpg"></div>
-
-### Best, just culture: 
-
+/br/
+## Best, just culture: 
+/br/
 <div align="center"><img src="./images/just-culture.jpg"></div>
+/br/
+
 
 ## The Best Sources
 
@@ -269,18 +272,20 @@ UK-based Psychological Safety community, ready to field your questions and famil
 
 [Lessons Learned from Alcoa: Establishing a Safety Culture to Improve Business Performance](https://orionrisk.com/lessons-learned-from-alcoa/)
 
-"Clear accountability. Anytime a worker was injured, the unit president had to report it to O’Neill within 24 hours and present a plan to ensure the injury never happened again. That meant that vice presidents had to be in constant communication with ﬂoor managers, and ﬂoor managers needed to get workers to raise warnings as soon as they saw a problem. Workers learned to keep a list of suggestions nearby so that when the vice presidents asked for a plan, there was an idea box already full of possible solutions. Any employee at any level had a channel for getting their ideas in front of the highest levels of leadership."
+"Clear accountability. Anytime a worker was injured, the unit president had to report it to O’Neill within 24 hours and present a plan to ensure the injury never happened again. **That meant that vice presidents had to be in constant communication with ﬂoor managers,** and ﬂoor managers needed to get workers to raise warnings as soon as they saw a problem. **Workers learned to keep a list of suggestions nearby so that when the vice presidents asked for a plan, there was an idea box already full of possible solutions. Any employee at any level had a channel for getting their ideas in front of the highest levels of leadership."**
 
 [How Paul O’Neill Fought For Safety At Alcoa](https://davidburkus.com/2020/04/how-paul-oneill-fought-for-safety-at-alcoa/)
 
-"It wasn’t an overnight transformation, but Paul O’Neill’s internal fight against accidents—his fight for worker safety gradually changed the systems and the culture. Since prioritizing worker safety meant studying the production process, the improvements made also made the plants run more efficiently. Since monitoring and responding to accidents meant constantly communicating safety numbers and ideas for increasing safety, eventually executives began sharing other data and other ideas more rapidly as well."
+"It wasn’t an overnight transformation, but Paul O’Neill’s internal fight against accidents—his fight for worker safety gradually changed the systems and the culture. **Since prioritizing worker safety meant studying the production process, the improvements made also made the plants run more efficiently.** Since monitoring and responding to accidents meant constantly communicating safety numbers and ideas for increasing safety, **eventually executives began sharing other data and other ideas more rapidly as well."**
 
 [The Power of Safety Leadership: Paul O’Neill, Safety and Alcoa](https://aerossurance.com/helicopters/paul-oneill-safety-alcoa-power-safety-leadership/)
 
-"Employees were told not to be afraid to suggest proactive maintenance. And O’Neill sent a note to every worker telling them call him at home if managers didn’t follow up on their safety suggestions.
+"Employees were told not to be afraid to suggest proactive maintenance. And **O’Neill sent a note to every worker telling them call him at home if managers didn’t follow up on their safety suggestions.**
+
 #### The Essence of Safety Leadership
-And what happened?  That focus on seeking suggestions and acting on them helped give permission not only for safety improvements but a whole range of continuous improvements (observation, identification, analysis and action) across all aspects of their operations: 
-'Workers started calling, but they didn’t want to talk about accidents,' O’Neill told me. 'They wanted to talk about all these other great ideas.'"
+
+And what happened?  **That focus on *seeking suggestions* and acting on them helped give permission not only for safety improvements but a whole range of continuous improvements (observation, identification, analysis and action) across all aspects of their operations: 
+'Workers started calling, but they didn’t want to talk about accidents,' O’Neill told me. *'They wanted to talk about all these other great ideas.*'"**
 
 [workclout.com/blog/how-alcoa-quintupled-their-revenue-by-focusing-on-worker-safety](https://www.workclout.com/blog/how-alcoa-quintupled-their-revenue-by-focusing-on-worker-safety)
 

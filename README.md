@@ -50,14 +50,14 @@ O|===|* >_____________/
   - [Other good ones](https://github.com/psychological-safety-yogis/awesome-psych-safety/tree/live#other-good-ones)
 - [Quotes from key leaders](https://github.com/psychological-safety-yogis/awesome-psych-safety/tree/live#quotes-from-key-business-leaders)
 - [Cheat sheet, best to worst](https://psychological-safety-yogis.github.io/awesome-psych-safety/#cheat-sheet-worst-to-best)
-- [WORD CLOUD BABY](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#word-cloud-of-this-readme-page-less-a-few)
 - [Every now and again, not often, but occasionally, you get to be a part of justice being done](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#what-do-you-love-most-about-the-law)
-- [We're a family! (not)](https://github.com/psychological-safety-yogis/awesome-psych-safety#were-a-family)
+- [WORD CLOUD BABY](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#word-cloud-of-this-readme-page-less-a-few)
 - [Videos](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#videos)
 - [Articles, webpages, etc.](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#articles)
 - [Academic sources](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#academic-sources)
 - [O'Reilly Learning videos, playlists, books. Free through Mil OneSource, MWR Digital Libraries](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#oreilly-learning-videos-playlists-books-free-through-mil-onesource-mwr-digital-libraries)
 - [HBR / HBS (Harvard)](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#hbr--hbs-harvard)
+- [We're a family! (not)](https://github.com/psychological-safety-yogis/awesome-psych-safety#were-a-family)
 - [Podcasts](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#podcasts)
 - [Emotional Intelligence (EQ) assessments](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#emotional-intelligence-eq-assessments)
 - [Consulting Firm articles](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#consulting-firm-contributions)
@@ -82,9 +82,11 @@ O|===|* >_____________/
 - [The Gitlab Handbook](https://handbook.gitlab.com/)
   - [Leadership Table of Contents](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#gitlab-leadership-toc)
 
+<br/>
 
 <div align="center"><img src="./images/safety and danger.jpg"></div>
 
+<br/>
 
 **[`^        back to top        ^`](#awesome-psychological-safety)**
 
@@ -102,6 +104,8 @@ O|===|* >_____________/
 | Something broken? | [Create issue](https://github.com/psychological-safety-yogis/awesome-psych-safety/issues) |
 | Grow the Psych Safety Wiki here | [Wiki](https://github.com/psychological-safety-yogis/awesome-psych-safety/wiki) |
 | Love Psychological Safety as much as we do? | [Sponsor us!](https://github.com/sponsors/psychological-safety-yogis) | 
+
+<br/>
 
 **[`^        back to top        ^`](#awesome-psychological-safety)**
 
@@ -149,6 +153,8 @@ Encourage Open Communication. Active listening, non-judgmental feedback, and res
 Foster Inclusivity. Encourage cognitive diversity as a driving factor for innovation. Create a workplace that celebrates and embraces cognitive differences, where everyone feels capable of sharing their ideas. Train employees to recognize and mitigate cognitive biases that can hinder critical thinking and data processing.
 Continuously Improve. Create an environment where it's acceptable to make mistakes and learn from them. Regularly evaluate policies and practices to ensure that they support psychological safety, making changes when necessary.
 Remember, creating psychological safety is an ongoing process that requires commitment from employers and employees alike. To foster a workplace culture that values psychological safety, promotes well-being, and drives business success is an intentional act of leadership."
+
+<br/>
 
 **[`^        back to top        ^`](#awesome-psychological-safety)**
 
@@ -247,7 +253,7 @@ UK-based Psychological Safety community, ready to field your questions and famil
 
 <br/>
 
-# Cheat sheet, worst to best
+# Cheat sheet, worst to best cultures
 
 ## Worst, secretive culture: 
 
@@ -259,6 +265,12 @@ UK-based Psychological Safety community, ready to field your questions and famil
 
 <br/>
 <div align="center"><img src="./images/blame.jpg"></div>
+<br/>
+
+<br/>
+
+**[`^        back to top        ^`](#awesome-psychological-safety)**
+
 <br/>
 
 ## Second-best, reporting culture: 
@@ -311,11 +323,9 @@ UK-based Psychological Safety community, ready to field your questions and famil
 <div align="center"><img src="./images/word-cloud.jpg"></div>
 <br/>
 
-
 **[`^        back to top        ^`](#awesome-psychological-safety)**
 
 ## Videos: 
-
 
 | Title | Link |
 | ------ | ----- |
@@ -339,6 +349,7 @@ UK-based Psychological Safety community, ready to field your questions and famil
 | How does psychological safety impact performance? | [youtube.com/watch?v=2630mnn3U5Y](https://www.youtube.com/watch?v=2630mnn3U5Y) |
 | The Neuroscience of Psychological Safety | [youtube.com/watch?v=ugQuuHoI-zw](https://www.youtube.com/watch?v=ugQuuHoI-zw) |
 
+<br/>
 
 **[`^        back to top        ^`](#awesome-psychological-safety)**
 
@@ -396,6 +407,8 @@ And what happened?  **That focus on *seeking suggestions* and acting on them hel
 
 [sciencedirect.com/science/article/abs/pii/S1053482217300013](https://www.sciencedirect.com/science/article/abs/pii/S1053482217300013)
 
+<br/>
+
 **[`^        back to top        ^`](#awesome-psychological-safety)**
 
 ## Academic Sources
@@ -414,6 +427,8 @@ And what happened?  **That focus on *seeking suggestions* and acting on them hel
 [The interactive effects of conscientiousness, work effort, and psychological climate on job performance - ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S000187910400096X)
 
 [research-collection.ethz.ch/bitstream/handle/20.500.11850/385339/Dissertation_SonjaFoerster_2019.pdf](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/385339/Dissertation_SonjaFoerster_2019.pdf)
+
+<br/>
 
 **[`^        back to top        ^`](#awesome-psychological-safety)**
 
@@ -448,9 +463,13 @@ And what happened?  **That focus on *seeking suggestions* and acting on them hel
 
 [The People Equation by Deborah Perry Piscione, David Crawley](https://learning.oreilly.com/library/view/the-people-equation/9781626566439/)
 
+<br/>
+
 **[`^        back to top        ^`](#awesome-psychological-safety)**
 
-## HBR / HBS (Harvard)
+<br/>
+
+## Harvard Business Review
 [hbr.org/2023/02/what-is-psychological-safety](https://hbr.org/2023/02/what-is-psychological-safety )
 
 [4 Steps to Boost Psychological Safety at Your Workplace (hbr.org)](https://hbr.org/2021/06/4-steps-to-boost-psychological-safety-at-your-workplace)
@@ -463,15 +482,24 @@ And what happened?  **That focus on *seeking suggestions* and acting on them hel
 
 [hbr.org/2018/04/the-two-traits-of-the-best-problem-solving-teams](https://hbr.org/2018/04/the-two-traits-of-the-best-problem-solving-teams)
 
-[hbswk.hbs.edu/item/four-steps-to-build-the-psychological-safety-that-high-performing-teams-need-today](https://hbswk.hbs.edu/item/four-steps-to-build-the-psychological-safety-that-high-performing-teams-need-today)
-
 [hbr.org/2022/03/research-to-excel-diverse-teams-need-psychological-safety](https://hbr.org/2022/03/research-to-excel-diverse-teams-need-psychological-safety)
 
+[hbswk.hbs.edu/item/four-steps-to-build-the-psychological-safety-that-high-performing-teams-need-today](https://hbswk.hbs.edu/item/four-steps-to-build-the-psychological-safety-that-high-performing-teams-need-today)
+
+<br/>
+
+**[`^        back to top        ^`](#awesome-psychological-safety)**
+
+<br/>
 
 ## "We're a family!"
 
 <br/>
 <div align="center"><img src="./images/family.png"></div>
+<br/>
+
+## Harvard Business School articles
+
 <br/>
 
 | Link | Description |
@@ -499,6 +527,8 @@ And what happened?  **That focus on *seeking suggestions* and acting on them hel
 | [hbs.edu/faculty/Pages/item.aspx?num=36470](https://www.hbs.edu/faculty/Pages/item.aspx?num=36470) | Varied Experience, Team Familiarity, and Learning: The Mediating Role of Psychological Safety |
 | [hbs.edu/faculty/Pages/item.aspx?num=22109](https://www.hbs.edu/faculty/Pages/item.aspx?num=22109) | Workplace Safety at Alcoa (A) |
 
+<br/>
+
 **[`^        back to top        ^`](#awesome-psychological-safety)**
 
 ## Podcasts: 
@@ -508,9 +538,13 @@ And what happened?  **That focus on *seeking suggestions* and acting on them hel
 
 [hbr.org/podcast/2021/12/psychological-safety-in-theory-and-in-practice](https://hbr.org/podcast/2021/12/psychological-safety-in-theory-and-in-practice)
 
+<br/>
+
 **[`^        back to top        ^`](#awesome-psychological-safety)**
 
 <div align="center"><img src="./images/EQ circle.png"></div>
+
+<br/>
 
 ## Emotional intelligence (EQ) assessments
 [Color Code Personality Test](https://www.colorcode.com/free_personality_test/?timestamp=1588009250.89&hash=667424d7d32a031b41b6896af6ab1ad7)
@@ -525,13 +559,15 @@ And what happened?  **That focus on *seeking suggestions* and acting on them hel
 
 [Growth versus Fixed Mindset Assessment]( https://blog.mindsetworks.com/what-s-my-mindset)
 
-**[`^        back to top        ^`](#awesome-psychological-safety)**
+<br/>
 
+**[`^        back to top        ^`](#awesome-psychological-safety)**
 
 <div align="center"><img src="./images/Loyalty-and-corruption.png"></div>
 
-## Consulting Firm articles: 
+<br/>
 
+## Consulting Firm articles: 
 
 [mckinsey.com/featured-insights/mckinsey-explainers/what-is-psychological-safety](https://www.mckinsey.com/featured-insights/mckinsey-explainers/what-is-psychological-safety)
 
@@ -553,10 +589,14 @@ And what happened?  **That focus on *seeking suggestions* and acting on them hel
 
 [forum.org.nz/assets/Factsheet-Psychological-safety-at-work-final.pdf](https://www.forum.org.nz/assets/Factsheet-Psychological-safety-at-work-final.pdf)
 
+<br/>
+
 **[`^        back to top        ^`](#awesome-psychological-safety)**
 
 
 <div align="center"><img src="./images/Fraud.png"></div>
+
+<br/>
 
 ## Goodreads Lists
 [goodreads.com/list/show/146945.Best_Leadership_Books_Nonprofits_Religious](https://www.goodreads.com/list/show/146945.Best_Leadership_Books_Nonprofits_Religious_)
@@ -572,6 +612,8 @@ And what happened?  **That focus on *seeking suggestions* and acting on them hel
 [goodreads.com/list/show/128460.psychology_the_power_of_the_mind](https://www.goodreads.com/list/show/128460.psychology_the_power_of_the_mind)
 
 [goodreads.com/list/show/143532.Healthcare_Reading_](https://www.goodreads.com/list/show/143532.Healthcare_Reading_)
+
+<br/>
 
 **[`^        back to top        ^`](#awesome-psychological-safety)**
 
@@ -662,6 +704,8 @@ And what happened?  **That focus on *seeking suggestions* and acting on them hel
 
 [skybrary.aero/articles/stress-air-traffic-control](https://skybrary.aero/articles/stress-air-traffic-control)
 
+<br/>
+
 **[`^        back to top        ^`](#awesome-psychological-safety)**
 
 ## Skybrary Bookshelf (PDFs)
@@ -681,17 +725,22 @@ And what happened?  **That focus on *seeking suggestions* and acting on them hel
 | Do You Have a Safety Culture? | [skybrary.aero/sites/default/files/bookshelf/234.pdf](https://www.skybrary.aero/sites/default/files/bookshelf/234.pdf) |
 | A Roadmap to a Just Culture: Enhancing the Safety Environment | [skybrary.aero/sites/default/files/bookshelf/233.pdf](https://www.skybrary.aero/sites/default/files/bookshelf/233.pdf) |
 
+<br/>
+
 **[`^        back to top        ^`](#awesome-psychological-safety)**
 
 ## Bonus Awesome Mental Health List:
   - [Awesome Mental Health](https://dreamingechoes.github.io/awesome-mental-health/#/)
   - [Source for their Github Pages / github.io page](https://github.com/dreamingechoes/awesome-mental-health/#/)
 
+<br/>
 
 **[`^        back to top        ^`](#awesome-psychological-safety)**
 ----------------------------------------------------------------------------------------------------------------------------------
 
 <br>
+
+<br/>
 
 # SECTION B - Copy Pasta
 ------------------------------------------

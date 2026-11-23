@@ -587,6 +587,8 @@ And what happened?  **That focus on *seeking suggestions* and acting on them hel
 
 [Psychology Today EQ Test](https://www.psychologytoday.com/us/tests/personality/emotional-intelligence-test)
 
+[FermatMind public EQ sample report](https://fermatmind.com/en/reports/samples/eq) - Illustrative four-dimension self-report with score-reading notes and conversation practice; for reflection, not diagnosis or hiring.
+
 [Growth versus Fixed Mindset Assessment]( https://blog.mindsetworks.com/what-s-my-mindset)
 
 <br/>
